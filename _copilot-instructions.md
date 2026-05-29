@@ -105,6 +105,28 @@ These files contain the GM's personal notes — always check them for context:
 - Mark ideas as `Used: ✅` after they're acted on
 - Mark to-dos as done when completed
 
+## Repository & Access
+
+This campaign system lives in a **private GitHub repo**:
+- **Repo:** https://github.com/mrollins-games/stonetop-campaign
+- **Branch:** `master`
+- **Owner:** mrollins-games (Matt Rollins, GM)
+
+### For Copilot CLI (read/write access)
+The local clone is at `C:\Users\v-mrollins\stonetop-campaign\`.
+After making changes, commit and push:
+```bash
+git add -A && git commit -m "description" && git push
+```
+
+### For Copilot Studio Agent (read-only access)
+The agent uses this repo as a Knowledge source. It can answer questions about canon, rules, and lore but **cannot write changes back**. All canon updates must go through Copilot CLI or direct git commits.
+
+### Sync Protocol
+- **Before working:** `git pull` to get latest canon
+- **After changes:** Commit with a clear message describing what was updated (e.g., "Update NPCs from session 3 transcript")
+- **Conflict resolution:** Canon files are authoritative — if merge conflicts occur, prefer the more recent session's information
+
 ## File Structure Overview
 ```
 stonetop-campaign/
