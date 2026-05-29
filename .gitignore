@@ -1,0 +1,10 @@
+# Archived/deprecated tools
+_archive/
+
+# Node artifacts
+node_modules/
+.env
+
+# Temp files
+*.tmp
+~$*
