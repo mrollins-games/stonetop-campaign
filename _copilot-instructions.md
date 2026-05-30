@@ -145,6 +145,14 @@ stonetop-campaign/
 ├── skills/                      ← Structured prompt workflows
 │   ├── _skills-overview.md      ← Skill system docs
 │   └── [skill-name].md          ← Individual skill procedures
+├── assets/                      ← Visual assets & media
+│   └── art/                     ← Extracted PDF art (tagged, indexed)
+│       ├── _art-index.md        ← START HERE — full catalog with tags
+│       ├── maps/                ← Village, vicinity, world maps
+│       ├── scenes/              ← Book I art, steading, chapter openers
+│       ├── characters/          ← Playbook class art (front/back)
+│       ├── items/               ← Gear, equipment, trade illustrations
+│       └── decorative/          ← Borders, dividers, flourishes
 └── reference/                   ← Rules & lore reference library
     ├── indexes/                 ← START HERE for lookups
     │   ├── _lookup-guide.md     ← How to find things
@@ -158,3 +166,23 @@ stonetop-campaign/
     ├── moves-cheatsheet.md
     └── names-list.md
 ```
+
+## Art & Visual Assets
+
+Pre-extracted art from game PDFs lives in `assets/art/`. The full catalog is in `assets/art/_art-index.md`.
+
+### How to Use
+- **Finding art:** Check `_art-index.md` for tagged entries. Search by tag (e.g., `map`, `forest`, `danger`, `playbook`).
+- **Generating new art:** Read `assets/art/style-guide.md` FIRST — it defines canonical style + physical features to prevent off-canon depictions (e.g., no mason homes, correct Stone shape, proper geography).
+- **Slide decks:** The Slide → Art Mapping table in the index shows which art goes on which session-zero slide.
+- **Fonts:** Headings = "Avara Bold" (or substitute: Josefin Slab Bold). Body = "IM Fell English" (Google Fonts, free).
+- **Background color:** Off-white parchment `#F5F0E8`
+
+### Categories
+| Folder | Contents | Count |
+|--------|----------|-------|
+| `maps/` | Village, vicinity, world, Great Wood maps | 8 files |
+| `scenes/` | Chapter art, atmosphere, village life, steading pages | 24 files |
+| `characters/` | Playbook front/back pages (class art + moves) | 18 files |
+| `items/` | Gear, equipment, trade illustrations | 2 files |
+| `decorative/` | Borders, dividers (to be populated) | — |

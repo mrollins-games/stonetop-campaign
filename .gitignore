@@ -8,3 +8,13 @@ node_modules/
 # Temp files
 *.tmp
 ~$*
+
+# Large extracted art (regenerate with mupdf from source PDFs)
+assets/art/maps/*.png
+assets/art/scenes/*.png
+assets/art/characters/*.png
+assets/art/items/*.png
+assets/art/decorative/*.png
+
+# Generated deck (rebuild with: node sessions/build-deck.js)
+sessions/session-zero-deck.pptx

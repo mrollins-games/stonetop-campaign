@@ -9,6 +9,8 @@
 - [Timeline](world/timeline.md)
 - [Locations Index](world/locations/_location-index.md)
 - [Discoveries & Arcana](world/discoveries/arcana.md)
+- [Art & Visual Assets](assets/art/_art-index.md)
+- [Rules Lookup](reference/indexes/_lookup-guide.md)
 
 ## Sessions
 | # | Date Played | In-Game Season | Key Events |
