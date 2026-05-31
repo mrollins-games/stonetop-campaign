@@ -6,8 +6,8 @@ const pres = new pptxgen();
 
 // Design constants
 const BG_COLOR = 'F5F0E8';
-const HEADING_FONT = 'Georgia';
-const BODY_FONT = 'Georgia';
+const HEADING_FONT = 'Avara';
+const BODY_FONT = 'IM FELL English Roman';
 const ACCENT_COLOR = '2D4A3E';
 const TEXT_COLOR = '1A1A1A';
 
@@ -70,7 +70,7 @@ const principles = [
   "Give others a chance to shine. Don\u2019t hog the spotlight. Set others up for greatness!",
   'Participate in the conversation. Pay attention, ask questions, offer suggestions.'
 ];
-const princText = principles.map((p, i) => (i+1) + '. ' + p).join('\n');
+const princText = principles.map(p => '\u2022 ' + p).join('\n');
 slide.addText(princText, { x: 0.5, y: 1.3, w: 12, h: 5.8, fontSize: 13, fontFace: BODY_FONT, color: TEXT_COLOR, valign: 'top', lineSpacingMultiple: 1.4 });
 
 console.log('Slides 1-6 done');
@@ -81,24 +81,53 @@ slide.background = { color: BG_COLOR };
 if (imgExists('./assets/art/scenes/booki-playing-game-opener.png')) {
   slide.addImage({ path: './assets/art/scenes/booki-playing-game-opener.png', x: 8.5, y: 0, w: 5, h: 7.5, sizing: { type: 'cover' }, transparency: 60 });
 }
-slide.addText('Conflict Resolution', { x: 0.5, y: 0.3, w: 8, h: 0.8, fontSize: 28, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
-slide.addText('Roll 2d6 + Modifier', { x: 0.5, y: 1.3, w: 7, h: 0.6, fontSize: 20, fontFace: HEADING_FONT, color: TEXT_COLOR });
-slide.addText("10+  Strong Hit \u2014 full success, you nailed it\n\n7-9   Weak Hit \u2014 success with a cost, complication, or hard choice\n\n6-     Miss \u2014 the GM makes a move (not just \u201Cyou fail\u201D)\n\n\nAdvantage: roll 3d6, keep best 2\nDisadvantage: roll 3d6, keep worst 2\nThey cancel each other out.", { x: 0.5, y: 2.2, w: 7.5, h: 4.5, fontSize: 15, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.3 });
+slide.addText('Conflict Resolution', { x: 0.5, y: 0.2, w: 8, h: 0.7, fontSize: 28, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
+slide.addText('Roll 2d6 + Stat Modifier (-1 to +3)', { x: 0.5, y: 0.95, w: 7, h: 0.5, fontSize: 18, fontFace: HEADING_FONT, color: TEXT_COLOR });
+// Result tiers
+slide.addText('10+', { x: 0.5, y: 1.6, w: 0.7, h: 0.5, fontSize: 18, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
+slide.addText('Strong Hit \u2014 full success, you get what you wanted', { x: 1.3, y: 1.6, w: 6.5, h: 0.5, fontSize: 13, fontFace: BODY_FONT, color: TEXT_COLOR });
+slide.addText('7\u20139', { x: 0.5, y: 2.2, w: 0.7, h: 0.5, fontSize: 18, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
+slide.addText('Success with Complications \u2014 you succeed, but there\u2019s a cost, a hard choice, or a consequence. This is where the best fiction happens.', { x: 1.3, y: 2.2, w: 6.5, h: 0.7, fontSize: 13, fontFace: BODY_FONT, color: TEXT_COLOR });
+slide.addText('6\u2212', { x: 0.5, y: 3.0, w: 0.7, h: 0.5, fontSize: 18, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
+slide.addText('Miss \u2014 mark XP. The GM makes a move. This is NOT just \u201Cyou failed.\u201D Something bad happens \u2014 possibly worse than failure, possibly unrelated. The fiction moves forward dangerously.', { x: 1.3, y: 3.0, w: 6.5, h: 0.8, fontSize: 13, fontFace: BODY_FONT, color: TEXT_COLOR });
+// Key philosophy
+slide.addText('How This Changes Everything:', { x: 0.5, y: 4.0, w: 7, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
+slide.addText('\u2022 The GM almost never rolls dice\n\u2022 Monsters don\u2019t take turns \u2014 their actions ARE the consequences of your rolls\n\u2022 On 10+, the enemy can\u2019t touch you. On 7\u20139, it gets a piece of you. On 6\u2212, it acts before/despite you.\n\u2022 Every roll moves the story forward \u2014 no wasted turns\n\u2022 Fiction first: describe what you do, then we see if it triggers a move', { x: 0.5, y: 4.4, w: 7.5, h: 2.2, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.4 });
+// Advantage/disadvantage footer
+slide.addText('Advantage: 3d6 keep best 2  |  Disadvantage: 3d6 keep worst 2  |  They cancel out', { x: 0.5, y: 6.8, w: 8, h: 0.4, fontSize: 11, fontFace: BODY_FONT, color: '666666', italic: true });
 
-// ======= SLIDE 8: Moves =======
+// ======= SLIDE 8: Moves (puzzle-column layout) =======
 slide = pres.addSlide();
 slide.background = { color: BG_COLOR };
-slide.addText('Moves', { x: 0.5, y: 0.3, w: 12, h: 0.7, fontSize: 28, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
-const movesRows = [
-  [{ text: 'Category', options: { bold: true } }, { text: 'Moves', options: { bold: true } }],
-  [{ text: 'Basic' }, { text: 'Aid, Clash, Defend, Defy Danger, Interfere, Know Things, Let Fly, Persuade, Seek Insight' }],
-  [{ text: 'Special' }, { text: "Advantage/Disadvantage, Burn Brightly, End of Session, Death\u2019s Door" }],
-  [{ text: 'Expedition' }, { text: 'Chart a Course, Outfit, Requisition, Have What You Need, Recover, Struggle as One, Keep Company, Make Camp, Return Triumphant' }],
-  [{ text: 'Homefront' }, { text: 'Bolster, Convalesce, Deploy, Level Up, Make a Plan, Meet with Disaster, Muster, Pull Together, Seasons Change, Trade & Barter' }],
-  [{ text: 'Follower' }, { text: 'Order Followers, Strengthen Your Bond' }],
-  [{ text: 'Playbook' }, { text: 'Unique to each class \u2014 gained at creation and on level-up' }]
-];
-slide.addTable(movesRows, { x: 0.5, y: 1.1, w: 12, h: 5.5, fontSize: 11, fontFace: BODY_FONT, color: TEXT_COLOR, border: { color: 'CCCCCC', pt: 0.5 }, colW: [1.8, 10.2] });
+slide.addText('Moves', { x: 0.5, y: 0.2, w: 12, h: 0.6, fontSize: 28, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
+slide.addText('You describe what you do. If it triggers a move, we roll.', { x: 0.5, y: 0.75, w: 10, h: 0.35, fontSize: 12, fontFace: BODY_FONT, color: '666666', italic: true });
+
+// Column 1: Basic (tallest - 9 moves)
+slide.addText('Basic', { x: 0.4, y: 1.2, w: 2.4, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR, align: 'center' });
+slide.addText('\u2022 Aid\n\u2022 Clash\n\u2022 Defend\n\u2022 Defy Danger\n\u2022 Interfere\n\u2022 Know Things\n\u2022 Let Fly\n\u2022 Persuade\n\u2022 Seek Insight', { x: 0.4, y: 1.6, w: 2.4, h: 4.2, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.5, valign: 'top' });
+
+// Column 2: Expedition (9 moves)
+slide.addText('Expedition', { x: 2.9, y: 1.2, w: 2.6, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR, align: 'center' });
+slide.addText('\u2022 Chart a Course\n\u2022 Outfit\n\u2022 Requisition\n\u2022 Have What You Need\n\u2022 Recover\n\u2022 Struggle as One\n\u2022 Keep Company\n\u2022 Make Camp\n\u2022 Return Triumphant', { x: 2.9, y: 1.6, w: 2.6, h: 4.2, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.5, valign: 'top' });
+
+// Column 3: Homefront (10 moves - tallest)
+slide.addText('Homefront', { x: 5.6, y: 1.2, w: 2.6, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR, align: 'center' });
+slide.addText('\u2022 Bolster\n\u2022 Convalesce\n\u2022 Deploy\n\u2022 Level Up\n\u2022 Make a Plan\n\u2022 Meet with Disaster\n\u2022 Muster\n\u2022 Pull Together\n\u2022 Seasons Change\n\u2022 Trade & Barter', { x: 5.6, y: 1.6, w: 2.6, h: 4.7, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.5, valign: 'top' });
+
+// Column 4 top: Special (4 moves - short)
+slide.addText('Special', { x: 8.3, y: 1.2, w: 2.3, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR, align: 'center' });
+slide.addText('\u2022 Advantage/Disadv.\n\u2022 Burn Brightly\n\u2022 End of Session\n\u2022 Death\u2019s Door', { x: 8.3, y: 1.6, w: 2.3, h: 2.0, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.5, valign: 'top' });
+
+// Column 4 bottom: Follower (2 moves - shortest)
+slide.addText('Follower', { x: 8.3, y: 3.9, w: 2.3, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR, align: 'center' });
+slide.addText('\u2022 Order Followers\n\u2022 Strengthen Bond', { x: 8.3, y: 4.3, w: 2.3, h: 1.2, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.5, valign: 'top' });
+
+// Column 5: Playbook (right edge, info box)
+slide.addText('Playbook', { x: 10.7, y: 1.2, w: 2.3, h: 0.4, fontSize: 14, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR, align: 'center' });
+slide.addText('\u2022 Unique to each class\n\u2022 Gained at creation\n\u2022 More on level-up\n\u2022 See your playbook sheet', { x: 10.7, y: 1.6, w: 2.3, h: 2.2, fontSize: 12, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.5, valign: 'top' });
+
+// Footer note
+slide.addText('If you\u2019re not sure if something triggers a move, just describe what you do. I\u2019ll tell you.', { x: 0.5, y: 6.8, w: 12, h: 0.4, fontSize: 11, fontFace: BODY_FONT, color: '666666', italic: true, align: 'center' });
 
 // ======= SLIDE 9: Gear & Inventory =======
 slide = pres.addSlide();
@@ -107,7 +136,7 @@ if (imgExists('./assets/art/scenes/booki-gear-equipment.png')) {
   slide.addImage({ path: './assets/art/scenes/booki-gear-equipment.png', x: 8.5, y: 0, w: 5, h: 7.5, sizing: { type: 'cover' }, transparency: 60 });
 }
 slide.addText('Gear & Quantum Inventory', { x: 0.5, y: 0.3, w: 8, h: 0.8, fontSize: 28, fontFace: HEADING_FONT, bold: true, color: ACCENT_COLOR });
-slide.addText("Load Levels:\n  Light (3 slots) \u2014 quick and quiet\n  Normal (4-6 slots)\n  Heavy (7-9 slots) \u2014 noisy, slow, tiring\n\nItems cost \u25C6 or \u25C6\u25C6 load slots\nMark them as you USE them, not before\n\nHave What You Need:\n\u201CI reach into my pack and pull out rope.\u201D\nYou had rope. Mark a slot.\n\nSupplies: 4+Prosperity uses per \u25C6\nSmall items: don\u2019t count against load\nProvisions: foraged food (spoils)", { x: 0.5, y: 1.3, w: 7.5, h: 5.5, fontSize: 13, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.3 });
+slide.addText("Load Levels:\n\u2022 Light (3 slots) \u2014 quick and quiet\n\u2022 Normal (4-6 slots)\n\u2022 Heavy (7-9 slots) \u2014 noisy, slow, tiring\n\nItems cost \u25C6 or \u25C6\u25C6 load slots\nMark them as you USE them, not before\n\nHave What You Need:\n\u201CI reach into my pack and pull out rope.\u201D\nYou had rope. Mark a slot.\n\n\u2022 Supplies: 4+Prosperity uses per \u25C6\n\u2022 Small items: don\u2019t count against load\n\u2022 Provisions: foraged food (spoils)", { x: 0.5, y: 1.3, w: 7.5, h: 5.5, fontSize: 13, fontFace: BODY_FONT, color: TEXT_COLOR, lineSpacingMultiple: 1.3 });
 
 // ======= SLIDE 10: Tags =======
 slide = pres.addSlide();

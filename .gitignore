@@ -16,5 +16,5 @@ assets/art/characters/*.png
 assets/art/items/*.png
 assets/art/decorative/*.png
 
-# Generated deck (rebuild with: node sessions/build-deck.js)
-sessions/session-zero-deck.pptx
+# Generated PDF export
+sessions/session-zero-deck.pdf

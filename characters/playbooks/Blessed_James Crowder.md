@@ -1,9 +1,8 @@
-# TBD Playbook — James Crowder
+# Blessed — James Crowder
 
 > **Player:** James Crowder  
-> **Playbook:** _(TBD — Blessed / Lightbearer / Heavy)_  
-> **Background:** _(TBD)_  
-> **Trade:** Town smith or apprentice  
+> **Playbook:** The Blessed  
+> **Background:** _(TBD — Initiate / Vessel / Raised by Wolves)_  
 > **Level:** 1  
 > **XP:** 0
 

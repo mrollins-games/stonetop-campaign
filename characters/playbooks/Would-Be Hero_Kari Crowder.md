@@ -1,8 +1,8 @@
-# Seeker — Kari Crowder
+# Would-Be Hero — Kari Crowder
 
 > **Player:** Kari Crowder  
-> **Playbook:** The Seeker  
-> **Background:** _(TBD — Patriot / Antiquarian / Witch Hunter)_  
+> **Playbook:** The Would-Be Hero  
+> **Background:** _(TBD — Impetuous Youth / Driven / Destined)_  
 > **Level:** 1  
 > **XP:** 0
 
@@ -16,7 +16,7 @@
 | **Pronouns** | _(TBD)_ |
 | **Origin** | _(TBD)_ |
 | **Appearance** | _(TBD)_ |
-| **Instinct** | _(choose: Cunning / Curiosity / Hubris / Mystery / Vision)_ |
+| **Instinct** | _(choose: Defiance / Doubt / Earnestness / Optimism / Sacrifice)_ |
 
 ---
 

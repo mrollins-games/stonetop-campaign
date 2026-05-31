@@ -121,21 +121,39 @@
 
 > Cover the unique mechanical concepts so players can make informed playbook choices. Not a full rules teach — just enough to understand their character sheets.
 
-### 3a. Conflict Resolution — The Dice (~2 min)
+### 3a. Conflict Resolution — The Dice (~4 min)
 
 **[Show slide: Conflict Resolution — 2d6 + Modifier]**
 
 **GM Talk Track:**
 
-> "This is a 2d6 system. When you do something risky or uncertain, you roll 2d6 plus one of your six stats — STR, DEX, CON, INT, WIS, or CHA. Same stats as D&D, but the modifiers range from -1 to +3.
+> "Let me explain the core engine of this game, because it's probably very different from what you're used to.
 >
-> - **10+ = Strong hit** — full success, you nailed it
-> - **7-9 = Weak hit** — you do it, but with a cost, complication, or hard choice
-> - **6- = Miss** — something bad happens, and you mark XP. Failure is how you grow.
+> **The basics:** When you do something risky or uncertain, you roll 2d6 plus a stat modifier (STR, DEX, CON, INT, WIS, or CHA — same as D&D, but modifiers range from -1 to +3). That's it. That's the only dice you roll as players.
 >
-> Important: a miss doesn't mean 'you failed at the thing.' It means *I* get to make a move. That might be worse than simple failure.
+> Three tiers of results:
 >
-> Two modifiers: **Advantage** means roll 3d6, keep best 2. **Disadvantage** means roll 3d6, keep worst 2. They cancel each other out."
+> - **10+ = Strong hit** — full success, you get what you wanted. The move tells you exactly what happens.
+> - **7-9 = Success with complications** — and this is the heart of the game. A 7-9 does NOT mean 'you kinda did it but worse.' It means you succeed, but there's a cost, a hard choice, or a consequence. Maybe you kill the guy but take a hit doing it. Maybe you persuade the merchant but owe them a favor. Maybe you leap the gap but your pack tears open. The move usually gives you a menu of complications to pick from, or I describe what the complication is. This is where the most interesting fiction happens.
+> - **6- = Miss** — and here's the big one. **You mark XP.** Failure is literally how you grow. But more importantly: a 6- does NOT necessarily mean 'you failed at the action.' It means **I get to make a GM move**, and it will be bad. Maybe you succeeded but something terrible happens because of it. Maybe you failed and something worse happens on top of that. Maybe something completely unexpected goes sideways. The fiction decides.
+>
+> **Example of a 6-:** You try to leap across a chasm. On a 6-, I might say you barely catch the edge and you're dangling — that's classic failure. But I could also say you make the jump just fine… and land on a pressure plate that triggers a trap. Or the ledge you land on starts to crumble. The point is: the fiction moves forward in a dangerous direction that I get to choose.
+>
+> **Why this matters for how the game FEELS:**
+>
+> Here's the radical part — **I, as GM, almost never roll dice.** There are no 'monster turns.' When you fight a creature, it doesn't get its own attack roll on its own turn. Instead:
+>
+> - On a **10+**, you succeed cleanly — the monster doesn't get you. You drove your spear home before it could react.
+> - On a **7-9**, you succeed BUT the monster gets a piece of you too — you stab it, but it rakes your arm as you pull back. The move tells you this.
+> - On a **6-**, the monster's response IS my GM move — maybe it gets you before you can act, maybe your weapon breaks, maybe it grabs you and drags you somewhere horrible.
+>
+> **Monsters and enemies don't take turns.** Their actions are the *consequences* of YOUR actions. What the enemy does is determined by the fiction — what makes sense given what it is, what it wants, and whether you succeeded or had complications. A wolf acts differently than a golem. A bandit acts differently than a horror from below. The fiction drives everything.
+>
+> This means: the dice never interrupt the story. Every roll moves the narrative forward. And every 6- is a gift — you get XP, and something dramatically interesting happens.
+>
+> **Two more things:**
+> - **Advantage** = roll 3d6, keep the best 2. **Disadvantage** = roll 3d6, keep the worst 2. They cancel each other out.
+> - **To do it, you have to do it.** You don't say 'I roll Clash.' You say 'I elbow this guy in the face' and we figure out together if that triggers a move. Fiction first, always."
 
 ### 3b. Moves (~2 min)
 
