@@ -10,7 +10,7 @@
 
 | Threat | Type | Instinct | Grim Portent Stage | Last Session | Link |
 |--------|------|----------|-------------------|--------------|------|
-| — | — | — | — | — | *No threats yet* |
+| The Broken Contract | Supernatural | To reclaim what was taken | 1 of ? (contract violated) | 001 | [Link](the-broken-contract.md) |
 
 ## Resolved Threats
 

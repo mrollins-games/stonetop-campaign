@@ -1,6 +1,6 @@
 # Campaign Timeline
 
-## Current Season: *Not yet started*
+## Current Season: Spring, Year 1
 
 ---
 
@@ -9,7 +9,8 @@
 ### Spring
 | Session | Events | Fortunes Roll | Surplus Change | Threats |
 |---------|--------|--------------|----------------|---------|
-| — | — | — | — | — |
+| [000](../sessions/session-000.md) | Session Zero — character creation, world-building | — | Set to 2 | — |
+| [001](../sessions/session-001.md) | Introductions, blood oaths, broken Fay contract discovered (secret) | — | — | The Broken Contract (dormant) |
 
 ### Summer
 | Session | Events | Fortunes Roll | Surplus Change | Threats |

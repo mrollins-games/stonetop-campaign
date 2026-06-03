@@ -7,16 +7,33 @@
 
 | Name | Pronouns | Occupation | Traits | Relations | Sessions | Notes |
 |------|----------|-----------|--------|-----------|----------|-------|
-| — | — | — | — | — | — | *Add NPCs as they are named in play* |
+| [Axel](stonetop-residents/axel.md) | he/him | Apprentice cooper | Enthusiastic, terrible ideas | Ted's apprentice | 000, 001 | Source of stolen Fay wood |
+| [Brenna](stonetop-residents/brenna.md) | she/her | Barmaid | Flirtatious | Works at Birds & Bees | 000 | — |
+| [Colyn](stonetop-residents/colyn.md) | he/him | Porter/courier | Well-traveled, dallies with Fae | Wolfram's father | 000 | Found Wolfram in Old Woods |
+| [Dailin](stonetop-residents/dailin.md) | she/her | Shrine-keeper (Helior) | Conceited, tedious | Halpin's mother | 000 | "Church lady" energy |
+| [Dilwen](stonetop-residents/dilwen.md) | he/him | Trapper | Has a lot of backbone, rigid | Filberta's father | 000 | Doesn't approve of her path |
+| [Efraim](stonetop-residents/efraim.md) | he/him | Stargazer/astrologer | Social anxiety, nocturnal | — | 000 | Advises farmers on planting |
+| [Eleirig](stonetop-residents/eleirig.md) | — | Former Judge | — | Ted's predecessor | 000 | Deceased |
+| [Fflur](stonetop-residents/fflur.md) | she/her | Gatherer / Elder | Very old, sweet | Wolfram's charge | 000 | Daily herb/flower gathering |
+| [Geth](stonetop-residents/geth.md) | he/him | Day laborer | Sweet, kind, very strong, not bright | — | 000 | 17-19 y/o, huge |
+| [Gethin](stonetop-residents/gethin.md) | he/him | Tanner | Understanding, quiet | Filberta's uncle | 000 | Quietly supports her |
+| [Irina](stonetop-residents/irina.md) | she/her | Potter | Headstrong | — | 000 | — |
+| [Jonas](stonetop-residents/jonas.md) | he/him | Town Elder | Gullible, gifted storyteller | — | 000 | Easily swayed |
+| [Klas](stonetop-residents/klas.md) | he/him | Publican (Birds & Bees) | Thick accent, has beef with Marshedge | Recruited by Ted | 000 | Only Gareth understands him |
+| [Mystery Cat](stonetop-residents/mystery-cat.md) | — | ??? | Black, mysterious | Only Gareth sees it | 000 | Possibly supernatural |
+| [Offda](stonetop-residents/offda.md) | she/her | Taxidermist | Knows all the gossip | Filberta's mother | 000 | Information hub |
+| [Tuath](stonetop-residents/tuath.md) | he/him | Butcher | Runs everywhere | Filberta's brother | 000 | — |
+| [Ula](stonetop-residents/ula.md) | she/her | Midwife | Helpful | — | 000 | — |
+| [Yulia](stonetop-residents/yulia.md) | she/her | Unknown | — | Gareth's sister | 000 | Lives next to Gareth |
 
-### Default Tradesfolk (unnamed until play)
+### Tradesfolk Summary
 | Role | Name | Traits | Sessions |
 |------|------|--------|----------|
-| Publican | — | — | — |
-| Smith | — | — | — |
-| Tanner | — | — | — |
-| Potter | — | — | — |
-| Midwife | — | — | — |
+| Publican | Klas | Thick accent, from Marshedge | 000 |
+| Smith | Wolfram (PC) | — | 000 |
+| Tanner | Gethin | Understanding | 000 |
+| Potter | Irina | Headstrong | 000 |
+| Midwife | Ula | Helpful | 000 |
 
 ---
 

@@ -9,7 +9,7 @@
 | **Prosperity** | +0 | +0 | — |
 | **Defenses** | +0 | +0 | — |
 | **Fortunes** | +1 | +1 | Resets to +1 each season |
-| **Surplus** | 1 | 1 | — |
+| **Surplus** | 1 | 2 | Starting session zero value (crops + mead) |
 
 ## Debilities
 - [ ] **Diminished** — by injury/sickness/doubt (disadvantage to Deploy, Muster, or Pull Together)
@@ -19,12 +19,23 @@
 ## Resources
 - Farming (beans, potatoes, oats, barley)
 - Hunting/trapping (fur, meat, hides)
-- Distilling (whisky)
+- Distilling (whisky, mead, brandy)
+- Beekeeping (honey, beeswax, candles)
 - Stone (collected from the Old Wall)
 - Cistern (filled with rain, snow)
-- Tradesfolk (midwife, potter, publican, smith, tanner)
+- Foraging (berries, mushrooms, herbs — Filberta)
+- Tradesfolk (midwife, potter, publican, smith, tanner, taxidermist, butcher, stargazer)
 - Trade: Gordin's Delve (metal, tools)
 - Trade: Marshedge (textiles, herbs, glass)
+- Trade: Inter-town courier (Colyn)
+
+## Notable Establishments
+- **Birds & Bees** — Public house/tavern, run by Klas (publican) and Brenna (barmaid)
+- **Wolfram's Smithy** — Forge and metalworking
+- **Halpin's Apiary** — Near the fields; bees, honey, wax
+- **Halpin's Distillery** — Mead, brandy, whisky
+- **Ted's Chronicle Vault** — Warded basement, contains records and dangerous artifacts
+- **Pavilion of the Gods** — Shrines to Earth Mother, Helior, and Eritis
 
 ## Fortifications
 - Village militia

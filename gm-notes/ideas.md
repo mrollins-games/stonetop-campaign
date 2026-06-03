@@ -9,7 +9,7 @@
 **Context:** `Character Creation`, `Session Zero`, `Homefront`  
 **Idea:** During session zero, ask players to describe which gods in Stonetop's pantheon are most revered, which statues are most maintained, what offerings are left for them, and who tends them. This builds out the Pavilion of the Gods and seeds NPC relationships.  
 **Related:** `reference/source-text/book-ii-entries/gods-and-religion.md`, Steading map key (E: Pavilion of the Gods)  
-**Used:** ☐
+**Used:** ✅ (Session 000 — Earth Mother/Helior/Eritis shrines and their keepers established)
 
 ---
 
