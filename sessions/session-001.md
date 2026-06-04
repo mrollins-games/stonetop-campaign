@@ -12,7 +12,7 @@ A violent storm strikes. Cefin, a member of a hunting party, staggers back to th
 
 At the Birds & Bees, Halpin invokes Helior to heal Cefin. He stabilizes the wound (10+ on Invoke the Sun God), but the consequence is severe: all light is supernaturally snuffed out in the pub — not just extinguished, but a void of anti-fire. The hearth cannot be relit. Through the healing, a spirit's voice speaks through Cefin in spirit-tongue. Wolfram understands it (spirit-speaker) — it's an undead creature, freed from a tree, complaining about being trapped for hundreds of years and now being in an unfamiliar form.
 
-Ted reveals to the group that he found the Fay contract in his Chronicle and that Axel cut trees from the Great Wood — breaking the ancient pact. The trees were a **prison** for undead spirits. The Fay contract wasn't about protecting trees; it was about keeping these things contained.
+Ted reveals to the group that he found the Fay contract in his Chronicle and that Axel cut trees from the Great Wood — breaking the ancient pact. The trees themselves **bind undead spirits** within them. The Fay contract existed to ensure the trees would never be disturbed — protecting the binding, not the forest.
 
 The party splits: Ted stays behind to marshal the villagers to fortify the switchback road (threatened by mudslides in the storm). Wolfram, Halpin, Gareth, and Filberta travel down to the logging site (the X on Cefin's map) to find the missing parties and confront the threat.
 
@@ -36,7 +36,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 - Cefin returns wounded and possessed by a freed tree-spirit
 - Halpin heals Cefin but creates a supernatural void of darkness in the Birds & Bees
 - Ted reveals the broken Fay contract to the party
-- Discovery: The trees are a **prison for undead spirits** — the contract protects the world, not the trees
+- Discovery: The trees themselves **bind undead spirits** — the contract protects the trees (and thus the binding), not the other way around
 - Axel is confirmed missing (never returned from logging)
 - Expedition to the logging site — combat with an undead spirit
 - Ted fortifies the switchback road against mudslides (successful Pull Together)
@@ -57,7 +57,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 
 | Threat | Status Change | Details |
 |--------|--------------|---------|
-| [The Broken Contract](../threats/the-broken-contract.md) | Active 🔴 | Spirit freed from felled tree. Trees are prisons for undead. At least one spirit loose. More may follow. |
+| [The Broken Contract](../threats/the-broken-contract.md) | Active 🔴 | Spirit freed from felled tree. Trees bind undead spirits; contract protects the trees. At least one spirit loose. More may follow. |
 
 ## Steading Changes
 
@@ -73,7 +73,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 
 ## Discoveries & Arcana
 
-- **The Trees Are Prisons** — The Great Wood's trees contain bound undead spirits. The Fay contract exists to keep these prisons intact. Cutting trees frees the spirits.
+- **The Trees Are Prisons** — The Great Wood's trees bind undead spirits within them. The Fay contract exists to ensure the trees are never disturbed, protecting the binding. Cutting trees frees the spirits.
 - **Spirit Markings** — Rune-like markings on trees in the logging area match markings found on Cefin's body.
 
 ## Character Updates

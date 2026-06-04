@@ -6,13 +6,13 @@
 **Known By:** All PCs (Ted revealed it during Session 1)
 
 ## Summary
-The ancient contract between Stonetop and the Fay of the Great Wood has been broken. Axel, Ted's apprentice, felled trees from the forest for barrel-making — at Ted's indirect encouragement. The trees were not merely sacred — they are **prisons for undead spirits**. The Fay contract existed to keep these spirits bound. At least one spirit has been freed and attacked a hunting party.
+The ancient contract between Stonetop and the Fay of the Great Wood has been broken. Axel, Ted's apprentice, felled trees from the forest for barrel-making — at Ted's indirect encouragement. The trees were not merely sacred — they are **prisons for undead spirits**, binding them within. The Fay contract existed to ensure the trees would never be disturbed. At least one spirit has been freed and attacked a hunting party.
 
 ## Instinct
 To torment the living
 
 ## Nature of the Threat
-The freed spirits are **undead** (not Fae). They are malevolent, with an instinct to torment. They were bound inside trees by the Fay as prisons. The contract with Stonetop's ancestors ensured the trees would never be cut. Now that trees have been felled, spirits are loose.
+The freed spirits are **undead** (not Fae). They are malevolent, with an instinct to torment. They were bound inside the trees themselves — the trees are the prisons, not the contract. The contract with Stonetop's ancestors ensured the trees would never be cut, protecting the binding. Now that trees have been felled, spirits are loose.
 
 ## Grim Portents
 1. ☑ The contract is violated — Axel fells trees from the Great Wood
@@ -39,7 +39,7 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 - **Cefin** — Returned possessed and wounded. Stabilized but comatose.
 - **Dilwen** — Filberta's father. Missing with hunting party of 4.
 - **Wolfram** — Spirit taunted him about his mother. Can speak to spirits.
-- **The Spirit** — Undead, freed from a tree-prison. Instinct: to torment. 2-3 HP remaining at session end.
+- **The Spirit** — Undead, freed when its tree was felled. Instinct: to torment. Defeated by the party in Session 1.
 
 ## Known Spirit Properties
 - Ethereal/ghostly, roughly humanoid
