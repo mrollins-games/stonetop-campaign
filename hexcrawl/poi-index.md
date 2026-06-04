@@ -5,42 +5,46 @@
 ## Key Reference
 - C5 = STONETOP (village)
 - Columns A-D = Plateau / bluff / forest edge (left side, detailed art)
-- Column E = Forest edge / Stream area (transition)
-- Columns F-J = Great Wood proper (right side, expanded art)
+- Columns E-J = Great Wood proper (right side, expanded art)
+
+## The River/Stream Path
+Flows from upper-left to lower-right (NW to SE):
+D4 → lower-left of D6 → bottom of C7 → B8 → C9 → north of C9 → E3 → F2 → G1 → south of H2 → continues south
+
+This is "The Stream" (Book II p.396) — wide, shallow, swift, lined with stones.
+The logging site (Session 1) was chosen for river access to float logs downstream.
 
 ## POI Assignments (DRAFT)
 
-### Plateau & Bluff (A-D) — minimal POIs, mostly travel hexes
+### Plateau & Bluff (A-D) — including river hexes
 | Hex | Terrain | POI | Visible? |
 |-----|---------|-----|----------|
 | C5  | Village on bluff | STONETOP — home base | YES |
-| D4  | Bluff edge, switchback | Switchback path down to forest. Birds & Bees visible. | YES |
-| D6  | Bluff edge, stream access | Path down to Stream. Fay boundary marker (standing stone). | YES |
+| D4  | River, bluff edge | Switchback path down. Stream ford. Washing area. | YES |
+| D6  | River edge, forest | Path to forest. Fay boundary marker (standing stone). | YES |
+| C7  | River, forest edge | Stream crossing. Quiet Twins sightings. Villagers fetch water. | YES |
+| B8  | River, forest edge | Deep stream pool. Fish. Quiet Twins haunt strongest here. | YES |
+| C9  | River, forest/high ground | Stream narrows, rocky. Possible crossing point. | YES |
 | B10 | Forest edge, high ground | The Maw — cave entrance, bones, strange noises. | YES |
 | A9  | Plateau edge | Foraging grounds. Fflur gathers herbs here. | NO |
 
-### Forest Edge / Stream (Column E) — where the wood begins
+### Near Wood (E-F) — first hexes into the Great Wood
 | Hex | Terrain | POI | Visible? |
 |-----|---------|-----|----------|
-| E1  | Stream, forest edge (south) | Stream crossing (south). Quiet Twins sightings. | YES |
-| E3  | Stream, clearing | Stream ford. Washing area. Quiet Twins haunt. | YES |
-| E5  | Stream, near bluff | Main stream crossing from switchback. Fay boundary marker. | YES |
-| E7  | Stream, dense brush | Logging site. Felled stumps. SPIRIT ENCOUNTER (Session 1). | YES |
-| E9  | Forest edge (north) | Dense canopy. Game trail entrance. Crinwin sign. | NO |
-
-### Near Wood (Column F) — first hexes into the Great Wood proper
-| Hex | Terrain | POI | Visible? |
-|-----|---------|-----|----------|
-| F2  | Creek, wetland | Tributary stream. Useful flora (medicinal herbs). Boar wallows. | NO |
-| F4  | Old-growth, clearing | Wildflower clearing. Game trail crossroads. Deer. | NO |
+| E3  | River, forest | Stream widens. Logging site nearby. Felled stumps. SPIRIT ENCOUNTER (Session 1). | YES |
+| E5  | Forest edge | Dense brush. Game trail entrance. Boar sign. | NO |
+| E7  | Mixed forest | Wildflower clearing. Game trail crossroads. Deer. | NO |
+| E9  | Old-growth | Forest Folk glyphs on rocks. Ancient path markers. | NO |
+| F2  | River, wetland | Stream bends. Useful flora (medicinal herbs). Boar wallows. | NO |
+| F4  | Old-growth, clearing | Old-growth canopy. Rocky outcropping. Wolf den. | NO |
 | F6  | Dense thicket | Thick brush, difficult passage. Feathered drake sign. | NO |
-| F8  | Mixed forest | Rocky outcropping. Wolf den. Good vantage point. | NO |
-| F10 | Old-growth, stream | Forest Folk glyphs on rocks. Ancient path markers. | NO |
+| F8  | Mixed forest | Vantage point. Can see deeper wood. Crinwin sign. | NO |
+| F10 | Swath of conifers | Dense evergreen. Dark canopy. Quiet. | NO |
 
 ### Mid Wood (Column G) — deeper, threats escalate
 | Hex | Terrain | POI | Visible? |
 |-----|---------|-----|----------|
-| G1  | Slope, ravine | Ravine with stream at bottom. Treacherous footing. | NO |
+| G1  | River, ravine | Stream enters ravine. Treacherous footing. River continues south of H2. | YES (ravine) |
 | G3  | Dense evergreen | Red Grove — blood-red trees. Forest Folk avoided. Sacred/dangerous. | YES (red trees) |
 | G5  | Clearing, pond | Peaceful pond. Spirit of the wild (curious, water-type). | NO |
 | G7  | Old-growth | Hagr domain — obsessively stacked logs visible from distance. | YES (log piles) |
