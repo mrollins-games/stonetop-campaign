@@ -10,7 +10,7 @@
 | Session | Events | Fortunes Roll | Surplus Change | Threats |
 |---------|--------|--------------|----------------|---------|
 | [000](../sessions/session-000.md) | Session Zero — character creation, world-building | — | Set to 2 | — |
-| [001](../sessions/session-001.md) | Introductions, blood oaths, broken Fay contract discovered (secret) | — | — | The Broken Contract (dormant) |
+| [001](../sessions/session-001.md) | Storm, spirit freed, expedition to logging site, combat | Unexpected Bounty (+1 surplus) | 2 → 3 | The Broken Contract (active) |
 
 ### Summer
 | Session | Events | Fortunes Roll | Surplus Change | Threats |

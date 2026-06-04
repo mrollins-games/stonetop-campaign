@@ -1,85 +1,118 @@
-# Session 001 — Introductions & The Secret of the Contract
+# Session 001 — The Storm, the Spirit, and the Trees
 
 **Date Played:** 2026-05-31  
-**In-Game Season:** Spring of Year 1 (opening scene)  
+**In-Game Season:** Spring of Year 1  
 **Players Present:** Dan (Wolfram), Danny (Halpin), David (Ted), James (Gareth), Kari (Filberta)
 
 ## Session Summary
 
-Following character creation, the group transitioned into the opening fiction. Characters introduced themselves through rounds of questions and answers, establishing daily life in Stonetop as spring arrives.
+Spring arrives in Stonetop. The Seasons Change roll (7-9) grants an unexpected bounty (+1 surplus, from bumper crops and successful mead trade), but a threat must make itself known.
 
-The key dramatic moment came during David's "secret 7B" — a private setup between the GM and David establishing that Ted has discovered the contract with the Fay in his Chronicle, AND that the contract has been broken (Axel took Fay wood at Ted's indirect encouragement for barrel-making). Ted rolled to discover the consequences — the other PCs don't know this in-fiction, creating dramatic irony.
+A violent storm strikes. Captain, a member of a hunting party, staggers back to the village wounded — an axe wound, comatose, and possessed by a spirit speaking through him. The other two parties (a hunting party of 4 including Filberta's father Dilwen, and a trapping party including Axel) have not returned.
 
-Blood oaths were formalized: Wolfram and Gareth swore to discover the secrets of primordial/lightning magic together (exchanging blood). Filberta also made a blood oath (details tied to learning forest ways). This concerns Gareth, who understands how blood magic and contracts work on a deeper level.
+At the Birds & Bees, Halpin invokes Helior to heal Captain. He stabilizes the wound (10+ on Invoke the Sun God), but the consequence is severe: all light is supernaturally snuffed out in the pub — not just extinguished, but a void of anti-fire. The hearth cannot be relit. Through the healing, a spirit's voice speaks through Captain in spirit-tongue. Wolfram understands it (spirit-speaker) — it's an undead creature, freed from a tree, complaining about being trapped for hundreds of years and now being in an unfamiliar form.
+
+Ted reveals to the group that he found the Fay contract in his Chronicle and that Axel cut trees from the Great Wood — breaking the ancient pact. The trees were a **prison** for undead spirits. The Fay contract wasn't about protecting trees; it was about keeping these things contained.
+
+The party splits: Ted stays behind to marshal the villagers to fortify the switchback road (threatened by mudslides in the storm). Wolfram, Halpin, Gareth, and Filberta travel down to the logging site (the X on Captain's map) to find the missing parties and confront the threat.
+
+At the clearing, they find felled trees prepared for floating downstream, an abandoned axe, and an ethereal undead spirit — roughly humanoid, ghostly, malevolent. Its instinct is to torment. Gareth attempts to negotiate by offering it something from his collected offerings, but it demands blood/torment. The spirit reveals it knows something about Wolfram's mother, tormenting him with cryptic references.
+
+Combat ensues:
+- Filberta attacks with advantage (Underestimated + Anger is a Gift), dealing significant damage
+- Gareth uses environment cleverly (Resourceful) to deal damage and create opportunities
+- Halpin consecrates his lantern as holy light and aids the party
+- The squirrel follower deals the finishing blow-ish
+- Filberta and her squirrel are thrown into the river by the spirit's wind attack — requiring a Defy Danger roll
+
+The session ends mid-combat with the spirit weakened (2-3 HP remaining) but still dangerous, and Filberta in the swollen river.
+
+Meanwhile, Ted's Pull Together roll to fortify the hillside succeeds.
 
 ## Key Events
 
-- PCs described their daily routines and contributions to the village
-- Blood oath established between Wolfram and Gareth (discover primordial magic)
-- Blood oath involving Filberta (learning the ways of the forest)
-- Ted secretly discovered the Fay contract has been broken (dramatic irony — players know, characters don't)
-- Ted rolled for consequences of the broken contract (result unknown to other PCs)
-- Halpin's mentorship of Filberta established (gentle guidance, father-figure energy)
-- Gareth's suspicions about the Mystery Cat voiced
-- Village map housing placements finalized
+- **Seasons Change roll:** 7-9 (Halpin rolls). Gain: Unexpected Bounty (+1 surplus). Threat: something makes itself known.
+- Captain returns wounded and possessed by a freed tree-spirit
+- Halpin heals Captain but creates a supernatural void of darkness in the Birds & Bees
+- Ted reveals the broken Fay contract to the party
+- Discovery: The trees are a **prison for undead spirits** — the contract protects the world, not the trees
+- Axel is confirmed missing (never returned from logging)
+- Expedition to the logging site — combat with an undead spirit
+- Ted fortifies the switchback road against mudslides (successful Pull Together)
+- Spirit taunts Wolfram about knowing his mother
 
 ## NPCs Mentioned
 
 | NPC | Role/Context | New Info Established |
 |-----|-------------|---------------------|
-| [Axel](../npcs/stonetop-residents/axel.md) | Ted's apprentice | Confirmed as source of stolen Fay wood |
-| [Fflur](../npcs/stonetop-residents/fflur.md) | Wolfram's charge | Daily routine: goes out with basket, Wolfram checks on her nightly |
-| [Dailin](../npcs/stonetop-residents/dailin.md) | Halpin's mother | Shows up at Halpin's house expecting special treatment from visitors |
-| [Mystery Cat](../npcs/stonetop-residents/mystery-cat.md) | Unknown entity | Appears across town, watches Gareth from shadows |
+| Captain | Hunter, wounded | Returned possessed by spirit. Axe wound. Stabilized by Halpin. |
+| [Axel](../npcs/stonetop-residents/axel.md) | Ted's apprentice | Missing — never returned from logging. Cut the trees that freed the spirit. |
+| [Dailin](../npcs/stonetop-residents/dailin.md) | Halpin's mother | Tried to stop Halpin from going on expedition ("No, Halpin, don't risk yourself!") |
+| [Dilwen](../npcs/stonetop-residents/dilwen.md) | Filberta's father | Part of the missing hunting party of 4 |
+| [Geth](../npcs/stonetop-residents/geth.md) | Day laborer | Helped Ted with fortification work (directed to dig and carry) |
+| [Efraim](../npcs/stonetop-residents/efraim.md) | Stargazer | Referenced as resource for tracking weather |
 
 ## Threats
 
 | Threat | Status Change | Details |
 |--------|--------------|---------|
-| [The Broken Contract](../threats/the-broken-contract.md) | Advanced (secretly) | Ted rolled to discover consequences. Only GM and David know the result. |
+| [The Broken Contract](../threats/the-broken-contract.md) | Active 🔴 | Spirit freed from felled tree. Trees are prisons for undead. At least one spirit loose. More may follow. |
 
 ## Steading Changes
 
 | Stat | Before | After | Reason |
 |------|--------|-------|--------|
-| — | — | — | No mechanical changes |
+| Surplus | 2 | 3 | Seasons Change: Unexpected Bounty (bumper crops + mead trade) |
+| Fortunes | +1 | +1 | Reset for Spring (no change) |
 
 ## Locations Visited/Revealed
 
-- Housing placements confirmed on village map
-- Gareth's house on eastern edge near stream/woods path
-- Halpin's house facing east (sunrise), with open door
-- Ted's house near public house (Birds & Bees)
+- **The Logging Site** — Downstream along the river, on Stonetop's side, chosen for broken line-of-sight from town. Felled trees stacked for floating. Spirit-marked trees throughout the area.
+- **The Switchback Road** — Steep, dangerous path down from the plateau. Threatened by mudslides in storms.
 
 ## Discoveries & Arcana
 
-*No new discoveries this session.*
+- **The Trees Are Prisons** — The Great Wood's trees contain bound undead spirits. The Fay contract exists to keep these prisons intact. Cutting trees frees the spirits.
+- **Spirit Markings** — Rune-like markings on trees in the logging area match markings found on Captain's body.
 
 ## Character Updates
 
 | Character | Change |
 |-----------|--------|
-| Wolfram + Gareth | Blood oath bond formalized |
-| Filberta | Blood oath bond formalized |
+| Halpin | Used spell slot (Invoke the Sun God). Created supernatural darkness in Birds & Bees. |
+| Gareth | Used spell slot. Took damage. |
+| Filberta | Took damage. Thrown into river (unresolved). Marked Potential for Greatness. |
+| Ted | Stayed behind. Successfully marshaled villagers for fortification. |
 
 ## Moves of Note
 
 | Character | Move | Roll | Result | Consequence |
 |-----------|------|------|--------|-------------|
-| Ted | Unknown (secret 7B) | Rolled | Unknown | Discovered consequences of broken Fay contract |
+| Halpin | Seasons Change | 7-9 | Unexpected Bounty | A threat makes itself known |
+| Halpin | Invoke the Sun God (heal Captain) | 12 (two 6s!) | 10+ | Supernatural void — fire/light extinguished permanently in the pub |
+| Gareth | Resourceful (environment) | 12 | 10+ | Dealt 3 damage + created advantage for ally |
+| Filberta | Clash (with advantage from Underestimated) | 10+ | Hit | D8 damage (aided by Halpin) |
+| Filberta | Clash (second attack) | 7-9 | Hit + retaliation | 1 damage to spirit, thrown into river |
+| Ted | Pull Together (fortify road) | ? | Success | Hillside fortified against mudslides |
 
 ## Uncertain References
 
-- What did Ted's roll reveal about the broken contract's consequences?
-- The exact terms of Filberta's blood oath — with whom and for what?
-- Gareth mentioned his Azure Hand corruption markers — has he already marked any?
+- **Captain** — What's his full name? Is he a known NPC or new?
+- What happened to the other hunting/trapping parties? (Dilwen's group of 4, Axel)
+- Did Filberta survive the river? (Defy Danger roll pending at session end)
+- The spirit mentioned Wolfram's mother — what does it know?
+- Are there more spirits in other felled trees?
 
 ## Possible Steading Changes
 
-*None confirmed.*
+- Birds & Bees has a supernatural darkness problem (no fire/light works inside)
+- Switchback road reinforced (temporary — not a permanent improvement)
 
 ## Notes
 
-- Sessions 0 and 1 were played back-to-back in the same 4-hour session
-- The transition from "session zero" to "session one" was organic — the group moved from mechanics into fiction naturally
-- Spring is just beginning — this sets up the first full session of play
+- The "anti-fire" void in the Birds & Bees is an ongoing consequence — the pub's hearth cannot be lit
+- Session ended mid-combat — the spirit has 2-3 HP left, Filberta is in the river
+- Ted's player prompted revealing the contract secret in-character through clever roleplay
+- Filberta tried to run ahead solo to find/confront her father — party interfered successfully
+- The spirit is confirmed **undead** (not Fae) — malevolent, instinct: to torment
+- Gareth noted the spirit's non-Fae nature despite being freed from a Fae-contracted prison

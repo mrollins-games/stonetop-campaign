@@ -9,7 +9,7 @@
 | **Prosperity** | +0 | +0 | — |
 | **Defenses** | +0 | +0 | — |
 | **Fortunes** | +1 | +1 | Resets to +1 each season |
-| **Surplus** | 1 | 2 | Starting session zero value (crops + mead) |
+| **Surplus** | 1 | 3 | Session zero set to 2; Seasons Change +1 (bumper crops + mead trade) |
 
 ## Debilities
 - [ ] **Diminished** — by injury/sickness/doubt (disadvantage to Deploy, Muster, or Pull Together)

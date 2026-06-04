@@ -1,41 +1,57 @@
 # The Broken Contract
 
 **Type:** Supernatural  
-**Status:** 🟡 Dormant (but violated)  
+**Status:** 🔴 Active  
 **Introduced:** Session 001  
-**Known By:** Ted (PC, secret), GM
+**Known By:** All PCs (Ted revealed it during Session 1)
 
 ## Summary
-The ancient contract between Stonetop and the Fay of the Great Wood has been broken. Axel, Ted's apprentice, took Fay wood from the forest to make barrels — at Ted's indirect encouragement. Ted has since discovered the contract's existence in his Chronicle and knows it has been violated, but keeps this secret from the other PCs.
+The ancient contract between Stonetop and the Fay of the Great Wood has been broken. Axel, Ted's apprentice, felled trees from the forest for barrel-making — at Ted's indirect encouragement. The trees were not merely sacred — they are **prisons for undead spirits**. The Fay contract existed to keep these spirits bound. At least one spirit has been freed and attacked a hunting party.
 
 ## Instinct
-To reclaim what was taken / to enforce the old agreement
+To torment the living
+
+## Nature of the Threat
+The freed spirits are **undead** (not Fae). They are malevolent, with an instinct to torment. They were bound inside trees by the Fay as prisons. The contract with Stonetop's ancestors ensured the trees would never be cut. Now that trees have been felled, spirits are loose.
 
 ## Grim Portents
-*GM to define after reading Book I p.277–300 (threats chapter). Potential progression:*
-1. ☑ The contract is violated (Axel takes Fay wood)
-2. ☐ [Signs of Fae displeasure — strange behavior in the Great Wood?]
-3. ☐ [Escalation — direct consequences for Stonetop?]
-4. ☐ [Crisis point]
+1. ☑ The contract is violated — Axel fells trees from the Great Wood
+2. ☑ A freed spirit possesses Captain, attacks a hunting party
+3. ☐ More spirits are freed as additional felled trees release their prisoners
+4. ☐ The Fay respond to the broken contract (what do they demand?)
+5. ☐ [Escalation — spirits threaten Stonetop directly?]
 
 ## Impending Doom
-*TBD — What happens if nothing is done?*
+*TBD — What happens if nothing is done? All spirits free? Fay retaliation?*
 
 ## Stakes Questions
-- Will Ted reveal what he knows before consequences arrive?
-- Will the PCs discover the breach independently?
-- Can the contract be repaired, or must a new bargain be struck?
-- What do the Fay actually want in return?
-- Is there more to the contract than just "don't fell trees"?
+- How many trees did Axel fell? How many spirits are loose?
+- Is Axel alive? Where is he?
+- Will the Fay intervene — and as allies or enemies?
+- Can the spirits be rebound to the trees?
+- What is the spirit's connection to Wolfram's mother?
+- Is the supernatural void in the Birds & Bees permanent?
+- Are Dilwen's hunting party (4 people) alive?
 
 ## Key NPCs
-- **Ted** — Knows the contract exists and is broken. Keeping it secret.
-- **Axel** — Took the wood. Doesn't know the gravity of what he's done.
-- **Filberta** — Forest-connected. May sense something wrong.
-- **Wolfram** — Can speak with spirits. May learn from them.
+- **Ted** — Indirectly caused the breach. Revealed the truth to the party.
+- **Axel** — Felled the trees. Currently missing.
+- **Captain** — Returned possessed and wounded. Stabilized but comatose.
+- **Dilwen** — Filberta's father. Missing with hunting party of 4.
+- **Wolfram** — Spirit taunted him about his mother. Can speak to spirits.
+- **The Spirit** — Undead, freed from a tree-prison. Instinct: to torment. 2-3 HP remaining at session end.
+
+## Known Spirit Properties
+- Ethereal/ghostly, roughly humanoid
+- Has armor (reduces damage)
+- Can generate wind strong enough to throw people
+- Speaks spirit-tongue (Wolfram can understand)
+- Malevolent — cannot be reasoned with easily
+- Uncomfortable in consecrated/holy light (Helior)
+- Was formerly a living creature, trapped in tree for hundreds of years
 
 ## Session Log
 | Session | What Happened |
 |---------|---------------|
-| [000](../sessions/session-000.md) | Contract mentioned — "nobody remembers the terms" |
-| [001](../sessions/session-001.md) | Ted rolled secretly to discover consequences. Dramatic irony established. |
+| [000](../sessions/session-000.md) | Contract mentioned — "nobody remembers the terms." Ted's secret: he found the contract. |
+| [001](../sessions/session-001.md) | Spirit freed. Captain possessed. Ted reveals truth. Party fights spirit at logging site. Spirit nearly defeated. Filberta thrown in river. |
