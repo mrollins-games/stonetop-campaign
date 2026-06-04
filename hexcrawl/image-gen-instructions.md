@@ -15,11 +15,13 @@ Microsoft PPT Copilot (Designer image generation, in-slide)
 
 ## Style Reference
 - **Match the style on slide 7** (ignore the book edge/table in that photo)
-- Hand-illustrated, ink-and-watercolor feel
-- Top-down / bird's-eye perspective
-- Rich texture, organic shapes, slightly stylized (not photorealistic)
+- **CRITICAL: TRUE TOP-DOWN / DIRECTLY OVERHEAD perspective** — like looking straight down from a drone or satellite. NOT isometric, NOT 45-degree angle, NOT perspective view. The camera is DIRECTLY ABOVE pointing DOWN.
+- Ink line art with watercolor fill — NOT photorealistic painting
+- Visible black outlines on terrain features (like a hand-drawn map)
+- Flat map feel — this is a NAVIGABLE MAP, not a scene illustration
 - Muted earth tones: deep greens, dark browns, mossy grays, occasional gold accents
-- Black ink outlines with watercolor fill
+- Trees appear as canopy blobs from above (circles/clusters), NOT as trunks seen from the side
+- The bluff/cliff should appear as a textured edge (like contour lines), not a dramatic wall
 
 ## Visible POI by Hex (features that MUST appear on the map)
 These are features players can see from a distance. Place them in the correct hex position relative to the grid on slide 3.
@@ -86,38 +88,38 @@ The image should show these zones flowing **west to east**:
 - Faint luminescence / magical quality to the far-right area
 
 ## Important Details
-- **River path**: Visible as a winding blue-silver line starting upper-left, flowing SE through the left and center of the map, entering a ravine in the center-right area
+- **PERSPECTIVE: DIRECTLY OVERHEAD** — cannot stress enough. Previous attempts came out at 45° isometric. We need FLAT, STRAIGHT DOWN, like a satellite photo rendered in watercolor.
+- **River path**: Thin winding blue-silver line starting upper-left, curving SE through the left-center of the map. Should only occupy ~5% of the image width — it's a stream, not a major river.
+- **SPACING**: POIs should be SMALL and SPREAD OUT. 80% of the image should be undifferentiated green canopy. The landmarks are tiny details you'd notice on close inspection, not dominant features.
+- **SCALE**: The Golden Oak should be noticeable (gold color) but NOT take up more than ~5% of the frame. The village should be TINY — maybe 20 pixels of rooftops visible among the green.
 - **NO hex grid in the image** — that will be overlaid in PPT
 - **NO text/labels** in the image
 - **NO characters/people** in the image
 - Aspect ratio: **widescreen 16:9** (to match PPT slide)
-- The forest should feel VAST, ancient, and slightly threatening
-- Light filters through canopy in shafts in the nearer areas; deeper areas are darker
-- The bluff/cliff should be dramatic — a clear elevation change
+- The forest should feel VAST — mostly uniform canopy with subtle variations
+- Light/dark gradient: left side (near village) slightly lighter green; right side progressively darker
+- The bluff appears as a textured brown/gray band running N-S on the left ~15% of the image
 
 ## Prompt Template (adapt as needed)
 
 ### Version 1 — Full prompt
 ```
-Top-down bird's-eye illustrated map of a vast primeval forest region, hand-drawn ink and watercolor style like a fantasy RPG hex map. Left side shows a rocky bluff with a small medieval village on top, a winding river flowing southeast from the bluff into dense forest. Center shows increasingly dark and ancient old-growth forest with a ravine, a grove of blood-red trees, and massive ancient trunks. Right side shows the deepest forest with one enormous golden-canopied tree towering above all others, dead gray vegetation in one area, and standing stones among roots. Muted earth tones, deep greens, dark browns, mossy grays, gold accents on the far-right tree. No text, no grid, no people. Widescreen 16:9 aspect ratio. Rich detail throughout.
+Directly-overhead top-down map of a vast primeval forest, looking STRAIGHT DOWN like a satellite image rendered in ink and watercolor. Flat perspective, no angle, no isometric. Left 15% shows a rocky plateau edge (gray-brown band running north-south) with a tiny cluster of thatched rooftops (village) barely visible among trees. A thin winding stream flows from upper-left toward lower-center, disappearing into canopy. The remaining 85% is dense forest canopy seen from directly above — mostly uniform green blobs of treetops with subtle variation. Small scattered landmarks: one tiny patch of red-leafed trees (center-left), one small golden-canopied tree (far right, glowing faintly), one small ring of gray dead trees (right side). Ink outlines, watercolor fill, muted greens and browns. Widescreen 16:9. No text, no grid, no people, no perspective angle.
 ```
 
-### Version 2 — Simplified (if V1 is too complex for the AI)
+### Version 2 — Simplified
 ```
-Bird's-eye fantasy map of a vast ancient forest, ink and watercolor style. A rocky cliff with a tiny village on the left, a winding river flowing into dense dark woods. Forest gets darker and older toward the right. One enormous golden tree on the far right towers above all others. Muted greens, browns, and golds. No text, no grid, no people. 16:9 widescreen.
-```
-
-### Version 3 — Iterative approach (generate in sections)
-If one image doesn't capture all details, generate LEFT HALF and RIGHT HALF separately:
-
-**Left half:**
-```
-Bird's-eye fantasy map, ink and watercolor. Rocky bluff with small village on top (left edge). Winding river flows from bluff SE into dense mixed forest. Forest transitions from open edge to thick canopy. Game trails visible. Muted greens and browns. No text, no grid, no people.
+Flat overhead satellite-view map of an enormous ancient forest, ink and watercolor style. Looking STRAIGHT DOWN. Tiny village on a cliff edge (far left). Thin stream winding from upper-left to center. 90% dense green canopy. Small red tree grove in center, small golden tree on far right. Ink lines, watercolor, muted earth tones. 16:9 widescreen. No text, no grid, no people, completely flat overhead view.
 ```
 
-**Right half:**
+### Version 3 — Left Half
 ```
-Bird's-eye fantasy map, ink and watercolor. Deep ancient primeval forest, massive old-growth trees. A ravine cuts through center-left. Grove of blood-red trees. One enormous golden-canopied tree dominates far right, glowing subtly. Dead gray vegetation ring in one area. Standing stones among roots. Very dark canopy. No text, no grid, no people.
+Flat overhead map, looking straight down. Rocky plateau/cliff edge on left (gray-brown textured band). Tiny medieval village (cluster of rooftops) on plateau top. Thin stream at base of cliff flowing southeast. Dense forest canopy fills right 60% — green tree blobs from above, varied sizes. Felled stumps near stream (tiny brown dots). One standing stone barely visible at forest edge. Ink and watercolor, flat top-down, no angle. No text, no grid.
+```
+
+### Version 3 — Right Half  
+```
+Flat overhead map, looking straight down. Entirely dense ancient forest canopy — green treetop blobs. Trees get larger and darker toward the right. Small patch of blood-red trees (upper-left area). One golden-glowing tree (far right, stands out from green). Small ring of gray dead trees (center-right). Rocky outcropping barely visible through canopy (center). Ink and watercolor, flat top-down satellite view, no angle. No text, no grid.
 ```
 
 ## Post-Generation Steps
@@ -132,4 +134,20 @@ Bird's-eye fantasy map, ink and watercolor. Deep ancient primeval forest, massiv
 - **Mitigation**: Save each good generation immediately. Use PPT's "Design Ideas" rather than re-prompting if small tweaks needed.
 - **Mitigation**: If major changes needed, regenerate only the half that needs changing (V3 approach) and stitch in PPT.
 - **Risk**: Style inconsistency between halves
-- **Mitigation**: Include "ink and watercolor, muted earth tones, deep greens" in EVERY prompt to maintain style lock.
+- **Mitigation**: Include "ink and watercolor, muted earth tones, flat overhead, no angle" in EVERY prompt.
+
+## What Went Wrong (Round 1) — Use as correction context
+Paste this when re-prompting to avoid the same mistakes:
+
+**Problems with slides 23-26:**
+1. ❌ PERSPECTIVE: All came out at ~45° isometric angle. I need FLAT OVERHEAD — camera pointing straight down, like Google Earth rendered in watercolor. No horizon, no side-view of trees/cliffs.
+2. ❌ STYLE: Too photorealistic/painterly. Need visible INK OUTLINES and watercolor wash — like a hand-drawn RPG map, not a digital painting.
+3. ❌ SCALE: Village, Golden Oak, and red grove are all WAY too large. They should be tiny details in a sea of green canopy. The image should be 85%+ uniform treetop canopy.
+4. ❌ RIVER: Too prominent and too straight. Should be a thin winding line, not a dramatic rushing torrent. Think "stream on a topographic map."
+5. ❌ TREE REPRESENTATION: Trees shown as trunks/branches (side view). In top-down, trees are round/blobby canopy shapes seen from above — like broccoli heads or cotton balls.
+6. ❌ BLUFF: Shown as a dramatic cliff face (side view). In top-down, a cliff is a textured band/edge with shadow on one side — like contour lines on a topo map.
+
+**Correction prompt to prepend:**
+```
+IMPORTANT: Previous attempts were at 45-degree isometric angle. This MUST be completely flat, directly overhead, looking STRAIGHT DOWN like a drone photo. Trees appear as round canopy blobs. Cliffs appear as textured edges with shadows. No horizon visible. No side-view of anything.
+```
