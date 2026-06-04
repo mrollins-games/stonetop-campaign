@@ -16,7 +16,7 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 
 ## Grim Portents
 1. ☑ The contract is violated — Axel fells trees from the Great Wood
-2. ☑ A freed spirit possesses Captain, attacks a hunting party
+2. ☑ A freed spirit possesses Cefin, attacks a hunting party
 3. ☐ More spirits are freed as additional felled trees release their prisoners
 4. ☐ The Fay respond to the broken contract (what do they demand?)
 5. ☐ [Escalation — spirits threaten Stonetop directly?]
@@ -36,7 +36,7 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 ## Key NPCs
 - **Ted** — Indirectly caused the breach. Revealed the truth to the party.
 - **Axel** — Felled the trees. Currently missing.
-- **Captain** — Returned possessed and wounded. Stabilized but comatose.
+- **Cefin** — Returned possessed and wounded. Stabilized but comatose.
 - **Dilwen** — Filberta's father. Missing with hunting party of 4.
 - **Wolfram** — Spirit taunted him about his mother. Can speak to spirits.
 - **The Spirit** — Undead, freed from a tree-prison. Instinct: to torment. 2-3 HP remaining at session end.
@@ -54,4 +54,4 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 | Session | What Happened |
 |---------|---------------|
 | [000](../sessions/session-000.md) | Contract mentioned — "nobody remembers the terms." Ted's secret: he found the contract. |
-| [001](../sessions/session-001.md) | Spirit freed. Captain possessed. Ted reveals truth. Party fights spirit at logging site. Spirit nearly defeated. Filberta thrown in river. |
+| [001](../sessions/session-001.md) | Spirit freed. Cefin possessed. Ted reveals truth. Party fights spirit at logging site. Spirit defeated. Halpin saves Filberta from river. |

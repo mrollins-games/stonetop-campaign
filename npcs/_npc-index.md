@@ -9,6 +9,7 @@
 |------|----------|-----------|--------|-----------|----------|-------|
 | [Axel](stonetop-residents/axel.md) | he/him | Apprentice cooper | Enthusiastic, terrible ideas | Ted's apprentice | 000, 001 | Source of stolen Fay wood |
 | [Brenna](stonetop-residents/brenna.md) | she/her | Barmaid | Flirtatious | Works at Birds & Bees | 000 | — |
+| [Cefin](stonetop-residents/cefin.md) | he/him | Hunter | — | Hunting party member | 001 | Returned possessed, now comatose |
 | [Colyn](stonetop-residents/colyn.md) | he/him | Porter/courier | Well-traveled, dallies with Fae | Wolfram's father | 000 | Found Wolfram in Old Woods |
 | [Dailin](stonetop-residents/dailin.md) | she/her | Shrine-keeper (Helior) | Conceited, tedious | Halpin's mother | 000 | "Church lady" energy |
 | [Dilwen](stonetop-residents/dilwen.md) | he/him | Trapper | Has a lot of backbone, rigid | Filberta's father | 000 | Doesn't approve of her path |
@@ -77,4 +78,4 @@ all thumbs, ambitious, beloved by everyone, beautiful singing voice, best cook, 
 ---
 
 ## Stonetop Names Pool
-Aderyn, Aeronwen, Afanen, Afon, Alun, Andras, Aneirin, Awstin, Bedwyr, Berwyn, Betrys, Braith, Briallen, Bronwen, Bryn, Cadi, Cadoc, Cadwygan, Caron, Cefin, Ceinwen, Ceridwyn, Cerys, Colwyn, Deiniol, Dilwen, Dylis, Eifion, Eirlys, Eluned, Emrys, Enfys, Eurwen, Gaenor, Garet, Gethin, Glyndir, Heledd, Hywel, Ifan, Iorwerth, Iwan, Lewela, Leuca, Linos, Mado, Maldwyn, Malon, Mared, Marged, Martyn, Meirion, Menwen, Mererid, Neirin, Nia, Ofydd, Olwyn, Owain, Padrig, Parry, Pryce, Pryder, Rheinal, Rhisiart, Rhosyn, Rydderch, Sawyl, Siana, Sioned, Talfryn, Tegid, Tiwlip, Tomos, Tudyr, Winifred, Yorath
+Aderyn, Aeronwen, Afanen, Afon, Alun, Andras, Aneirin, Awstin, Bedwyr, Berwyn, Betrys, Braith, Briallen, Bronwen, Bryn, Cadi, Cadoc, Cadwygan, Caron, Ceinwen, Ceridwyn, Cerys, Colwyn, Deiniol, Dilwen, Dylis, Eifion, Eirlys, Eluned, Emrys, Enfys, Eurwen, Gaenor, Garet, Gethin, Glyndir, Heledd, Hywel, Ifan, Iorwerth, Iwan, Lewela, Leuca, Linos, Mado, Maldwyn, Malon, Mared, Marged, Martyn, Meirion, Menwen, Mererid, Neirin, Nia, Ofydd, Olwyn, Owain, Padrig, Parry, Pryce, Pryder, Rheinal, Rhisiart, Rhosyn, Rydderch, Sawyl, Siana, Sioned, Talfryn, Tegid, Tiwlip, Tomos, Tudyr, Winifred, Yorath

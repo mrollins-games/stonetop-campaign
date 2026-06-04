@@ -8,13 +8,13 @@
 
 Spring arrives in Stonetop. The Seasons Change roll (7-9) grants an unexpected bounty (+1 surplus, from bumper crops and successful mead trade), but a threat must make itself known.
 
-A violent storm strikes. Captain, a member of a hunting party, staggers back to the village wounded — an axe wound, comatose, and possessed by a spirit speaking through him. The other two parties (a hunting party of 4 including Filberta's father Dilwen, and a trapping party including Axel) have not returned.
+A violent storm strikes. Cefin, a member of a hunting party, staggers back to the village wounded — an axe wound, comatose, and possessed by a spirit speaking through him. The other two parties (a hunting party of 4 including Filberta's father Dilwen, and a trapping party including Axel) have not returned.
 
-At the Birds & Bees, Halpin invokes Helior to heal Captain. He stabilizes the wound (10+ on Invoke the Sun God), but the consequence is severe: all light is supernaturally snuffed out in the pub — not just extinguished, but a void of anti-fire. The hearth cannot be relit. Through the healing, a spirit's voice speaks through Captain in spirit-tongue. Wolfram understands it (spirit-speaker) — it's an undead creature, freed from a tree, complaining about being trapped for hundreds of years and now being in an unfamiliar form.
+At the Birds & Bees, Halpin invokes Helior to heal Cefin. He stabilizes the wound (10+ on Invoke the Sun God), but the consequence is severe: all light is supernaturally snuffed out in the pub — not just extinguished, but a void of anti-fire. The hearth cannot be relit. Through the healing, a spirit's voice speaks through Cefin in spirit-tongue. Wolfram understands it (spirit-speaker) — it's an undead creature, freed from a tree, complaining about being trapped for hundreds of years and now being in an unfamiliar form.
 
 Ted reveals to the group that he found the Fay contract in his Chronicle and that Axel cut trees from the Great Wood — breaking the ancient pact. The trees were a **prison** for undead spirits. The Fay contract wasn't about protecting trees; it was about keeping these things contained.
 
-The party splits: Ted stays behind to marshal the villagers to fortify the switchback road (threatened by mudslides in the storm). Wolfram, Halpin, Gareth, and Filberta travel down to the logging site (the X on Captain's map) to find the missing parties and confront the threat.
+The party splits: Ted stays behind to marshal the villagers to fortify the switchback road (threatened by mudslides in the storm). Wolfram, Halpin, Gareth, and Filberta travel down to the logging site (the X on Cefin's map) to find the missing parties and confront the threat.
 
 At the clearing, they find felled trees prepared for floating downstream, an abandoned axe, and an ethereal undead spirit — roughly humanoid, ghostly, malevolent. Its instinct is to torment. Gareth attempts to negotiate by offering it something from his collected offerings, but it demands blood/torment. The spirit reveals it knows something about Wolfram's mother, tormenting him with cryptic references.
 
@@ -33,8 +33,8 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 ## Key Events
 
 - **Seasons Change roll:** 7-9 (Halpin rolls). Gain: Unexpected Bounty (+1 surplus). Threat: something makes itself known.
-- Captain returns wounded and possessed by a freed tree-spirit
-- Halpin heals Captain but creates a supernatural void of darkness in the Birds & Bees
+- Cefin returns wounded and possessed by a freed tree-spirit
+- Halpin heals Cefin but creates a supernatural void of darkness in the Birds & Bees
 - Ted reveals the broken Fay contract to the party
 - Discovery: The trees are a **prison for undead spirits** — the contract protects the world, not the trees
 - Axel is confirmed missing (never returned from logging)
@@ -46,7 +46,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 
 | NPC | Role/Context | New Info Established |
 |-----|-------------|---------------------|
-| Captain | Hunter, wounded | Returned possessed by spirit. Axe wound. Stabilized by Halpin. |
+| Cefin | Hunter, wounded | Returned possessed by spirit. Axe wound. Stabilized by Halpin. |
 | [Axel](../npcs/stonetop-residents/axel.md) | Ted's apprentice | Missing — never returned from logging. Cut the trees that freed the spirit. |
 | [Dailin](../npcs/stonetop-residents/dailin.md) | Halpin's mother | Tried to stop Halpin from going on expedition ("No, Halpin, don't risk yourself!") |
 | [Dilwen](../npcs/stonetop-residents/dilwen.md) | Filberta's father | Part of the missing hunting party of 4 |
@@ -74,7 +74,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 ## Discoveries & Arcana
 
 - **The Trees Are Prisons** — The Great Wood's trees contain bound undead spirits. The Fay contract exists to keep these prisons intact. Cutting trees frees the spirits.
-- **Spirit Markings** — Rune-like markings on trees in the logging area match markings found on Captain's body.
+- **Spirit Markings** — Rune-like markings on trees in the logging area match markings found on Cefin's body.
 
 ## Character Updates
 
@@ -90,7 +90,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 | Character | Move | Roll | Result | Consequence |
 |-----------|------|------|--------|-------------|
 | Halpin | Seasons Change | 7-9 | Unexpected Bounty | A threat makes itself known |
-| Halpin | Invoke the Sun God (heal Captain) | 12 (two 6s!) | 10+ | Supernatural void — fire/light extinguished permanently in the pub |
+| Halpin | Invoke the Sun God (heal Cefin) | 12 (two 6s!) | 10+ | Supernatural void — fire/light extinguished permanently in the pub |
 | Gareth | Resourceful (environment) | 12 | 10+ | Dealt 3 damage + created advantage for ally |
 | Filberta | Clash (with advantage from Underestimated) | 10+ | Hit | D8 damage (aided by Halpin) |
 | Filberta | Clash (second attack) | 7-9 | Hit + retaliation | 1 damage to spirit, thrown into river |
@@ -98,7 +98,6 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 
 ## Uncertain References
 
-- **Captain** — What's his full name? Is he a known NPC or new?
 - What happened to the other hunting/trapping parties? (Dilwen's group of 4, Axel)
 - The spirit mentioned Wolfram's mother — what does it know?
 - Are there more spirits in other felled trees?
