@@ -12,7 +12,7 @@ Flows from upper-left to lower-right (NW to SE):
 D4 → lower-left of D6 → bottom of C7 → B8 → C9 → north of C9 → E3 → F2 → G1 → south of H2 → continues south
 
 This is "The Stream" (Book II p.396) — wide, shallow, swift, lined with stones.
-The logging site (Session 1) was chosen for river access to float logs downstream.
+The logging site (Session 1) is in south C7, hugging the bluff — upstream of Stonetop so logs float down toward the village. The bluff blocks line of sight from Stonetop, which is how Axel worked without being noticed.
 
 ## POI Assignments (DRAFT)
 
@@ -22,7 +22,7 @@ The logging site (Session 1) was chosen for river access to float logs downstrea
 | C5  | Village on bluff | STONETOP — home base | YES |
 | D4  | River, bluff edge | Switchback path down. Stream ford. Washing area. | YES |
 | D6  | River edge, forest | Path to forest. Fay boundary marker (standing stone). | YES |
-| C7  | River, forest edge | Stream crossing. Quiet Twins sightings. Villagers fetch water. | YES |
+| C7  | River, forest/bluff | South side: LOGGING SITE (Session 1) — hugs bluff, broken line of sight from Stonetop. Felled stumps. SPIRIT ENCOUNTER here. North side: stream crossing, Quiet Twins sightings. | YES |
 | B8  | River, forest edge | Deep stream pool. Fish. Quiet Twins haunt strongest here. | YES |
 | C9  | River, forest/high ground | Stream narrows, rocky. Possible crossing point. | YES |
 | B10 | Forest edge, high ground | The Maw — cave entrance, bones, strange noises. | YES |
@@ -31,7 +31,7 @@ The logging site (Session 1) was chosen for river access to float logs downstrea
 ### Near Wood (E-F) — first hexes into the Great Wood
 | Hex | Terrain | POI | Visible? |
 |-----|---------|-----|----------|
-| E3  | River, forest | Stream widens. Logging site nearby. Felled stumps. SPIRIT ENCOUNTER (Session 1). | YES |
+| E3  | River, forest | Stream widens. Useful flora. Boar wallows near bank. | NO |
 | E5  | Forest edge | Dense brush. Game trail entrance. Boar sign. | NO |
 | E7  | Mixed forest | Wildflower clearing. Game trail crossroads. Deer. | NO |
 | E9  | Old-growth | Forest Folk glyphs on rocks. Ancient path markers. | NO |
