@@ -6,13 +6,45 @@ Generate a single large top-down illustrated map of a dense primeval forest regi
 ## Target Tool
 Microsoft PPT Copilot (Designer image generation, in-slide)
 
+## Slide References (for PPT Copilot)
+- **Slide 2** — Town layout of Stonetop (building placement, palisade shape)
+- **Slide 3** — Geological features with hex grid overlay (shows terrain + hex positions)
+- **Slide 4** — Same geological features WITHOUT hex overlay (cleaner view of terrain)
+- **Slide 7** — Hot Springs Island map (STYLE REFERENCE — match this ink-and-watercolor look, ignore book edge/table)
+- **Slide 8** — Zoomed-out terrain view (shows broader geography and scale)
+
 ## Style Reference
-- **Hot Springs Island hex map** (see `assets/noncannon/Cool Map.jpg`)
+- **Match the style on slide 7** (ignore the book edge/table in that photo)
 - Hand-illustrated, ink-and-watercolor feel
 - Top-down / bird's-eye perspective
 - Rich texture, organic shapes, slightly stylized (not photorealistic)
 - Muted earth tones: deep greens, dark browns, mossy grays, occasional gold accents
 - Black ink outlines with watercolor fill
+
+## Visible POI by Hex (features that MUST appear on the map)
+These are features players can see from a distance. Place them in the correct hex position relative to the grid on slide 3.
+
+| Hex | Visible Feature |
+|-----|----------------|
+| C5 | Village on bluff — thatched roofs, wooden palisade (see slide 2 for layout) |
+| D4 | Switchback path down the bluff, stream ford at the base |
+| D6 | Standing stone (Fay boundary marker) at forest edge |
+| C7 | Felled tree stumps along south bluff base (logging site) |
+| B8 | Deep pool in the stream, darker water |
+| C9 | Stream narrows between rocks |
+| B10 | Dark cave entrance in hillside (The Maw), bones near opening |
+| G1 | Ravine/gorge where stream drops down (visible gap in canopy) |
+| G3 | Grove of BLOOD-RED trees (stark contrast against green) |
+| G7 | Neat obsessive stacks of logs visible through trees (Hagr) |
+| H2 | Patch of beautiful bright flowers / flowering vines (Gylglyd) |
+| H4 | One MASSIVE ancient tree, taller/wider than everything around it |
+| H10 | Rocky ridge with higher elevation, visible break in canopy |
+| I1 | Ring of DEAD gray leafless trees (corruption, Things Below) |
+| I7 | Standing stone by a small pool (Fae waystone) |
+| J6/8 | THE GOLDEN OAK — enormous tree with shimmering golden canopy, towers above all |
+
+## Non-Visible Hexes
+All other hexes are dense forest canopy with no distinguishing features visible from above. They should blend naturally — varied greens, shadows, occasional clearings too small to be landmarks.
 
 ## Map Layout (left to right, roughly)
 The image should show these zones flowing **west to east**:
