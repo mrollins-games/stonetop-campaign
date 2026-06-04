@@ -16,7 +16,7 @@ Ted reveals to the group that he found the Fay contract in his Chronicle and tha
 
 The party splits: Ted stays behind to marshal the villagers to fortify the switchback road (threatened by mudslides in the storm). Wolfram, Halpin, Gareth, and Filberta travel down to the logging site (the X on Cefin's map) to find the missing parties and confront the threat.
 
-At the clearing, they find felled trees prepared for floating downstream, an abandoned axe, and an ethereal undead spirit — roughly humanoid, ghostly, malevolent. Its instinct is to torment. Gareth attempts to negotiate by offering it something from his collected offerings, but it demands blood/torment. The spirit reveals it knows something about Wolfram's mother, tormenting him with cryptic references.
+At the clearing, they find felled trees prepared for floating downstream, an abandoned axe, and an ethereal undead spirit — roughly humanoid, ghostly, malevolent. Its instinct is to torment. Gareth attempts to negotiate by offering it something from his collected offerings, but it demands blood/torment. Wolfram asks the spirit about his mother, but it doesn't know anything about her.
 
 Combat ensues:
 - Filberta attacks with advantage (Underestimated + Anger is a Gift), dealing significant damage
@@ -40,7 +40,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 - Axel is confirmed missing (never returned from logging)
 - Expedition to the logging site — combat with an undead spirit
 - Ted fortifies the switchback road against mudslides (successful Pull Together)
-- Spirit taunts Wolfram about knowing his mother
+- Wolfram asked the spirit about his mother — it didn't know anything
 
 ## NPCs Mentioned
 
@@ -99,7 +99,7 @@ The session ends with the spirit destroyed, the party battered but alive at the 
 ## Uncertain References
 
 - What happened to the other hunting/trapping parties? (Dilwen's group of 4, Axel)
-- The spirit mentioned Wolfram's mother — what does it know?
+- The spirit didn't know anything about Wolfram's mother — dead end for now
 - Are there more spirits in other felled trees?
 - What does the party do next — search for the missing people or return to town?
 

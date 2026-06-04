@@ -29,7 +29,7 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 - Is Axel alive? Where is he?
 - Will the Fay intervene — and as allies or enemies?
 - Can the spirits be rebound to the trees?
-- What is the spirit's connection to Wolfram's mother?
+- What is Wolfram's mother's fate? (Spirit didn't know — need another lead)
 - Is the supernatural void in the Birds & Bees permanent?
 - Are Dilwen's hunting party (4 people) alive?
 
@@ -38,7 +38,7 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 - **Axel** — Felled the trees. Currently missing.
 - **Cefin** — Returned possessed and wounded. Stabilized but comatose.
 - **Dilwen** — Filberta's father. Missing with hunting party of 4.
-- **Wolfram** — Spirit taunted him about his mother. Can speak to spirits.
+- **Wolfram** — Asked the spirit about his mother; it didn't know. Can speak to spirits.
 - **The Spirit** — Undead, freed when its tree was felled. Instinct: to torment. Defeated by the party in Session 1.
 
 ## Known Spirit Properties
