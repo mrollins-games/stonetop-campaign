@@ -22,12 +22,13 @@ Combat ensues:
 - Filberta attacks with advantage (Underestimated + Anger is a Gift), dealing significant damage
 - Gareth uses environment cleverly (Resourceful) to deal damage and create opportunities
 - Halpin consecrates his lantern as holy light and aids the party
-- The squirrel follower deals the finishing blow-ish
-- Filberta and her squirrel are thrown into the river by the spirit's wind attack — requiring a Defy Danger roll
-
-The session ends mid-combat with the spirit weakened (2-3 HP remaining) but still dangerous, and Filberta in the swollen river.
+- The squirrel follower contributes damage
+- Filberta and her squirrel are thrown toward the river by the spirit's wind attack — Halpin saves her from falling in
+- The party defeats the spirit
 
 Meanwhile, Ted's Pull Together roll to fortify the hillside succeeds.
+
+The session ends with the spirit destroyed, the party battered but alive at the logging site, and multiple people still missing in the woods.
 
 ## Key Events
 
@@ -81,7 +82,7 @@ Meanwhile, Ted's Pull Together roll to fortify the hillside succeeds.
 |-----------|--------|
 | Halpin | Used spell slot (Invoke the Sun God). Created supernatural darkness in Birds & Bees. |
 | Gareth | Used spell slot. Took damage. |
-| Filberta | Took damage. Thrown into river (unresolved). Marked Potential for Greatness. |
+| Filberta | Took damage. Nearly thrown into river (saved by Halpin). Marked Potential for Greatness. |
 | Ted | Stayed behind. Successfully marshaled villagers for fortification. |
 
 ## Moves of Note
@@ -99,14 +100,13 @@ Meanwhile, Ted's Pull Together roll to fortify the hillside succeeds.
 
 - **Captain** — What's his full name? Is he a known NPC or new?
 - What happened to the other hunting/trapping parties? (Dilwen's group of 4, Axel)
-- Did Filberta survive the river? (Defy Danger roll pending at session end)
 - The spirit mentioned Wolfram's mother — what does it know?
 - Are there more spirits in other felled trees?
+- What does the party do next — search for the missing people or return to town?
 
 ## Possible Steading Changes
 
 - Birds & Bees has a supernatural darkness problem (no fire/light works inside)
-- Switchback road reinforced (temporary — not a permanent improvement)
 
 ## Notes
 
