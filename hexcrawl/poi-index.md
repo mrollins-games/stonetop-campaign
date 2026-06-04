@@ -73,5 +73,5 @@ The logging site (Session 1) is in south C7, hugging the bluff — upstream of S
 |-----|---------|-----|----------|
 | J2  | Deep forest | Ancient growth. Tal gerdwyr territory. Very remote. | NO |
 | J4  | Deep forest | Trail markers point deeper (toward Vor Svetelik). | NO |
-| J6/8| Deep forest (combined) | Edge of the unknown. Cynddaraig (rage drake) territory rumored. | NO |
-| J10 | Deep forest | Possible approach to Golden Oak area (via Fae paths). | NO |
+| J6/8| Deep forest (combined) | THE GOLDEN OAK — Vor Svetelik. Ancient, massive. Fae stronghold. | YES (golden canopy) |
+| J10 | Deep forest | Cynddaraig (rage drake) territory rumored. Very remote. | NO |
