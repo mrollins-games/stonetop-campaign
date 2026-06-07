@@ -12,7 +12,7 @@ The ancient contract between Stonetop and the Fay of the Great Wood has been bro
 To torment the living
 
 ## Nature of the Threat
-The freed spirits are **undead** (not Fae). They are **corrupted Forest Folk** — during the war that led to the end of the Barrow Builders' age, some Forest Folk were corrupted by dark forces. Their uncorrupted kin bound them inside the trees of the Great Wood rather than destroy them, hoping they might one day be healed. The trees are the prisons, not the contract. The contract with Stonetop's ancestors ensured the trees would never be cut, protecting the binding. Now that trees have been felled, corrupted Forest Folk spirits are loose — malevolent, with an instinct to torment, twisted beyond recognition from who they once were.
+The freed spirits are **undead** (not Fae). They are **corrupted Forest Folk** — during the Time of the Cataclysm, the Green Lords called upon the Things Below to corrupt the Forest Folk so they could be used to put down the traitorous Fae. The corruption twisted them into malevolent spirits. After the Cataclysm, the Fae imprisoned the corrupted Forest Folk inside the trees of the Great Wood. The trees are the prisons, not the contract. The contract with Stonetop's ancestors ensured the trees would never be cut, protecting the Fae's binding. Now that trees have been felled, corrupted Forest Folk spirits are loose — malevolent, with an instinct to torment, twisted beyond recognition from who they once were.
 
 ## Grim Portents
 1. ☑ The contract is violated — Axel fells trees from the Great Wood
@@ -29,8 +29,10 @@ The freed spirits are **undead** (not Fae). They are **corrupted Forest Folk** �
 - Is Axel alive? Where is he?
 - Will the Fay intervene — and as allies or enemies?
 - Can the spirits be rebound to the trees?
-- What were the spirits before corruption? (ANSWERED: corrupted Forest Folk from the Barrow Builders' war)
-- Why did the Forest Folk bind rather than destroy their corrupted kin?
+- What were the spirits before corruption? (ANSWERED: Forest Folk, corrupted by the Things Below at the Green Lords' command during the Cataclysm)
+- Who imprisoned them in the trees? (ANSWERED: The Fae)
+- Why did the Fae bind rather than destroy the corrupted Forest Folk?
+- What happened to the uncorrupted Forest Folk? (ANSWERED: The Green Lords corrupted them ALL via the Things Below to use as weapons against the Fae — the Forest Folk "disappeared" because they were turned)
 - What is Wolfram's mother's fate? (Spirit didn't know — need another lead)
 - Is the supernatural void in the Birds & Bees permanent?
 - Are Dilwen's hunting party (4 people) alive?
@@ -50,7 +52,7 @@ The freed spirits are **undead** (not Fae). They are **corrupted Forest Folk** �
 - Speaks spirit-tongue (Wolfram can understand)
 - Malevolent — cannot be reasoned with easily
 - Uncomfortable in consecrated/holy light (Helior)
-- Was formerly a Forest Folk, corrupted during the war that ended the Barrow Builders' age, trapped in tree for hundreds of years
+- Was formerly a Forest Folk, corrupted by the Things Below at the Green Lords' command during the Cataclysm, imprisoned in tree by the Fae
 
 ## Session Log
 | Session | What Happened |
