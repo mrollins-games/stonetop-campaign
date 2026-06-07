@@ -12,7 +12,7 @@ The ancient contract between Stonetop and the Fay of the Great Wood has been bro
 To torment the living
 
 ## Nature of the Threat
-The freed spirits are **undead** (not Fae). They are malevolent, with an instinct to torment. They were bound inside the trees themselves — the trees are the prisons, not the contract. The contract with Stonetop's ancestors ensured the trees would never be cut, protecting the binding. Now that trees have been felled, spirits are loose.
+The freed spirits are **undead** (not Fae). They are **corrupted Forest Folk** — during the war that led to the end of the Barrow Builders' age, some Forest Folk were corrupted by dark forces. Their uncorrupted kin bound them inside the trees of the Great Wood rather than destroy them, hoping they might one day be healed. The trees are the prisons, not the contract. The contract with Stonetop's ancestors ensured the trees would never be cut, protecting the binding. Now that trees have been felled, corrupted Forest Folk spirits are loose — malevolent, with an instinct to torment, twisted beyond recognition from who they once were.
 
 ## Grim Portents
 1. ☑ The contract is violated — Axel fells trees from the Great Wood
@@ -29,6 +29,8 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 - Is Axel alive? Where is he?
 - Will the Fay intervene — and as allies or enemies?
 - Can the spirits be rebound to the trees?
+- What were the spirits before corruption? (ANSWERED: corrupted Forest Folk from the Barrow Builders' war)
+- Why did the Forest Folk bind rather than destroy their corrupted kin?
 - What is Wolfram's mother's fate? (Spirit didn't know — need another lead)
 - Is the supernatural void in the Birds & Bees permanent?
 - Are Dilwen's hunting party (4 people) alive?
@@ -48,7 +50,7 @@ The freed spirits are **undead** (not Fae). They are malevolent, with an instinc
 - Speaks spirit-tongue (Wolfram can understand)
 - Malevolent — cannot be reasoned with easily
 - Uncomfortable in consecrated/holy light (Helior)
-- Was formerly a living creature, trapped in tree for hundreds of years
+- Was formerly a Forest Folk, corrupted during the war that ended the Barrow Builders' age, trapped in tree for hundreds of years
 
 ## Session Log
 | Session | What Happened |
