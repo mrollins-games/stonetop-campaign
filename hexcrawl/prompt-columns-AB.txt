@@ -1,0 +1,31 @@
+Generate art for the A and B column hexes of my map. Match the art style of slide 7 (Hot Springs Island map) — hand-drawn ink line art with watercolor color fills, flat overhead top-down perspective looking straight down, parchment-toned background.
+
+STYLE GUIDE:
+- Dark brown/sepia ink outlines, watercolor washes for color
+- Flat top-down view — NO angle, NO isometric, NO horizon
+- Trees = round canopy blobs seen from above (not trunks)
+- Muted earth tones: deep greens (forest), gray-brown (rock/bluff), blue-silver (water), tan/gold (open ground/plateau)
+- Parchment background showing through in open areas
+- Rich texture but not oversaturated
+
+AREA DESCRIPTION (Columns A & B — Plateau and western forest edge):
+This is the open plateau west of the Great Wood. Mostly grassland with scattered trees.
+
+Key features by hex:
+- A7-A9: Open plateau. Short grass (tan/pale green). Scattered lone trees. Rocky patches. Foraging grounds with herb clusters (small colorful dots).
+- B6: Open plateau transitioning to forest edge on the east side.
+- B8: RIVER — the stream flows through here as a deep dark pool (oval, deeper blue/black). Rocky banks (tiny gray edges). Forest canopy surrounds the pool. Stream enters from NW (from C7), exits SE toward C9.
+- B10: THE MAW — a dark black oval cave entrance in elevated rocky ground. Scattered white/gray specks near opening (bones). Trees are shorter/sparser here due to thin soil on rock. Higher elevation than surrounding hexes.
+
+GENERAL CHARACTER:
+- Left/west portions are open grassland plateau (tan, sparse)
+- Right/east portions transition to forest edge (green canopy beginning)
+- The bluff/cliff edge runs roughly N-S through the B column — appears as a textured gray-brown band with shadow on the east side (drop-off)
+- Overall lighter and more open than the forest hexes to the east
+
+EDGES (for seamless tiling with adjacent columns):
+- East edge (toward C/D columns): forest canopy beginning, bluff edge, river at B8 flowing SE
+- West edge: open plateau continues off-screen
+- The stream at B8 connects NW to C7 (logging site) and SE to C9 (narrows)
+
+DO NOT add text, labels, people, or grid lines. Keep flat overhead perspective. Match slide 7 art style exactly.

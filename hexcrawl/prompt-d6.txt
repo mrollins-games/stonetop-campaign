@@ -1,0 +1,17 @@
+Using the selected/attached image as the basis for geographic features and their positions — keep the same layout, perspective, and feature placement. Redraw in this style:
+
+STYLE: Hand-drawn fantasy RPG map. Ink line art (dark brown/sepia outlines) with watercolor color fills. Flat overhead top-down view looking straight down. Parchment-toned background. Trees appear as round canopy blobs from above (not trunks). Muted earth tones — deep greens for forest, gray-brown for rock/bluff, blue-silver for water, tan/gold for open ground. Rich but not saturated. Similar to the Hot Springs Island hex map style (slide 7).
+
+CONTENT FOR THIS HEX (D6 — Fay Boundary Marker):
+Forest edge from above. West side: open ground transitioning to trees. East side: dense canopy. In the center, one small standing stone (gray dot with shadow) at the tree line. A faint path leads from the west toward the stone and into the forest. The boundary between open and forest is clear.
+
+EDGES (what is off-screen, for seamless tiling):
+- NE = dense forest canopy (light green, near wood)
+- E = forest (mixed canopy, near wood)
+- SE = forest canopy continuing
+- SW = river/bluff area (stream + rocky bluff in adjacent hex C7)
+- W = plateau/bluff edge (open grassland, tan)
+- NW = bluff/plateau (open, lighter)
+- Forest density increases toward the east
+
+DO NOT change the perspective or reimagine the composition. Keep it flat overhead. No text, no people, no grid lines. Square format.

@@ -1,0 +1,13 @@
+Using the attached image as an exact reference for layout, composition, and feature placement: redraw this map in full color watercolor style. Keep every geographic feature (bluff, village, stream, paths, tree positions, forest density) in exactly the same position and scale. Change ONLY the rendering style:
+
+- Add rich watercolor color: deep greens for forest canopy, gray-brown for bluff/rock, blue-silver for the stream, tan/gold for open ground, warm brown for paths
+- Keep the ink line work but make it darker/crisper (dark brown or black outlines)
+- Add watercolor washes of color between the ink lines
+- The parchment background becomes slightly warmer/richer
+- Forest areas get layered green washes (lighter near village, darker deeper in)
+- The stream gets a thin blue watercolor wash
+- The bluff/cliff gets gray-brown shading to show depth
+- Village rooftops get warm brown/red-orange tiny dots of color
+- Open plateau areas stay light tan/gold wash
+
+DO NOT change: the position of any feature, the perspective/angle, the scale, the composition, the tree placement patterns, or the overall layout. This is a RESKIN only — same map, new colors.

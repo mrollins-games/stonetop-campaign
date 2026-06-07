@@ -18,3 +18,9 @@ assets/art/decorative/*.png
 
 # Generated PDF export
 sessions/session-zero-deck.pdf
+
+# Visual Studio temp
+.vs/
+
+# Temp preview images
+hexcrawl/session2-preview.jpg
