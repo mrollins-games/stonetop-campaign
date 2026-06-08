@@ -46,7 +46,7 @@ The energy flowing through this glade is what draws predisposed townsfolk across
 | # | Discovery | Move/Trigger |
 |---|-----------|--------------|
 | 1 | Trees lean away from the glade's edges. Nothing grows in the central path. The shape is too regular to be natural. | Free (obvious on inspection) |
-| 2 | The ley line is strong here — flowing SW toward the river, NE toward the forest. The glade IS the ley line's surface expression. | Gareth Azure Hand (free) |
+| 2 | The ley line is strong here — flowing SW toward the river, N toward the forest. The glade IS the ley line's surface expression. | Gareth Azure Hand (free) |
 | 3 | A spirit inhabits this place. Welcoming, eager. It wants you to walk. | Wolfram Spirit Tongue (free) |
 | 4 | The glade has been walked for generations. Faint footprints from hundreds of trips — hunters, foragers, children. All going the same two directions. | Seek Insight 7-9 |
 
@@ -112,7 +112,7 @@ From the cliff edge of Stonetop (C5), looking SE, the glade's lightning shape is
 - Party of 3 (same size as Hywel's group in D8)
 
 **Current Situation:**
-- They've been here 3-4 days. Trapping route runs E5 → E7 (they don't go past The Cusp into F8).
+- They've been here 3-4 days. Trapping route runs N from camp into E7 (they don't go past The Cusp into F8).
 - Storm has them hunkered down — river too high to cross back, trails muddy.
 - They've had good trapping — pelts drying under the lean-to.
 - Dilwen will NOT be pleased to see Filberta this deep in the wood. Protective anger.
@@ -127,7 +127,7 @@ From the cliff edge of Stonetop (C5), looking SE, the glade's lightning shape is
 | # | Discovery | Move/Trigger |
 |---|-----------|--------------|
 | 1 | Camp is well-made. Dilwen's been doing this for decades. Pelts are excellent quality — fox, marten. | Free |
-| 2 | His snare-line runs NE into E7. He avoids going further than the edge of the managed coppice — "game's good enough without pushing it." | Filberta knows (free) or ask Dilwen |
+| 2 | His snare-line runs N into E7. He avoids going further than the edge of the managed coppice — "game's good enough without pushing it." | Filberta knows (free) or ask Dilwen |
 | 3 | He's seen the jade formations (The Cusp) from a distance. Never gone close. "Bad feeling. Leave it." | Ask Dilwen |
 | 4 | The hazel here grows unnaturally bright and vigorous — the ley line's energy concentrating at the tip. Dilwen doesn't know why, just knows "good wood here." | Gareth Azure Hand (free) or Seek Insight |
 
@@ -139,7 +139,7 @@ From the cliff edge of Stonetop (C5), looking SE, the glade's lightning shape is
 
 | Energy | Type | Flow Direction | Strength | Connects To / Fed By | Status |
 |---|---|---|---|---|---|
-| Ley line pass-through | Current | NE from E7, SW toward D4 | Weak | Part of full path C9→D8→E7→E5→D4→Stonetop | Undiscovered |
+| Ley line pass-through | Current | S from E7, SW toward D4 (enters from N at glade tip, flows along lightning-bolt shape to river) | Weak | Part of full path C9→D8→E7→E5→D4→Stonetop | Undiscovered |
 | Trail spirit (glade) | Source | Radiates along the glade's length | Faint, warm, inviting | Tethered to the glade/ley line path | Undiscovered |
 | Drowned girl spirit | Source | Localised at the ford | Faint | Ghost anchored to crossing | Undiscovered |
 
@@ -149,7 +149,8 @@ From the cliff edge of Stonetop (C5), looking SE, the glade's lightning shape is
 
 - **Wolfram (James) — spirits:** "Two here. One IS this place — the glade, the path, it's alive. Welcoming. Eager. And at the water... someone old. Sad. She's watching the crossing."
 - **Wolfram — Vessel sense:** "The earth beneath your feet is humming. A current — the same one from E7, flowing through here toward the river. This glade IS the ley line."
-- **Gareth (Danny R.) — Azure Hand:** "The current is strong here — surface-level, not buried. It's why nothing grows in this path. The energy flows SW toward the river and NE back into the forest. Two directions, one line."
+- **Gareth — Azure Hand (tracing):** From the glade, he can point directly to E7 (N) and D4 (SW). The glade shape maps the ley line perfectly.
+- **Gareth (Danny R.) — Azure Hand:** "The current is strong here — surface-level, not buried. It's why nothing grows in this path. The energy flows SW toward the river and N back into the forest. Two directions, one line."
 - **Halpin (Dan G.) — Fire Within:** Clear sight at night. The glade is bright with moonlight (no canopy). Can see the far bank clearly.
 - **Filberta (Kari):** "You know this place. You've been here before — with Dad. He camps in the bend up ahead. The squirrels brought you this way as a child, before you found The Cusp."
 
@@ -157,7 +158,7 @@ From the cliff edge of Stonetop (C5), looking SE, the glade's lightning shape is
 
 - **Wolfram — Spirit Tongue:** Can speak to both spirits. The trail spirit is eager/chatty ("Come! Walk! I'll show you!"). The drowned girl is silent but responds to being seen — manifests underwater.
 - **Wolfram — Call the Spirits:** Could force the drowned girl to fully manifest. She'd appear as a soaking young woman, water pouring from her, confused and grief-stricken. Risky — might upset her.
-- **Gareth — Azure Hand:** Can trace the ley line in both directions. From here, he can point directly to both E7 (NE) and D4 (SW). The glade shape maps the ley line perfectly.
+- **Gareth — Azure Hand:** Can trace the ley line in both directions. From here, he can point directly to E7 (N) and D4 (SW). The glade shape maps the ley line perfectly.
 - **Filberta — Expert:** Knows the crossing. Knows her father's camp location. Advantage on navigation here.
 - **Ted — Chronicler:** "The Chronicle mentions this ford. 'The safe crossing where the forest opens.' No one ever explained why it was safe."
 
