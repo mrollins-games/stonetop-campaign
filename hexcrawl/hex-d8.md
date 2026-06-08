@@ -2,7 +2,7 @@
 
 **Terrain:** Forest. Steep hillside transitioning to ancient woodland edge.
 **Visible?** NO (nothing visible from distance)
-**Hunting route:** D8 → E7 → E9 (the main hunting corridor from Stonetop)
+**Hunting route:** D8 → E7 → E5 (the main hunting corridor from Stonetop)
 
 ## Entry Description
 
@@ -78,7 +78,7 @@
 
 | # | Discovery | Move/Trigger |
 |---|-----------|--------------|
-| 1 | Drakes are displaced — their nesting ground is east (E7/E9 border). Something pushed them here. | Free observation / Know Things for why |
+| 1 | Drakes are displaced — their nesting ground is east (E7/E5 border). Something pushed them here. | Free observation / Know Things for why |
 | 2 | The platform is old — older than anyone in Stonetop. Vine-bound, notched joints, no rope or nails. | Seek Insight 7-9 |
 | 3 | From the canopy, looking south into E7: the Food Nexus pattern is unmistakable — regular tree spacing, species mix, converging game trails. It's designed. | Free (visible from height) |
 
@@ -117,7 +117,7 @@
 - **Gareth — Azure Hand:** Can trace ley line direction (points into E7). Energy is mild here — stronger ahead.
 - **Filberta — Expert:** This is her territory. She guides the group through the Rooted Pass. The squirrel warns of drakes. She can Forage with advantage in the area.
 - **Ted — Polyglot/Chronicler:** The platform construction is pre-Stonetop. If he examines it: "No one in the Chronicle mentions building these. They've always just... been here."
-- **Know Things (drakes displaced):** 7-9: "They don't nest here. Something's pushed them west." 10+: "Their normal territory is the E7/E9 border. Something in Fae territory has agitated them — maybe the same thing that's making all the wildlife edgy this spring."
+- **Know Things (drakes displaced):** 7-9: "They don't nest here. Something's pushed them west." 10+: "Their normal territory is the E7/E5 border. Something in Fae territory has agitated them — maybe the same thing that's making all the wildlife edgy this spring."
 
 ---
 

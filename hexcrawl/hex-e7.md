@@ -2,7 +2,7 @@
 
 **Terrain:** Ancient managed woodland. Forest Folk cultivated coppice.
 **Visible?** NO (pattern only visible from within or from canopy height)
-**Hunting route:** D8 → E7 → E9 (the main hunting corridor from Stonetop)
+**Hunting route:** D8 → E7 → E5 (the main hunting corridor from Stonetop)
 **Note:** The Food Nexus takes up most of this hex. Multiple POIs exist within it.
 
 ## Entry Description
@@ -63,13 +63,13 @@ With the Forest Folk gone, the ley line still flows (it's ancient, pre-dates the
 - "You mentioned this to your father once — how the game is always good here, how the trees seem planted. He laughed. 'Don't overthink it, girl. Just be grateful.' But you were right."
 - If she pieces together the cultivation system, that's a Potential for Greatness moment — connecting to the Forest Folk legacy through the thing she does best.
 - Squirrel leads her to cached hazelnuts — free provisions (1-2 uses, no roll). "It digs at the base of a hazel, chattering. A cache — more than one squirrel could have buried."
-- **Childhood memory:** Dilwen left her here on trapping trips — "Wait here, I'll be back by sundown." She'd play with the squirrels, talk to them, follow them through the canopy. One day they weren't there. All of them, gone. She got bored, ventured further SE than she'd ever gone, and found The Cusp. That's where she met her fairy friend. That's where they made the fairy ring together (in F6, just beyond the boundary).
+- **Childhood memory:** Dilwen left her here on trapping trips — "Wait here, I'll be back by sundown." She'd play with the squirrels, talk to them, follow them through the canopy. One day they weren't there. All of them, gone. She got bored, ventured further NE than she'd ever gone, and found The Cusp. That's where she met her fairy friend. That's where they made the fairy ring together (in F8, just beyond the boundary).
 
 ---
 
 ## POI 2: The Restless Oak
 
-**Location:** Eastern edge of the Food Nexus, bordering Fae territory (E9).
+**Location:** NE edge of the Food Nexus, bordering Fae territory (F8).
 
 **Description:**
 > A broad ancient oak, larger than its neighbours but not impossibly so. Bark deeply furrowed. Roots grip the earth in thick coils, grafted into the root network. In the rain, sap weeps from cracks in patterns too regular to be natural — like tears tracing the same channels over and over.
@@ -181,10 +181,10 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 **What They Fear:**
 - Feathered drakes (the displaced ones from D8 — they eat squirrels)
 - The storm (flooding ground caches, breaking nesting branches)
-- Things approaching from E9 / Fae territory
+- Things approaching from E5 / Fae territory
 
 **What They Offer:**
-- **Intel:** They know where everything is — drakes, boar, Hywel's party (D8), Dilwen's party (E9)
+- **Intel:** They know where everything is — drakes, boar, Hywel's party (D8), Dilwen's party (E5)
 - **Pathfinding:** Relay alarm calls can guide Filberta through safe routes or warn of danger
 - **Cache network:** They know every food source in E7 (free Forage advantage)
 - **Early warning:** If something threatens the party, squirrels alarm before anyone sees it
@@ -203,7 +203,7 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 ## POI 5: The Cusp
 
-**Location:** South-eastern edge of E7, where the managed woodland meets Fae territory (boundary with E9 and F6).
+**Location:** NE edge of E7, where the managed woodland meets Fae territory (boundary with F8).
 
 **Description:**
 > The trees thin. The managed pattern of the coppice gives way to something wilder, older. And there — rising from the forest floor like frozen surf — jade-green crystalline formations. Waist-high, translucent, shaped like crashing waves caught mid-break. They run in a line as far as you can see in both directions, curving away into the trees. The boundary.
@@ -220,7 +220,7 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 - One day, the squirrels were all gone (Dilwen was too close — the network dispersed from him).
 - Bored, she ventured further SE than she'd ever been and found The Cusp.
 - This is where she met her fairy friend for the first time.
-- Together they crossed into F6 and made the fairy ring (in F6, just beyond the boundary).
+- Together they crossed into F8 and made the fairy ring (in F8, just beyond the boundary).
 - She's been back many times. This place is hers — childhood, wonder, secret friendship.
 
 **Discoveries:**
@@ -251,7 +251,7 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 | Root network | Reservoir | Radiates outward from nexus centre | Moderate | Fed by ley line | Undiscovered |
 | Sunstone | Source | Pulses outward, static | Gentle, warm | Helior/Danu convergence (self-sustaining) | Undiscovered |
 | Restless Oak spirit warmth | Source | Faint radiance, localised | Faint | Uncorrupted spirit's connection to root network | Undiscovered |
-| The Cusp (binding residue) | Source | Radiates inward toward Fae territory (E9/F6) | Moderate, ancient | Residual energy from the Fae binding spell — projection point | Undiscovered |
+| The Cusp (binding residue) | Source | Radiates inward toward Fae territory (F8) | Moderate, ancient | Residual energy from the Fae binding spell — projection point | Undiscovered |
 
 ---
 
@@ -269,7 +269,7 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 - **Wolfram — Spirit Tongue:** Can hear the Restless Oak directly. She speaks in his mind — old, tired, fragmentary. This is his scene.
 - **Wolfram — Call the Spirits:** A rite could strengthen her voice, let her share memories/visions rather than just words.
-- **Gareth — Azure Hand:** Can trace the ley line (points to C9 north, fades east toward E9). Can sense the root grafts underground. If he tries to gather energy at the fairy ring node, it's gentle — like cupping water from a stream.
+- **Gareth — Azure Hand:** Can trace the ley line (points to C9 north, fades south toward E5). Can sense the root grafts underground. If he tries to gather energy at the ley node, it's gentle — like cupping water from a stream.
 - **Halpin — Consecrated Flame:** No creatures of darkness here. His flame burns steady — this hex is clean.
 - **Filberta — Know Things:** 7-9: "Someone planted these on purpose." 10+: full picture of the cultivation system. This is HER moment to shine as the expert.
 - **Ted — Chronicler:** Has the Chronicle mentioned these hunting grounds? Maybe an old entry noting "the deep wood always provides" without understanding why.
