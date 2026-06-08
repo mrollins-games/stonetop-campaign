@@ -57,7 +57,16 @@ The energy flowing through this glade is what draws predisposed townsfolk across
 **Location:** SW edge of the glade where it meets the river. The ford between E5 and D4.
 
 **Description:**
-> The river here is wide but not deep — waist-high at most in summer, chest-high in spring. The current is deceptive; it looks calm but pulls hard mid-stream. Smooth river stones underfoot, some slippery with algae. On the far bank: the path up to D4 where townsfolk wash clothes and draw water.
+> The river here is wide and fast. Never calm — sometimes calmer. Chest-high in summer at its shallowest point, neck-high or worse in spring. The current is vicious; what looks like a gentle surface flow hides an undertow that drags at your legs mid-stream. The riverbed is uneven — smooth stones give way suddenly to thigh-deep holes. Algae-slick rocks shift underfoot. The far bank is visible — tantalisingly close — but the crossing has claimed lives.
+
+> Most townsfolk won't attempt it. The washerwomen at D4 work the near bank only. Children are warned away. But the wild-headed — the young, the restless, the ones the ley line pulls — they look across on a calm-ish day and think: I could make that.
+
+**The Danger (baseline, WITH the spirit helping):**
+Even with the drowned girl guiding, crossing requires nerve:
+- **Calm-ish conditions:** Defy Danger +STR or +DEX. 7-9: make it but soaked, gear wet, exhausted. 10+: across safely.
+- **Storm/spring flood:** Defy Danger +STR at disadvantage. 6-: swept downstream, d8 damage, gear lost, separated. 7-9: barely make it, mark exhausted, lose something.
+
+**Without the spirit:** Add disadvantage to all crossing rolls. The ford becomes genuinely lethal.
 
 **The Spirit — Her Story:**
 A young woman from Stonetop, generations ago. She was swimming across to meet a lover on this side — someone she wasn't supposed to see. The current took her mid-crossing. She drowned within sight of both banks.
@@ -80,10 +89,6 @@ Her spirit lingers at the ford. She doesn't want anyone else to drown here. She 
 | 3 | She's a ghost — mortal dead, not a nature spirit. Young woman. Drowned here long ago. | Wolfram speaks to her / Seek Insight 10+ |
 | 4 | On the river bottom, caught between two stones: a corroded bronze clasp. Hers. A love-token she was bringing across. | Physical search underwater |
 
-**Danger (without the spirit):**
-If something ever disrupted or banished her, the crossing becomes treacherous:
-- Defy Danger +STR to cross in spring. 6-: swept downstream, d6 damage, gear lost. 7-9: make it but exhausted/soaked/separated.
-
 ---
 
 ## POI 3: Dilwen's Camp
@@ -91,7 +96,7 @@ If something ever disrupted or banished her, the crossing becomes treacherous:
 **Location:** The narrow northern zig-zag of the glade, where the lightning shape bends sharply and the trees close in overhead.
 
 **Description:**
-> A hunter's camp tucked into the angle of the glade's sharpest zig-zag. A dome of living hazel poles bent together and lashed with leather cord, oiled hide draped over the frame. The surrounding uncut hazel forms a dense windbreak wall. Inside: dry, surprisingly warm, smells of green wood and hazelnuts. Three packs hung high on a branch. Snares strung in the tree-line. Quiet. Professional.
+> A hunter's camp tucked into the angle of the glade's sharpest zig-zag. A dome of living hazel poles bent together and lashed with leather cord, oiled hide draped over the frame. The surrounding uncut hazel forms a dense windbreak wall. Inside: dry, surprisingly warm, smells of green wood and hazelnuts. Three packs hung high on a branch. Quiet. Professional.
 
 **The Hazel Bower:**
 - 6-8 living hazel poles bent from adjacent stools into an arch, lashed at the top, oiled hide draped over. Living roots keep it anchored in storm winds.
@@ -122,7 +127,7 @@ He's exploiting a loophole. The Halfeyd (Book II p.371) demands an offering when
 - Party of 3 (same size as Hywel's group in D8)
 
 **Current Situation:**
-- They've been here 3-4 days. Trapping route runs N from camp into E7 (they don't go past The Cusp into F8).
+- They've been here 3-4 days. Trap-line runs N from camp into E7 (they don't go past The Cusp into F8). He is never there when the animal dies. He is never there in the broader sense — leaving Filberta behind, leaving camp before dawn, always somewhere else when things happen.
 - Storm has them hunkered down — river too high to cross back, trails muddy.
 - They've had good trapping — pelts drying under the lean-to.
 - Dilwen will NOT be pleased to see Filberta this deep in the wood. Protective anger.
@@ -137,9 +142,17 @@ He's exploiting a loophole. The Halfeyd (Book II p.371) demands an offering when
 | # | Discovery | Move/Trigger |
 |---|-----------|--------------|
 | 1 | Camp is well-made. Dilwen's been doing this for decades. Pelts are excellent quality — fox, marten. | Free |
-| 2 | His snare-line runs N into E7. He avoids going further than the edge of the managed coppice — "game's good enough without pushing it." | Filberta knows (free) or ask Dilwen |
+| 2 | His trap-line runs N into E7. He avoids going further than the edge of the managed coppice — "game's good enough without pushing it." He is never there when the animal dies. | Free (Filberta) or ask Dilwen |
 | 3 | He's seen the jade formations (The Cusp) from a distance. Never gone close. "Bad feeling. Leave it." | Ask Dilwen |
 | 4 | The hazel here grows unnaturally bright and vigorous — the ley line's energy concentrating at the tip. Dilwen doesn't know why, just knows "good wood here." | Gareth Azure Hand (free) or Seek Insight |
+
+---
+
+## Filberta's Squirrel — Origin Story
+
+**Location:** E5, the Welcome Glade. Filberta was young — left here by Dilwen.
+
+> *[PLACEHOLDER — extract from Session 2 transcript. This is the story of how Filberta's squirrel follower chose her. It happened here in the glade, while Dilwen was away on his trap-line.]*
 
 ---
 
