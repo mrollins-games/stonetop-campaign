@@ -113,7 +113,7 @@ He's exploiting a loophole. The Halfeyd (Book II p.371) demands an offering when
 - This is what DEFINES hunters as an in-group. It's initiation knowledge.
 - Non-hunters don't know the rule exists. From townsfolk perspective: "hunters hunt, non-hunters do not" — unwritten law, never questioned.
 - The hunters' legend: if a random townsperson hunted without knowing the offering tradition, the Halfeyd would thin them from the herd. This is why no one casually takes up hunting — it's not gatekeeping, it's protection.
-- **Dilwen never taught Filberta the offering.** He traps, so he never had to. If she ever makes a kill...
+- **Filberta knows the offering tradition.** She learned it from other hunters, not from Dilwen. His loophole — trapping to avoid the offering — is part of what she finds repelling about him. It's cowardly. Disrespectful. She sees it as him cheating the natural order rather than honouring it.
 
 **Dilwen's Party:**
 - **Dilwen** (Filberta's father) — gruff, experienced trapper. Surprised to see his daughter out here.
