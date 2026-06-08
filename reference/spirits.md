@@ -53,3 +53,60 @@
 - **Corrupted fish at B8/D10**: Not spirits. Flesh warped by Things Below influence. Animals with mutations.
 - **The Quiet Twins (F2)**: Ghosts — they ARE spirits (mortal dead who linger). On the spirit table above.
 - **Sunstone (E7)**: Not a spirit. A divine manifestation — an *object* created by the overlap of two gods' influence. No consciousness.
+
+---
+
+## Sacred Sites (Book II p.362)
+
+Places where spirits of the wild are tethered, or where they tend to be active.
+
+**Marker** (1d12) — what marks this place as sacred:
+
+| Roll | Marker |
+|---|---|
+| 1 | Nothing you can put your finger on, just the sense of being watched |
+| 2-4 | A place that resonates strongly with the spirit's theme |
+| 5-6 | A remarkable natural feature, particularly large/beautiful/ancient/etc. |
+| 7-8 | An unusual feature, probably natural but strange or out of place |
+| 9 | An idol or altar, ancient and crumbling/buried/submerged |
+| 10 | An idol or altar, made by the locals |
+| 11-12 | Roll twice with a d10, combine |
+
+**Activity** (1d12) — how present/active the spirit is:
+
+| Roll | Activity |
+|---|---|
+| 1 | Missing, dissipated, greatly weakened |
+| 2 | Imprisoned, probably seeking release |
+| 3-4 | Slumbering, waiting for something |
+| 5-6 | Sporadic, often slumbering or away |
+| 7-9 | Alert, aware, unlikely to manifest |
+| 10-12 | Alert, aware, manifesting freely |
+
+**Disposition** (1d12) — how the spirit regards visitors:
+
+| Roll | Disposition |
+|---|---|
+| 1-2 | Dangerous, possibly corrupted by the Things Below |
+| 3-4 | Vengeful, grumpy, protective, angry at intrusion |
+| 5-6 | Plaintive, needful, wronged, demanding |
+| 7-8 | Aloof, shy, dismissive, has their own concerns |
+| 9-10 | Curious, playful, mischievous, friendly |
+| 11-12 | Content, pleasant, helpful, beneficent |
+
+**Theme** (1d12) — the spirit's nature (Book II p.357):
+
+| Roll | Theme |
+|---|---|
+| 1 | Trees/plants/flora/growing things |
+| 2 | Beasts/vermin/fauna |
+| 3 | Air/wind/weather/fire |
+| 4 | Spring/birth/fertility/sex/healing |
+| 5 | Summer/heat/growth/vitality |
+| 6 | Autumn/harvest/sustenance/plenty |
+| 7 | Winter/cold/hunger/sleep/death |
+| 8 | Savagery/the hunt/dominance |
+| 9 | Nurture/shelter/provision |
+| 10 | The land/soil/stone/terrain |
+| 11 | Blight/decay/reclamation/destruction |
+| 12 | Water/streams/ponds/lakes (possibly corrupted by Things Below) |
