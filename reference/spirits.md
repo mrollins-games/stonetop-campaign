@@ -13,6 +13,7 @@
 | **Little Gods** | — | Spirits that accumulated worship/belief. More powerful than elementals. Tied to concepts or places. | Book II p.182 |
 | **Primordial Powers** | Fundamentals, Voidblights | Ancient, pre-creation. Alien. Fundamentals = raw forces. Voidblights = entropic/corrupting. | Book II p.298, 312-313 |
 | **Bound/Corrupted Forest Folk** | — | Mortal spirits forced into trees by Fae binding. Corrupted by Green Lords. Trapped, angry, dangerous. | Book II (Great Wood) |
+| **Halfeyd** | — | Hunt-spirit. Marks those who kill without offering as prey. Fickle, sadistic, terrifying. 3 days hunted by all predators. Washed away by running water. | Book II p.371 |
 | **Mortal-merged** | e.g. Restless Oak | Mortal who died and naturally joined with their tether. Rare. Not born as spirit. | Campaign canon |
 
 ---

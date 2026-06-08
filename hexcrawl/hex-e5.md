@@ -105,6 +105,16 @@ He feels powerful here. The pinnacle of the glade — he's at the striking point
 **The View from Stonetop:**
 From the cliff edge of Stonetop (C5), looking SE, the glade's lightning shape is recognizable from above. At the narrow northern tip — Dilwen's hazel camp — the bright yellow-green of the hazel leaves looks like **sparks thrown at the end of a lightning strike**. This is part of what draws people: that flash of golden-yellow against the dark forest canopy, catching the eye from the bluff. "What IS that bright patch in the trees?"
 
+**Why Dilwen TRAPS (not hunts):**
+He's exploiting a loophole. The Halfeyd (Book II p.371) demands an offering when you make a kill — "When you make a kill, you leave an offering. An offering for the Halfeyd. Fail to do so, and you might find yourself as prey—for everything." Dilwen THINKS that because the animals die in his traps when he's not present, he doesn't technically make the kill. No kill = no offering needed = no curse. Whether this is actually true is... unclear. He's gotten away with it so far.
+
+**Hunter Culture (canon):**
+- The offering tradition is passed down generation to generation among hunters — an in-group secret. They don't call it "the Halfeyd" by name, but every hunter knows: you make a kill, you leave an offering.
+- This is what DEFINES hunters as an in-group. It's initiation knowledge.
+- Non-hunters don't know the rule exists. From townsfolk perspective: "hunters hunt, non-hunters do not" — unwritten law, never questioned.
+- The hunters' legend: if a random townsperson hunted without knowing the offering tradition, the Halfeyd would thin them from the herd. This is why no one casually takes up hunting — it's not gatekeeping, it's protection.
+- **Dilwen never taught Filberta the offering.** He traps, so he never had to. If she ever makes a kill...
+
 **Dilwen's Party:**
 - **Dilwen** (Filberta's father) — gruff, experienced trapper. Surprised to see his daughter out here.
 - **[Companion 1]** — TBD
