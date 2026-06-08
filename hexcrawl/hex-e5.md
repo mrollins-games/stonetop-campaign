@@ -130,7 +130,7 @@ He's exploiting a loophole. The Halfeyd (Book II p.371) demands an offering when
 **Filberta's Moment:**
 - "What are you doing out here? I told you to stay in the village."
 - But also: grudging respect if she clearly handled herself getting here.
-- The squirrel colony in E7 dispersed when Dilwen passed through — he was grumbling about it. "Not a damn squirrel to be found today."
+- "Not a damn squirrel to be found today." (They dispersed when he entered E7 — as always.)
 
 **Discoveries:**
 
@@ -162,7 +162,7 @@ He's exploiting a loophole. The Halfeyd (Book II p.371) demands an offering when
 - **Gareth — Azure Hand (tracing):** From the glade, he can point directly to E7 (N) and D4 (SW). The glade shape maps the ley line perfectly.
 - **Gareth (Danny R.) — Azure Hand:** "The current is strong here — surface-level, not buried. It's why nothing grows in this path. The energy flows SW toward the river and N back into the forest. Two directions, one line."
 - **Halpin (Dan G.) — Fire Within:** Clear sight at night. The glade is bright with moonlight (no canopy). Can see the far bank clearly.
-- **Filberta (Kari):** "You know this place. You've been here before — with Dad. He camps in the bend up ahead. The squirrels brought you this way as a child, before you found The Cusp."
+- **Filberta (Kari):** This is her father's camp. The hazel bower, the fire pit, the snare line running north. She's been here before — many times, as a child.
 
 ## Active Interactions
 
