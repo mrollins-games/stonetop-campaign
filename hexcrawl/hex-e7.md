@@ -17,6 +17,8 @@
 |-----|------|----------|
 | 1. The Food Nexus (ecosystem) | Flora/magical ecosystem | NO (subtle pattern, requires observation) |
 | 2. The Restless Oak | Spirit/tree (uncorrupted) | NO (looks like any large oak until investigated) |
+| 3. The Sunlit Hollow | Sacred site / divine convergence | NO (hidden in canopy gap, found by following bees) |
+| 4. The Canopy Parliament | Fauna / intel network | NO (squirrels scatter for strangers) |
 
 ---
 
@@ -120,13 +122,92 @@ Direct voice in Wolfram's mind only (Spirit Tongue). Old voice, tired, like wind
 
 ---
 
+## POI 3: The Sunlit Hollow
+
+**Location:** A clearing within the Food Nexus where the canopy parts in an unnatural gap.
+
+**Description:**
+> The canopy opens — not broken, but grown apart, as if the trees agreed to make space. A shaft of warm light falls directly onto a massive hollow oak, tracking with the sun throughout the day. The air is warmer here. Frost never forms on this ground. Wildflowers bloom weeks before anywhere else in the Wood. The light has that golden-hour quality — amber, soft — regardless of time of day.
+
+**The Colony:**
+A wild bee colony inhabits the hollow oak — ancient, massive, thriving. The bees glow faintly at dusk, tracing golden threads between flowers. They don't sting the faithful. They orbit Halpin's Consecrated Flame gently if lit — greeting it, not fleeing it.
+
+**The Sunstone:**
+Embedded in the hollow oak's roots: a smooth amber-coloured stone, warm to the touch, faintly luminous. Not worked by mortal hands. This is the physical manifestation of the coincidence of Helior and Danu in this place — where the sun god's warmth meets the earth mother's fertility, both pleased that their domains overlap in abundance here.
+
+**The Honey:**
+- Luminescent — soft amber glow, visible in darkness
+- Warming — eating it spreads gentle heat through the body for hours
+- Cures frostbite, hypothermia, and cold-related ailments (not wounds, not disease, not poison)
+- Doesn't spoil. Properties persist anywhere Helior or Danu hold influence (i.e. most of the surface world — fails underground, in corruption zones, or domains of Things Below)
+
+**How Halpin is drawn here:**
+1. In D8: a single golden bee lands on him, unnaturally warm. Doesn't sting. Flies toward E7.
+2. Entering E7: more bees appear. If his Consecrated Flame is lit, they orbit it gently — greeting it.
+3. He feels warmth in the soil before others notice. A pull — the same instinct that tells him where the sun is on overcast days.
+4. The golden-hour light is visible through the trees ahead. Wrong for the time of day. He recognizes it as sacred.
+5. At the hollow oak: the sunstone pulses warmer. The bees part for him. He knows.
+
+**Discoveries:**
+
+| # | Discovery | Move/Trigger |
+|---|-----------|--------------|
+| 1 | Canopy gap — trees grew apart deliberately. Light tracks the sun all day. | Free (obvious) |
+| 2 | The bees glow at dusk. They don't sting Halpin. They're drawn to his flame. | Free (Halpin observes) |
+| 3 | Warmth radiates from the ground — no frost here, flowers bloom early. Ground temperature is noticeably higher. | Free (touch the soil) |
+| 4 | The sunstone in the roots. Warm, amber, luminous. Helior and Danu both present in a single object. | Physical search or following the warmth in the soil |
+| 5 | The honey glows. Eating it warms you from within for hours. Cures cold-ailments. | Harvest / Halpin tastes it (free) |
+
+**Halpin's Moment:**
+This is Helior saying: "I see this place. I am pleased. The sun and the earth are fruitful here." Halpin finding this is a confirmation of his faith — Helior doesn't just live in shrines and flames. He's here, in the wild, blessing what grows.
+
+---
+
+## POI 4: The Canopy Parliament
+
+**Location:** Central coppice area, concentrated in the beech and hazel canopy layer.
+
+**Description:**
+> Fifty-plus squirrels occupy the middle canopy — red-furred, bushy-tailed, unnervingly organized. They alarm-call in relay patterns, passing information tree-to-tree faster than a person can walk. When strangers approach, they scatter and go silent. When Filberta's squirrel arrives, they freeze — then erupt in chittering. Recognition. Reunion.
+
+**Filberta's Squirrel — Former Member:**
+Her follower was born here. It left the colony to follow Filberta — something squirrels don't do. The colony remembers it. They defer to it slightly — or at least, they calm immediately in its presence and extend that calm to Filberta.
+
+**Canon — Why Dilwen Can't Trap Here:**
+Dilwen has always wondered why this hex is "empty" of squirrels when he sets traps. The network always knows where he is and when he's coming. Their relay system tracks him from the moment he enters D8. By the time he reaches E7, every squirrel is elsewhere. He's never figured it out. Filberta's squirrel is part of why — it knew his patterns, his routes, his smell. It taught the colony before it left.
+
+**What They Fear:**
+- Feathered drakes (the displaced ones from D8 — they eat squirrels)
+- The storm (flooding ground caches, breaking nesting branches)
+- Things approaching from E9 / Fae territory
+
+**What They Offer:**
+- **Intel:** They know where everything is — drakes, boar, Hywel's party (D8), Dilwen's party (E9)
+- **Pathfinding:** Relay alarm calls can guide Filberta through safe routes or warn of danger
+- **Cache network:** They know every food source in E7 (free Forage advantage)
+- **Early warning:** If something threatens the party, squirrels alarm before anyone sees it
+- **Lead to the Restless Oak:** Comfortable near her tree — can guide Filberta there
+
+**Discoveries:**
+
+| # | Discovery | Move/Trigger |
+|---|-----------|--------------|
+| 1 | The colony recognizes Filberta's squirrel. Immediate calm. They cluster around it. | Free (Filberta observes) |
+| 2 | The relay pattern — they're passing information directionally, not just alarming. Organized intelligence. | Seek Insight 7-9 or Filberta watches for a few minutes |
+| 3 | They know where Dilwen is. Filberta's squirrel chatters at her, gesturing east. "Your father. That way. Two days travel." | Filberta asks / squirrel volunteers |
+| 4 | Cached Forest Folk trinkets — bone buttons, a carved nutshell pendant, a tiny crystal bead. Generations of squirrels cached shiny things alongside nuts. | Squirrel leads her to a specific cache |
+
+---
+
 ## Passive Declarations (Full Hex)
 
 - **Wolfram (James) — spirits:** "This one is different. The oak on the eastern edge — what's inside isn't angry or twisted. It's... awake. Lucid. She knows you're here. She's been waiting for someone to notice." (Only once they're near the Restless Oak.)
 - **Wolfram — Vessel sense:** "The earth here is ALIVE. Roots connected underground like a web. Energy moving through them — faint, warm, clean. This land is nourished by something."
 - **Gareth (Danny R.) — Azure Hand:** "A ley line beneath your feet — stronger here than in D8. It feeds the root network. The flow is diminished but present. Strongest at that ring of mushrooms. And the oak to the east... the energy there is different. Warm. Not caged."
 - **Halpin (Dan G.) — Fire Within:** At night under the nexus canopy, he sees clearly. The fairy ring's faint glow is visible to him even in total darkness.
+- **Halpin (Dan G.) — Helior's Warmth:** More bees find him as he enters E7. They orbit his flame. He feels warmth in the soil pulling him toward the Sunlit Hollow. The golden-hour light is visible through the trees — wrong for the time of day, but he knows what it means.
 - **Filberta (Kari):** She knows this place. Advantage on Forage. The squirrel finds caches. She already suspected the design — now she can prove it.
+- **Filberta (Kari) — Canopy Parliament:** Her squirrel goes manic — chittering, running ahead, returning. It's leading her somewhere. If she follows: reunion with the colony. They know where her father is.
 
 ## Active Interactions
 

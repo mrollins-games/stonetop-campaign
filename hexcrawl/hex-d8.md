@@ -98,6 +98,7 @@
 - **Wolfram — Vessel sense:** "The roots under your feet are connected. A network. It's healthy here — no corruption."
 - **Gareth (Danny R.) — Azure Hand:** "A current beneath you. Faint — a ley line running north-south. It's flowing toward the clearing ahead, getting stronger in that direction."
 - **Halpin (Dan G.) — Fire Within:** At night on the platform, sees drakes circling below while others are blind in the dark.
+- **Halpin (Dan G.) — Helior's Warmth:** A single golden bee lands on him somewhere in D8. Doesn't sting — just rests on his hand or shoulder, unnaturally warm. If he watches, it flies south-east toward E7. A breadcrumb from Helior.
 - **Filberta (Kari):** Knows this place. Advantage on the Rooted Pass. Recognizes her father's old snare anchor.
 
 ## Active Interactions
