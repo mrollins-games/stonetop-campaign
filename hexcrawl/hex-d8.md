@@ -92,6 +92,16 @@
 
 ---
 
+## Energy Table (Azure Hand)
+
+*See also: `reference/energy-reference.md` (master table)*
+
+| Energy | Type | Flow Direction | Strength | Connects To / Fed By | Status |
+|---|---|---|---|---|---|
+| Ley line pass-through | Current | SE (C9 → D8 → E7) | Weak | C9 outpost upstream, E7 nexus downstream | Undiscovered |
+
+---
+
 ## Passive Declarations
 
 - **Wolfram (James) — spirits:** Nothing in D8 itself. But looking east toward E7: "Something out there. Beyond the clearing. Old. Aware. Not hostile — but awake."

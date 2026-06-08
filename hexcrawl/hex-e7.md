@@ -199,6 +199,20 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 ---
 
+## Energy Table (Azure Hand)
+
+*See also: `reference/energy-reference.md` (master table)*
+
+| Energy | Type | Flow Direction | Strength | Connects To / Fed By | Status |
+|---|---|---|---|---|---|
+| Ley line terminus | Current | Arrives from NW (D8), disperses into root network | Weak | C9 origin, feeds root network | Undiscovered |
+| Ley line node (fairy ring) | Reservoir | Concentrates from ley line, pools here | Moderate | Ley line pools at this point; strongest energy in hex | Undiscovered |
+| Root network | Reservoir | Radiates outward from nexus centre | Moderate | Fed by ley line | Undiscovered |
+| Sunstone | Source | Pulses outward, static | Gentle, warm | Helior/Danu convergence (self-sustaining) | Undiscovered |
+| Restless Oak spirit warmth | Source | Faint radiance, localised | Faint | Uncorrupted spirit's connection to root network | Undiscovered |
+
+---
+
 ## Passive Declarations (Full Hex)
 
 - **Wolfram (James) — spirits:** "This one is different. The oak on the eastern edge — what's inside isn't angry or twisted. It's... awake. Lucid. She knows you're here. She's been waiting for someone to notice." (Only once they're near the Restless Oak.)
