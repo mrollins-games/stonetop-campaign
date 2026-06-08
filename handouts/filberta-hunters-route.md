@@ -30,7 +30,7 @@ You were right.
 
 ### How you met them
 
-You were nine. Your father left you at the edge of the coppice — "Wait here, I'll be back by sundown" — and walked north with his snare-line. Within the hour, the canopy above you erupted. Red-furred bodies, dozens of them, pouring through the branches. Chattering, leaping, chasing each other in spirals around the trunks.
+You were nine. Your father left you at the edge of the coppice — "Wait here, I'll be back by sundown" — and walked north along the trail. Within the hour, the canopy above you erupted. Red-furred bodies, dozens of them, pouring through the branches. Chattering, leaping, chasing each other in spirals around the trunks.
 
 They froze when they saw you. You froze too.
 
@@ -84,11 +84,11 @@ A lightning-bolt-shaped clearing. Widest where it meets the river, narrowing in 
 
 Your father's camp is in the narrow northern bend — a hazel bower he's used for years. Living poles bent into a dome, oiled hide over the frame. It's semi-permanent. Comfortable. His.
 
-From here his snare line runs north into E7.
+From here the trail leads north into E7. He is never there when the animal dies. He is never there in the broader sense — gone before dawn, back after dark, always somewhere else when it matters.
 
 ### The river crossing
 
-The ford between here and D4. Waist-high in summer, chest-high in spring. Looks calm but the current pulls. Smooth stones underfoot. You've crossed it many times. It's always felt... safe. Safer than it looks. You can't explain why.
+The ford between here and D4. Chest-high in summer, neck-high in spring. Never calm — sometimes calmer. The current is vicious; what looks like gentle surface flow hides an undertow that drags at your legs mid-stream. The riverbed is uneven — smooth stones give way to thigh-deep holes. Algae-slick rocks shift underfoot. Most townsfolk won't attempt it. You've crossed it many times. It's always felt... manageable. More manageable than it should. You can't explain why.
 
 ---
 
