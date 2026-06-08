@@ -37,3 +37,4 @@ Cross-indexed with per-hex energy tables in each hex .md file.
 - The ley line is a single continuous current: **C9 → D8 → E7 → E5 → D4 → Stonetop**. It appears in each hex's local table as the relevant segment.
 - The ley line draws predisposed townsfolk across the river at D4 toward E5 and deeper. Most don't notice — only those sensitive or "called."
 - The sunstone is qualitatively different — warm, divine, not arcane. Gareth senses it but it may feel unfamiliar compared to the ley line.
+- **Fae territory boundary:** F4 → F6 → F8 → E9, continuing east. Everything east of this line is Fae. The Cusp (E7 NE edge) sits right on this boundary facing F8.
