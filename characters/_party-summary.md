@@ -4,10 +4,10 @@
 
 | Player | Character | Playbook | Level | HP | XP | Key Moves |
 |--------|-----------|----------|-------|----|----|-----------|
-| Dan | [Wolfram](wolfram.md) | Blessed (Earth Mother) | 1 | ? | 0 | Sense spirits, speak with spirits, sacred rites |
-| Danny | [Halpin](halpin.md) | Blessed (Helior) | 1 | ? | 0 | Healing light, Radiant, sacred rites |
+| James | [Wolfram](wolfram.md) | Blessed (Earth Mother) | 1 | ? | 0 | Spirit Tongue, Vessel sense, Call the Spirits, sacred rites |
+| Dan G. | [Halpin](halpin.md) | Lightbearer (Helior) | 1 | ? | 0 | Consecrated Flame, Invoke the Sun God, Fire Within |
 | David | [Ted](ted.md) | Judge (Eritis) | 1 | 20 | 0 | Chronicler of Stonetop, Aegis of Faith, Polyglot |
-| James | [Gareth](gareth.md) | Seeker | 1 | ? | 0 | Well-Versed (Fay, Makers), A Tomb, Azure Hand |
+| Danny R. | [Gareth](gareth.md) | Seeker | 1 | ? | 0 | Well-Versed (Fae, Makers), Attuned, Azure Hand |
 | Kari | [Filberta Autumn](filberta.md) | Would-Be Hero | 1 | 10 | 0 | Anger is a Gift, Potential for Greatness |
 
 ## Party Bonds / Relationships

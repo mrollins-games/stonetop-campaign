@@ -16,6 +16,7 @@ In conversation with Copilot, use the skill name as a command:
 - `/recap` — Summarize recent sessions
 - `/season-change` — Walk through the Seasons Change procedure
 - `/expedition-prep` — Help plan an expedition
+- `/populate-hex` — Develop a hex with terrain, POIs, passives, and active interactions
 
 ## How Copilot Should Use Skills
 When the user asks a question or requests help:
