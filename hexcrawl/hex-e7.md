@@ -19,6 +19,7 @@
 | 2. The Restless Oak | Spirit/tree (uncorrupted) | NO (looks like any large oak until investigated) |
 | 3. The Sunlit Hollow | Sacred site / divine convergence | NO (hidden in canopy gap, found by following bees) |
 | 4. The Canopy Parliament | Fauna / intel network | NO (squirrels scatter for strangers) |
+| 5. The Cusp | Fae boundary / arcane landmark | YES (jade wave formations visible) |
 
 ---
 
@@ -46,7 +47,7 @@ With the Forest Folk gone, the ley line still flows (it's ancient, pre-dates the
 | 2 | Faint knife-scars at tree bases — old girdling marks where Forest Folk thinned competitors. Healed over but visible. | Seek Insight 7-9 |
 | 3 | Ground flora is suspiciously useful — wild garlic, wood sorrel, mushroom logs that seem deliberately placed. | Forage (advantage here) or Seek Insight |
 | 4 | Root network visible where rain eroded soil — roots from different species are GRAFTED together underground. Unnatural. Intentional. | Seek Insight 10+ or Wolfram Vessel sense (free) |
-| 5 | Ley line node — a point where energy concentrates. Marked by a ring of mushrooms (fairy ring) growing year-round. Ground is warmer here. | Gareth Azure Hand (free) or Seek Insight 10+ |
+| 5 | Ley line node — a point where energy concentrates. Ground is warmer here, moss grows thicker, a faint hum in the soil. | Gareth Azure Hand (free) or Seek Insight 10+ |
 
 **Know Things results:**
 
@@ -62,6 +63,7 @@ With the Forest Folk gone, the ley line still flows (it's ancient, pre-dates the
 - "You mentioned this to your father once — how the game is always good here, how the trees seem planted. He laughed. 'Don't overthink it, girl. Just be grateful.' But you were right."
 - If she pieces together the cultivation system, that's a Potential for Greatness moment — connecting to the Forest Folk legacy through the thing she does best.
 - Squirrel leads her to cached hazelnuts — free provisions (1-2 uses, no roll). "It digs at the base of a hazel, chattering. A cache — more than one squirrel could have buried."
+- **Childhood memory:** Dilwen left her here on trapping trips — "Wait here, I'll be back by sundown." She'd play with the squirrels, talk to them, follow them through the canopy. One day they weren't there. All of them, gone. She got bored, ventured further SE than she'd ever gone, and found The Cusp. That's where she met her fairy friend. That's where they made the fairy ring together (in F6, just beyond the boundary).
 
 ---
 
@@ -199,6 +201,45 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 ---
 
+## POI 5: The Cusp
+
+**Location:** South-eastern edge of E7, where the managed woodland meets Fae territory (boundary with E9 and F6).
+
+**Description:**
+> The trees thin. The managed pattern of the coppice gives way to something wilder, older. And there — rising from the forest floor like frozen surf — jade-green crystalline formations. Waist-high, translucent, shaped like crashing waves caught mid-break. They run in a line as far as you can see in both directions, curving away into the trees. The boundary.
+
+**The Formations:**
+- Jade-green (or jade-like?) crystalline material. Translucent, faintly luminous at dusk.
+- Shaped like crashing waves — organic curves frozen in mid-crash, spray caught as solid arcs.
+- Run along the entire Fae boundary line (across multiple hexes on this border).
+- Ancient. Mossy at the base but the crystal itself doesn't weather.
+- **True origin (GM secret):** These are both the projection point AND the leftovers of the Fae binding spell that imprisoned the corrupted Forest Folk in trees. The spell was cast FROM here, radiating inward. The wave-shapes are the frozen moment of magical force being hurled into Fae territory. The PCs do not know this.
+
+**Filberta's Connection:**
+- Dilwen left her in E7 on trapping trips. She played with the squirrels.
+- One day, the squirrels were all gone (Dilwen was too close — the network dispersed from him).
+- Bored, she ventured further SE than she'd ever been and found The Cusp.
+- This is where she met her fairy friend for the first time.
+- Together they crossed into F6 and made the fairy ring (in F6, just beyond the boundary).
+- She's been back many times. This place is hers — childhood, wonder, secret friendship.
+
+**Discoveries:**
+
+| # | Discovery | Move/Trigger |
+|---|-----------|--------------|
+| 1 | The formations run in both directions — a continuous line. This is a BORDER, not a random feature. | Free (obvious) |
+| 2 | The crystal doesn't weather. Moss grows at the base but slides off the surface. Ancient but pristine. | Free (touch it) |
+| 3 | Faint energy radiates inward (toward Fae territory). Not a ward keeping things out — it was projected IN. | Gareth Azure Hand (free) |
+| 4 | The material is the same substance as Fae binding marks found on imprisoned Forest Folk trees deeper in the wood. Same magical signature. | Gareth Seek Insight 10+ or Wolfram communes with Restless Oak |
+| 5 | Filberta recognizes this place. "I've been here before. When I was little. Dad left me back there and I walked until I found these." | Filberta free (emotional beat) |
+
+**What the Restless Oak knows about The Cusp:**
+- "The wave came from here. It washed through the wood. My kin screamed. The trees took them."
+- She felt it happen but was protected by the purifying energy.
+- She doesn't know WHO cast it — only that the Fae did it, and it came from this line.
+
+---
+
 ## Energy Table (Azure Hand)
 
 *See also: `reference/energy-reference.md` (master table)*
@@ -206,10 +247,11 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 | Energy | Type | Flow Direction | Strength | Connects To / Fed By | Status |
 |---|---|---|---|---|---|
 | Ley line terminus | Current | Arrives from NW (D8), disperses into root network | Weak | C9 origin, feeds root network | Undiscovered |
-| Ley line node (fairy ring) | Reservoir | Concentrates from ley line, pools here | Moderate | Ley line pools at this point; strongest energy in hex | Undiscovered |
+| Ley line node | Reservoir | Concentrates from ley line, pools here | Moderate | Ley line pools at this point; strongest energy in hex | Undiscovered |
 | Root network | Reservoir | Radiates outward from nexus centre | Moderate | Fed by ley line | Undiscovered |
 | Sunstone | Source | Pulses outward, static | Gentle, warm | Helior/Danu convergence (self-sustaining) | Undiscovered |
 | Restless Oak spirit warmth | Source | Faint radiance, localised | Faint | Uncorrupted spirit's connection to root network | Undiscovered |
+| The Cusp (binding residue) | Source | Radiates inward toward Fae territory (E9/F6) | Moderate, ancient | Residual energy from the Fae binding spell — projection point | Undiscovered |
 
 ---
 
