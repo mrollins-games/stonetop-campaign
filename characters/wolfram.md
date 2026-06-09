@@ -21,7 +21,7 @@
 ## Vitals
 | HP | Max HP | XP | Level | Armor |
 |----|--------|----|----|-------|
-| ? | ? | 0 | 1 | ? |
+| ? | ? | 14 | 1 | 2 |
 
 ## Debilities
 - [ ] Weak (STR)
@@ -36,7 +36,7 @@
 - Sense spirits in any area and ask about them
 - Speak with spirits
 - Sacred rites (once per season, hold favor; sacrifice 1 surplus for 4 favor)
-- Lightning Rod (previewed but not yet mastered) — when defending while touching earth, spend 1 readiness to intercept magical attack
+- Barksin (When you touch the earth you have 2 armor. When you mark another with 1 stock, they gain this benifit so long as the mark remains)
 
 ### Advanced Moves
 *None yet.*
@@ -89,8 +89,8 @@
 | **Commune** | Mortal → Spirit realm | Anyone (dangerous); Blessed (less so) | Shift consciousness via meditation, drugs, exhaustion, percussion, a guide, or magic item | Varies (Chart a Course) | YOU go to the SPIRIT. Longer, riskier. Can reach spirits that can't or won't manifest. |
 | **Borrow** ⚠️ | Spirit → Mortal, Beast → Mortal (transactional) | Wolfram (Borrow Power) | Spirit or beast agrees to loan power | Replaces 1 Stock | "When a spirit or beast loans you power, ask the GM for one of its tags or moves." |
 | **Bind/Restrain** | Mortal → Spirit, Mortal → Perversion of Nature | Wolfram (Danu's Grasp) | Call on the earth | 1 Stock | "Call on the world itself to bind a spirit or a perversion of nature." **Level 6 upgrade: target ANYTHING (including humans and beasts).** |
-| **Command** ⚠️ | Mortal ↔ Natural Beast, Mortal → Spirit (authority) | Wolfram (Voice of Earth Mother, lvl 6+) | Speak on behalf of Danu | None | "Natural beasts and spirits of the wild respect your authority." |
-| **Ward/Repel** ⚠️ | Mortal → Spirit (barrier) | Wolfram (Wards & Bindings) | Mark a boundary with sacred signs | 1 Stock, +INT | "Describe who or what they affect... repelled or trapped." |
+| **Command** | Mortal → Natural Beast, Mortal → Spirit (authority) | Wolfram (Voice of Earth Mother, lvl 6+) | Speak on behalf of Danu | None | "Natural beasts and spirits of the wild respect your authority." |
+| **Ward/Repel** ⚠️ | Mortal → Anything described (barrier) | Wolfram (Wards & Bindings) | Mark a boundary with sacred signs | 1 Stock, +INT | "Describe who or what they affect... repelled or trapped." |
 
 ⚠️ = Not yet acquired
 
