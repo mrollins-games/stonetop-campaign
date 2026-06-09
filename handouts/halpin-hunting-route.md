@@ -45,27 +45,27 @@ You know:
 - Game converges here. Boar, deer, squirrels (though Dilwen can never seem to trap the squirrels).
 - Filberta's squirrel comes from here. The colony she visits is somewhere in this hex.
 
-### The Bees
-
-This is the thing you can't explain.
-
-Your bees — the apiary bees, domestic, predictable — sometimes face south-east on warm days. All of them. Simultaneously. For a few minutes, the whole hive orients the same direction, humming a slightly different note. Then it passes and they go back to foraging.
-
-Once, a single wild bee appeared at your apiary. Not one of yours — different colouring, slightly larger, with a faint warmth to it you could feel when it landed on your hand. It stayed for a minute. Then it flew south-east, toward the forest.
-
-You've never followed it. You've always wondered.
+But it's all canopy. Dense, closed, dark. The sun barely reaches the forest floor in there. Whatever Helior's light touches in the world — this isn't it. Not as far as you know.
 
 ---
 
 ## The Welcome Glade (E5)
 
-From the clifftop at Stonetop, looking south-east: a lightning-bolt shaped gap in the forest canopy, bright green against the dark woodland. Everyone knows it's there. Most people have never been.
+This is the one that interests you.
 
-You know:
-- The river crossing is there — the ford between D4 and E5. Chest-high in summer, dangerous in spring.
-- People say the crossing is "surprisingly safe" — something about it being manageable. Hunters cross it regularly and shrug.
-- Dilwen camps in the narrow northern end. His hazel bower — semi-permanent, been there for years.
-- From your house at night, looking south, you can sometimes see the faint pale glow of the glade on moonlit nights — the open grass reflecting light where the forest swallows it everywhere else.
+From the clifftop at Stonetop, looking south-east: a lightning-bolt shaped gap in the forest canopy. Bright green against the dark woodland. Open. Exposed to the sky. Exposed to the SUN.
+
+Everything else out there is canopy — closed, shadowed, hidden from Helior's gaze. But this glade is VISIBLE. From Stonetop. From the sky. From the sun itself. Whatever happens there, Helior sees it.
+
+You've thought about this more than you'd admit. On solstice mornings, when the sun tracks low across the southern sky, its light would pour directly into that glade — unobstructed, unfiltered, for hours. No other place in the Great Wood gets that. It's like a window cut into the forest specifically so the sun can look in.
+
+### The Hazel Pattern
+
+And then there's the shape itself. The glade narrows in sharp zig-zag angles heading north into the trees — widest at the river, thinning to a point. From above it looks like a lightning strike. But look closer at the edges: the hazel growth at the northern tip erupts outward in radiating clusters. Like an explosion caught mid-burst. Like light hitting a prism and scattering.
+
+You've seen this pattern before — in the way candlelight throws shadows through a crack. In the way sunlight fractures through ice on winter mornings. In the way Helior's power MOVES when you invoke it: outward, radiating, seeking.
+
+How might Helior's light manifest there? You don't know. But you want to find out.
 
 ### The Crossing
 
@@ -97,11 +97,11 @@ You've never asked directly. It feels like asking would cross a line — like kn
 
 Not in words. Never in words. But in warmth, in direction, in the behaviour of flame and light:
 
-- The south-east means something. You feel it on solstice mornings — the sun rises over that direction and lingers in your awareness longer than it should.
-- Your bees know something you don't. They orient toward E7 like compass needles.
+- The glade draws your eye every time you look south-east from the bluff. Not the forest — the OPENING. The place where light gets in.
 - Fire behaves differently when you face that direction. Your consecrated flame burns steadier, warmer. This isn't something you've tested — it's something you've noticed without meaning to.
+- On solstice mornings you stand on the clifftop and watch the sun arc over the glade. You feel... anticipation? Not yours. HIS.
 
-You don't know what's out there. But Helior does. And he's... pleased? Whatever lives in that forest, in the direction of E7, Helior approves of it. You've felt that your whole life without ever putting it into words.
+You don't know what's out there. But Helior wants you to go look.
 
 ---
 
@@ -119,24 +119,28 @@ You've thought about it since. Trees planted on purpose. By whom?
 
 ### The Wild Bee
 
-Midsummer, three years ago. You were smoking a hive — routine, gentle, your bees calm as always. And there it was: a bee that wasn't yours. Larger. Deeper gold. It landed on your bare forearm and you felt HEAT — not a sting, but warmth radiating from its body like a tiny coal.
+> *[REMOVED — bee connection is discovery territory, not pre-existing knowledge.]*
 
-It stayed for perhaps ten breaths. Then it lifted and flew south-east — straight, purposeful, not foraging. Gone into the treeline.
+### Solstice Morning
 
-You watched it go. You almost followed. You didn't.
+Every midsummer you climb to the clifftop before dawn. You face south-east. The sun rises behind you, crests the bluff, and its first unobstructed rays shoot out over the forest canopy — and drop directly into the glade.
 
-> *[PLACEHOLDER — Why didn't Halpin follow? Fear? Duty? The shrine needed tending? His mother needed him? Or just: "it wasn't time yet." Ask Dan G. what held him back.]*
+For perhaps twenty minutes, the glade BLAZES. Golden light flooding that lightning-bolt shape while the surrounding forest is still in shadow. It's the first open ground the sun touches from this angle. The hazel clusters at the northern tip catch the light and scatter it — throwing bright fragments into the treeline like sparks.
+
+You've watched this alone, year after year, and thought: *That's not an accident. Someone made that shape to catch the light.*
+
+> *[PLACEHOLDER — Has Halpin ever told anyone about this observation? Does he keep it private? Ask Dan G.]*
 
 ---
 
 ## What They Don't Know (GM only — do not include in player copy)
 
-- The Sunlit Hollow exists in E7 — a sacred site where Helior and Danu converge. Wild bees with luminescent honey. The bee he saw was a scout FROM there.
-- The bees in E7 will greet his Consecrated Flame like a friend — they orbit it gently. They know what he is.
-- The crossing at E5 is guided by a drowned girl's spirit (not Helior — a mortal ghost). Halpin's sense of contradiction is correct but misattributed.
-- The ley line that powers E7's abundance also flows through E5 (the glade IS the ley line's surface path). This isn't Helior — it's older. But Helior approves of what grows from it.
+- The Sunlit Hollow exists in E7 — a sacred site where Helior and Danu converge. Wild bees with luminescent honey. His bees will react when he enters E7. Discovery territory.
+- The glade's shape IS the ley line's surface expression — it's not Helior's design, but Helior approves of it. The hazel explosion pattern is where ley energy concentrates at the narrow tip.
+- The crossing at E5 is guided by a drowned girl's spirit (not Helior — a mortal ghost). The contradiction he notices is real.
+- His instinct about the glade being "made to catch the light" is partially right — the ley line carved the shape, but Helior does use it. The solstice alignment is real and meaningful.
 - The Rooted Pass (D8) has a ley line running through it too — Halpin would feel warmth in the soil there, but faintly.
-- Halpin's "pull" toward the south-east is Helior nudging him toward the Sunlit Hollow — a pilgrimage he hasn't made yet.
+- Halpin is being drawn toward a pilgrimage he hasn't made yet. The glade is the doorway, E7 is the destination.
 
 ---
 
@@ -146,7 +150,7 @@ You watched it go. You almost followed. You didn't.
 
 > *[PLACEHOLDER — Filberta and the offering — has she told him anything directly, or is it all overheard fragments?]*
 
-> *[PLACEHOLDER — Why Halpin never followed the wild bee. What held him back?]*
+> *[PLACEHOLDER — Has Halpin told anyone about the solstice light hitting the glade? Or is this private?]*
 
 > *[PLACEHOLDER — Does Halpin know Dilwen personally? They'd be acquaintances at minimum (small village). What's their dynamic? Dilwen drinks mead — does he drink it at Halpin's house?]*
 
