@@ -76,7 +76,21 @@ They've been doing this for generations. Your father has never once successfully
 
 ### Your squirrel
 
-> *[PLACEHOLDER — Kari/GM canon for how the squirrel bonded with Filberta. Happened AFTER she met the colony. Replace with actual story when provided.]*
+You were in E5 — the Welcome Glade, near your father's camp. He'd set a trap: a cage of sticks held together with twine. Inside, a family of squirrels.
+
+Then the father squirrel came.
+
+It launched itself at your dad like something out of a legend — vicious, fearless, tiny claws and teeth against a grown man. It fought like it had nothing to lose. Because it didn't. Your father stumbled, swore, tried to swat it away. In the melee he fell backwards — right onto the trap. The cage shattered beneath him. Sticks snapping, twine tearing. The family scattered free.
+
+The father squirrel didn't survive.
+
+It was the first time you ever saw someone stand up to your dad. A creature a fraction of his size, who knew it would die, and fought anyway. For its family.
+
+That squirrel became your idol. You've stood up to your father ever since.
+
+One of the freed children — one of the young squirrels that ran free when the cage broke — didn't scatter with the others. It stayed. It watched you. And then it followed you home.
+
+You've been together ever since.
 
 #### Squirrel — Follower Stats
 
@@ -133,7 +147,7 @@ You think he's a coward.
 
 > *[PLACEHOLDER — Kari's fairy friend description. Ask during session or between sessions: "Tell me about the friend you made beyond the Cusp."]*
 
-> *[PLACEHOLDER — The squirrel's name. Has Kari named it? Confirm from session 0/1 transcript. Stats resolved: uses "A Good Dog" block.]*
+> *[PLACEHOLDER — The squirrel's name. Has Kari named it? Confirm from session 0/1 transcript.]*
 
 > *[PLACEHOLDER — The blood oath details. Filberta made a blood oath (session 001). If it connects to the forest/Fae, add relevant details here.]*
 
