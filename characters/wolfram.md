@@ -78,3 +78,22 @@
 |---------|---------|
 | [000](../sessions/session-000.md) | Created. Established as town smith, Vessel of Earth Mother, spirit-speaker. |
 | [001](../sessions/session-001.md) | Blood oath with Gareth. Daily routines established. |
+
+## Spirit Interaction Types
+
+| Interaction | Direction | Who Can Do It | Trigger / Method | Cost | Notes |
+|-------------|-----------|---------------|------------------|------|-------|
+| **Detect** | — | Wolfram (Spirit Tongue) | Passive, always on | None | "What spirits are active here?" — always get an honest answer |
+| **Speak** | Mortal ↔ Spirit, Mortal ↔ Beast | Wolfram (Spirit Tongue) | Spirit is already present/manifested | None | "You can speak with beasts and spirits." |
+| **Manifest** | Spirit → Mortal realm | Wolfram (Call the Spirits) | Perform a short rite near spirit's place/object | 1 Stock | Spirit(s) of a place or object manifest and hear you out. What they do next is up to them. |
+| **Commune** | Mortal → Spirit realm | Anyone (dangerous); Blessed (less so) | Shift consciousness via meditation, drugs, exhaustion, percussion, a guide, or magic item | Varies (Chart a Course) | YOU go to the SPIRIT. Longer, riskier. Can reach spirits that can't or won't manifest. |
+| **Borrow** ⚠️ | Spirit → Mortal, Beast → Mortal (transactional) | Wolfram (Borrow Power) | Spirit or beast agrees to loan power | Replaces 1 Stock | "When a spirit or beast loans you power, ask the GM for one of its tags or moves." |
+| **Bind/Restrain** | Mortal → Spirit, Mortal → Perversion of Nature | Wolfram (Danu's Grasp) | Call on the earth | 1 Stock | "Call on the world itself to bind a spirit or a perversion of nature." **Level 6 upgrade: target ANYTHING (including humans and beasts).** |
+| **Command** ⚠️ | Mortal ↔ Natural Beast, Mortal → Spirit (authority) | Wolfram (Voice of Earth Mother, lvl 6+) | Speak on behalf of Danu | None | "Natural beasts and spirits of the wild respect your authority." |
+| **Ward/Repel** ⚠️ | Mortal → Spirit (barrier) | Wolfram (Wards & Bindings) | Mark a boundary with sacred signs | 1 Stock, +INT | "Describe who or what they affect... repelled or trapped." |
+
+⚠️ = Not yet acquired
+
+### Key Distinction — Manifest vs. Commune
+- **Manifest:** The spirit comes to YOU. Quick, costs 1 Stock, spirit decides what it does.
+- **Commune:** YOU go to the SPIRIT. Longer, riskier (Chart a Course), requires method. Can reach spirits that can't or won't manifest.
