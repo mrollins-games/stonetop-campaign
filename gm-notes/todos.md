@@ -7,9 +7,6 @@
 
 | # | Priority | Context | To-Do | Added | Done |
 |---|----------|---------|-------|-------|------|
-| 1 | 🔴 High | Pre-Session 2 | Read the section on creating threats (Book I p.277–300) — needed to flesh out The Broken Contract | 2026-05-27 | ☐ |
-| 2 | 🟡 Medium | Pre-Session 2 | Decide consequences of Ted's secret roll about the broken Fay contract | 2026-06-02 | ☐ |
-| 3 | 🟡 Medium | Pre-Session 2 | Define Grim Portents for The Broken Contract threat | 2026-06-02 | ☐ |
 | 4 | 🟡 Medium | Pre-Session 2 | Determine what the Mystery Cat is and what it wants | 2026-06-02 | ☐ |
 | 5 | 🟢 Low | Between Sessions | Get photos of Wolfram, Halpin, and Gareth playbook sheets for accurate stats | 2026-06-02 | ☐ |
 | 6 | 🟢 Low | Between Sessions | Confirm Gareth's background/instinct and exact moves from playbook | 2026-06-02 | ☐ |
@@ -19,7 +16,9 @@
 
 | # | To-Do | Completed |
 |---|-------|-----------|
-| — | — | — |
+| 1 | Read the section on creating threats (Book I p.277–300) | 2026-06-08 |
+| 2 | Decide consequences of Ted's secret roll about the broken Fay contract — **Decision:** Fay don't enforce it; contract just prevents releasing spirits | 2026-06-08 |
+| 3 | Define Grim Portents for The Broken Contract threat | 2026-06-08 |
 
 ---
 
