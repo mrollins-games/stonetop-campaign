@@ -14,6 +14,29 @@ Before responding to ANY request, always check:
 
 If relevant items exist in GM notes, **proactively surface them** even if the user didn't ask.
 
+## Context Loading — Hexcrawl & Worldbuilding
+
+**For ANY hexcrawl, worldbuilding, or session prep work**, load these files FIRST:
+1. `hexcrawl/session-resume/canon-summary.md` — **START HERE.** Player-character mapping, named routes, Fae boundary, key canon decisions, all enriched hexes, spirit framework, energy system.
+2. `hexcrawl/poi-index.md` — Master hex reference. Every hex's POIs, terrain, visibility.
+3. `reference/energy-reference.md` — Ley line and energy table (Azure Hand context).
+4. `reference/spirits.md` — Spirit types, interaction methods, sacred sites.
+
+**Named concepts you must understand:**
+- "The Hunting Route" = D8 → E7 → E5 (the main hunting corridor)
+- "The Ley Line" = C9 → D8 → E7 → E5 → D4 → Stonetop (underground energy current)
+- "The Cusp" = Fae boundary jade formations, NE edge of E7
+- "The Food Nexus" = E7's managed coppice ecosystem
+- "The Welcome Glade" = E5's lightning-bolt shaped clearing
+
+**Dedicated hex files** (full detail beyond poi-index):
+- `hexcrawl/hex-d8.md`, `hexcrawl/hex-e7.md`, `hexcrawl/hex-e5.md`
+
+**Handouts** (player-facing documents):
+- Template: `handouts/_handout-template.md`
+- Style: write as lived experience, never say "you know this"
+- Existing: `handouts/filberta-hunters-route.md`
+
 ## Skills (Structured Workflows)
 When a request matches a skill, follow that skill's procedure:
 | Command | Skill File | Purpose |

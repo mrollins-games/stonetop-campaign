@@ -11,21 +11,31 @@
 - [Discoveries & Arcana](world/discoveries/arcana.md)
 - [Art & Visual Assets](assets/art/_art-index.md)
 - [Rules Lookup](reference/indexes/_lookup-guide.md)
+- [Hexcrawl Canon Summary](hexcrawl/session-resume/canon-summary.md)
+- [Hexcrawl POI Index](hexcrawl/poi-index.md)
+- [Spirits Reference](reference/spirits.md)
+- [Energy Reference](reference/energy-reference.md)
+- [Handouts](handouts/)
 
 ## Sessions
 | # | Date Played | In-Game Season | Key Events |
 |---|-------------|---------------|------------|
-| — | — | — | *No sessions yet* |
+| 1 | 2024 | Late Summer | Axel felled a tree at C7, spirit released. Cefin's party fled to B6. Cefin returned marked. |
 
 ## Active Threats
 | Threat | Type | Status | Last Advanced |
 |--------|------|--------|--------------|
-| — | — | — | *None yet* |
+| The Broken Contract | Environmental / Fae | Active | Session 1 (spirit freed) |
+| Daagon's Tendril | Things Below | Lurking | Pre-campaign (background corruption) |
 
 ## Party Roster
-| Player | Character | Playbook | Level |
-|--------|-----------|----------|-------|
-| — | — | — | *Not yet created* |
+| Player | Character | Playbook | Key Feature |
+|--------|-----------|----------|-------------|
+| James | Wolfram | Blessed | Earth Mother/Danu, Spirit Tongue |
+| Danny R. | Gareth | Seeker | Azure Hand (senses energy) |
+| Dan G. | Halpin | Lightbearer | Helior, Auspicious Birth |
+| David | Ted | Judge | Eritis, Missionary |
+| Kari | Filberta | Would-Be Hero | Destined, Impetuous Youth |
 
 ## Current Steading Snapshot
 | Stat | Value |
