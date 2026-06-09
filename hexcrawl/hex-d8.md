@@ -107,8 +107,8 @@
 
 ## Passive Declarations
 
-- **Wolfram (James) — spirits:** Nothing in D8 itself. But looking east toward E7: "Something out there. Beyond the clearing. Old. Aware. Not hostile — but awake."
-- **Wolfram — Vessel sense:** "The roots under your feet are connected. A network. It's healthy here — no corruption."
+- **Wolfram (James) — spirits:** At the base of the pass, looking into E7: "There. The big oak at the edge — she's been waiting. She's *awake*." The Restless Oak is the first thing Spirit Tongue detects descending from D8. Beyond her, the coppice reads as Danu's saturated presence — no individual spirits, just the goddess filling the space.
+- **Wolfram — Vessel sense:** "The roots under your feet are connected. A network. It's healthy here — no corruption. And it intensifies ahead — toward E7. Something feeds those roots."
 - **Gareth (Danny R.) — Azure Hand:** "A current beneath you. Faint — a ley line running north-south. It's flowing toward the clearing ahead, getting stronger in that direction."
 - **Halpin (Dan G.) — Fire Within:** At night on the platform, sees drakes circling below while others are blind in the dark.
 - **Halpin (Dan G.) — Helior's Warmth:** A single golden bee lands on him somewhere in D8. Doesn't sting — just rests on his hand or shoulder, unnaturally warm. If he watches, it flies south-east toward E7. A breadcrumb from Helior.
@@ -116,7 +116,7 @@
 
 ## Active Interactions
 
-- **Wolfram — Spirit Tongue:** Nothing to speak to in D8 (spirits are in E7). But he senses them ahead.
+- **Wolfram — Spirit Tongue:** The Restless Oak at E7's northern edge is within detection range from the base of the Rooted Pass. She's the first spirit he encounters on this route. The pull is specific — a warm, patient presence among the ambient root-network saturation. Gareth's Azure Hand pointing at energy concentration gives Wolfram a bearing to follow.
 - **Gareth — Azure Hand:** Can trace ley line direction (points into E7). Energy is mild here — stronger ahead.
 - **Filberta — Expert:** This is her territory. She guides the group through the Rooted Pass. The squirrel warns of drakes. She can Forage with advantage in the area.
 - **Ted — Polyglot/Chronicler:** The platform construction is pre-Stonetop. If he examines it: "No one in the Chronicle mentions building these. They've always just... been here."

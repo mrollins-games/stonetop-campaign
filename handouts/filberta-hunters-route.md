@@ -24,6 +24,18 @@ You've foraged here since you were a child. The berries are always plentiful. Th
 
 You were right.
 
+### Why no one else comes here
+
+You've thought about this. The hunting here is the best in the Great Wood — better than anywhere within a day's walk of Stonetop. But the route stays quiet. Three, maybe four people use it regularly. Why?
+
+**Hunters don't share.** It's part of the code. You don't point newcomers at your grounds. "Game's good in the deep wood" — that's all anyone says. The WHERE stays with those who earned it.
+
+**The squirrels keep it that way.** Anyone who doesn't already know the route gets spotted by the relay. The alarm cascades. Game disperses before they're within bowshot. They come once, catch nothing, and don't come back. The forest self-selects for the patient. For the quiet. For *you.*
+
+**There's nothing to describe.** You've tried — you've tried to tell Halpin about this place more than once. But the words go sideways every time. You end up talking about the squirrels. About the way the light moves. About how it FEELS. The place itself — what it IS, what it gives — doesn't survive translation. "Big trees. Good game. Go past the steep bit." Useless. He nods politely. He doesn't understand. No one does until they stand in it.
+
+**Your father guards it.** He tells people there's plenty of game closer to home. "No need to push that deep." He's possessive of this stretch of forest in a way he's possessive of nothing else — not his camp, not his daughter. THIS is what he protects.
+
 ---
 
 ## The Squirrel Colony (E7)

@@ -69,11 +69,35 @@ With the Forest Folk gone, the ley line still flows (it's ancient, pre-dates the
 - Squirrel leads her to cached hazelnuts — free provisions (1-2 uses, no roll). "It digs at the base of a hazel, chattering. A cache — more than one squirrel could have buried."
 - **Childhood memory:** Dilwen left her here on trapping trips — "Wait here, I'll be back by sundown." She'd play with the squirrels, talk to them, follow them through the canopy. One day they weren't there. All of them, gone. She got bored, ventured further NE than she'd ever gone, and found The Cusp. That's where she met her fairy friend. That's where they made the fairy ring together (in F8, just beyond the boundary).
 
+**Why Spirits Don't Manifest Here:**
+Danu's presence in the Food Nexus is total — the root network IS her, expressed through living wood rather than through individuated spirits. When a goddess already fills a place completely, lesser spirits have no gap to fill. Nothing needs intervention. Nothing is broken. The system is spiritually *complete.*
+
+Additionally:
+- Equilibrium suppresses manifestation. Spirits wake when something is wrong, needed, or curious. This place is perfectly balanced — running itself.
+- The coppice functions as one diffuse spiritual organism — too large and integrated to manifest as a discrete entity. There's no "spirit of E7" because E7 IS the spirit.
+- The Cusp's binding residue (NE edge) creates ambient suppression within a radius — not intentional, just pressure keeping things quiet.
+
+**What Wolfram perceives (Vessel sense):** Not absence, but *saturation*. The whole place feels like Danu's palm — held, warmed, complete. Spirit Tongue doesn't ping individual spirits because there's nothing individuated to ping. Just the goddess, everywhere, content. (Exception: the Restless Oak, who stands out precisely because she IS an individual presence in a sea of diffuse divinity.)
+
+**What this means for Helior:** The Sunlit Hollow (POI 3) is where Helior greets Danu. Two gods acknowledging each other in mutual pleasure. The warmth from below (Danu's roots, ley energy) meets the warmth from above (Helior's light piercing the canopy). This is not contested ground — it's a handshake. Danu smiles upon this place, and Helior smiles back.
+
+**Why the Coppice Stays Hidden (hunter culture):**
+Word has never spread about E7's abundance. Reasons:
+
+1. **It doesn't feel special.** It feels like how a forest SHOULD be. Your brain doesn't flag abundance when it presents as normalcy. Other forests feel thin, difficult, sparse — but you only notice if you compare. E7 doesn't trigger curiosity. It feels *correct.*
+2. **Danu doesn't advertise.** She provides quietly. No spectacle. The acorns just fall. The boar just root. It feels like luck, not miracle.
+3. **Hunter culture silence.** Sharing specific hunting grounds violates in-group code. "Game's good in the deep wood" is all anyone says.
+4. **The squirrel relay self-selects.** Unskilled hunters get spotted; game disperses before they arrive. Only the patient/experienced succeed. Newcomers come once, catch nothing, conclude it's overrated.
+5. **No landmark to describe.** "Go past the steep bit, into the big trees." Useless directions. The place resists being named by those who aren't intimate with it.
+6. **Dilwen's possessiveness.** He treats it as HIS territory. Actively discourages others. "Plenty of game closer to home. No need to push that deep."
+
+**Filberta's failed descriptions:** She's tried to explain the place to Halpin — more than once. But every time, the words slide sideways. She ends up talking about how the squirrels surround her, or how the light feels, or how her father's snare-lines run. The PLACE itself — its shape, its gift — escapes language. It's too nondescript to convey. You have to stand in it.
+
 ---
 
 ## POI 2: The Restless Oak
 
-**Location:** NE edge of the Food Nexus, bordering Fae territory (F8).
+**Location:** Northern edge of E7, where the descent from D8 levels into the coppice. First landmark encountered when approaching from D8 — the party reaches her BEFORE the heart of the Food Nexus.
 
 **Description:**
 > A broad ancient oak, larger than its neighbours but not impossibly so. Bark deeply furrowed. Roots grip the earth in thick coils, grafted into the root network. In the rain, sap weeps from cracks in patterns too regular to be natural — like tears tracing the same channels over and over.
@@ -261,8 +285,8 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 ## Passive Declarations (Full Hex)
 
-- **Wolfram (James) — spirits:** "This one is different. The oak on the eastern edge — what's inside isn't angry or twisted. It's... awake. Lucid. She knows you're here. She's been waiting for someone to notice." (Only once they're near the Restless Oak.)
-- **Wolfram — Vessel sense:** "The earth here is ALIVE. Roots connected underground like a web. Energy moving through them — faint, warm, clean. This land is nourished by something."
+- **Wolfram (James) — spirits:** Approaching from D8: "The first tree at the bottom of the slope — the big oak. Something is IN there. Not trapped — *home*. She's awake. She knows you're here. She's been waiting." (He encounters her BEFORE the coppice centre because she's at the northern edge.) From within the coppice: Spirit Tongue reads saturation, not individual presences. Danu is everywhere. No spirits ping because the goddess herself fills the space.
+- **Wolfram — Vessel sense:** "The earth here is ALIVE. Roots connected underground like a web. Energy moving through them — faint, warm, clean. This land is nourished by something. Danu's palm — open, cradling everything that grows here."
 - **Gareth (Danny R.) — Azure Hand:** "A ley line beneath your feet — stronger here than in D8. It feeds the root network. The flow is diminished but present. Strongest at that ring of mushrooms. And the oak to the east... the energy there is different. Warm. Not caged."
 - **Halpin (Dan G.) — Fire Within:** At night under the nexus canopy, he sees clearly. The fairy ring's faint glow is visible to him even in total darkness.
 - **Halpin (Dan G.) — Helior's Warmth:** More bees find him as he enters E7. They orbit his flame. He feels warmth in the soil pulling him toward the Sunlit Hollow. The golden-hour light is visible through the trees — wrong for the time of day, but he knows what it means.

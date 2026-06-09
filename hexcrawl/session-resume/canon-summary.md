@@ -207,9 +207,9 @@ Full file: `hexcrawl/hex-d8.md`
 
 ### E7 — The Food Nexus
 Full file: `hexcrawl/hex-e7.md` (5 POIs, most complex hex)
-1. **The Food Nexus** — Forest Folk cultivated coppice. Oaks/beeches/hazel in deliberate patterns. Ley line feeds root network. Game converges.
-2. **The Restless Oak** (NE edge, bordering F8) — Uncorrupted Forest Folk spirit merged naturally with her tree in death. Speaks to Wolfram via Spirit Tongue.
-3. **The Sunlit Hollow** — Helior/Danu convergence. Luminescent bees, sunstone, golden honey.
+1. **The Food Nexus** — Forest Folk cultivated coppice. Oaks/beeches/hazel in deliberate patterns. Ley line feeds root network. Game converges. Danu's presence saturates the space — no spirits manifest individually because the goddess fills it completely. Stays hidden because it feels "normal," hunter culture silence, squirrel relay self-selects, Dilwen guards it possessively.
+2. **The Restless Oak** (N edge, first encountered from D8) — Uncorrupted Forest Folk spirit merged naturally with her tree in death. Speaks to Wolfram via Spirit Tongue. Party encounters her BEFORE reaching the coppice centre when approaching from D8. From E5, her signal is lost in Danu's saturation (why Wolfram never found her before).
+3. **The Sunlit Hollow** — Helior/Danu convergence. Danu smiles upon this place and greets Helior. Luminescent bees, sunstone, golden honey.
 4. **The Canopy Parliament** — Squirrel colony with relay communication. Filberta's squirrel comes home here.
 5. **The Cusp** (NE edge, bordering F8) — Jade wave Fae boundary markers. Projection point of binding spell.
 
@@ -259,6 +259,7 @@ Full file: `hexcrawl/hex-e5.md` (3 POIs)
 - Write as lived experience (second person, present tense for places, past for memories)
 - Leave fairy friend meeting as placeholder for Kari to fill in
 - Template: `handouts/_handout-template.md`
+- Existing: `handouts/filberta-hunters-route.md`, `handouts/wolfram-hunters-route.md`, `handouts/halpin-hunting-route.md`
 
 ---
 
