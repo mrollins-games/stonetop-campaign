@@ -14,20 +14,23 @@ To torment the living
 ## Nature of the Threat
 The freed spirits are **undead** (not Fae). They are **corrupted Forest Folk** — during the Time of the Cataclysm, the Green Lords called upon the Things Below to corrupt the Forest Folk so they could be used to put down the traitorous Fae. The corruption twisted them into malevolent spirits. After the Cataclysm, the Fae imprisoned the corrupted Forest Folk inside the trees of the Great Wood. The trees are the prisons, not the contract. The contract with Stonetop's ancestors ensured the trees would never be cut, protecting the Fae's binding. Now that trees have been felled, corrupted Forest Folk spirits are loose — malevolent, with an instinct to torment, twisted beyond recognition from who they once were.
 
+## GM Decision: Fay Response
+The Fay **do not enforce** the contract. The contract's sole purpose is to prevent humans from releasing the spirits — it's a protective warning, not a pact with teeth. The Fay will not retaliate or demand anything. The danger is entirely from the freed spirits themselves.
+
 ## Grim Portents
 1. ☑ The contract is violated — Axel fells trees from the Great Wood
 2. ☑ A freed spirit possesses Cefin, attacks a hunting party
 3. ☐ More spirits are freed as additional felled trees release their prisoners
-4. ☐ The Fay respond to the broken contract (what do they demand?)
-5. ☐ [Escalation — spirits threaten Stonetop directly?]
+4. ~~☐ The Fay respond to the broken contract~~ — **REMOVED:** Fay don't enforce it
+5. ☐ The spirits organize or grow stronger, threatening Stonetop directly
 
 ## Impending Doom
-*TBD — What happens if nothing is done? All spirits free? Fay retaliation?*
+If nothing is done: more felled trees release more spirits. The spirits torment and kill anyone near the Great Wood, eventually threatening Stonetop itself. The Fay are not a factor — the doom is purely the spirits.
 
 ## Stakes Questions
 - How many trees did Axel fell? How many spirits are loose?
 - Is Axel alive? Where is he?
-- Will the Fay intervene — and as allies or enemies?
+- ~~Will the Fay intervene — and as allies or enemies?~~ (ANSWERED: They won't. Contract is passive — no enforcement.)
 - Can the spirits be rebound to the trees?
 - What were the spirits before corruption? (ANSWERED: Forest Folk, corrupted by the Things Below at the Green Lords' command during the Cataclysm)
 - Who imprisoned them in the trees? (ANSWERED: The Fae)
