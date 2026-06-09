@@ -1,4 +1,7 @@
 # Hex D8 — The Hunting Grounds
+<!-- AUTHORITATIVE for D8 content. When you edit this file, also update:
+     - hexcrawl/poi-index.md (D8 row)
+     - reference/energy-reference.md (if energy table changed) -->
 
 **Terrain:** Forest. Steep hillside transitioning to ancient woodland edge.
 **Visible?** NO (nothing visible from distance)

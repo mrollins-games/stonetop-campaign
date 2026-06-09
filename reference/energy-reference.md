@@ -1,4 +1,8 @@
 # Energy Reference — Master Table
+<!-- KEEP IN SYNC: Each hex-*.md has its own energy table. This consolidates them all.
+     When adding/changing energy entries in a hex file, also update this table.
+     When adding entries here for a new hex, also add to that hex's file.
+     Authority: hex-*.md energy tables WIN if there's a conflict. -->
 
 Cross-indexed with per-hex energy tables in each hex .md file.
 

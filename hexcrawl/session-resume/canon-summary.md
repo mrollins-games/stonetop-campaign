@@ -1,4 +1,9 @@
 # Canon Summary — Great Wood Hexcrawl (as of Session 2 prep)
+<!-- PURPOSE: Narrative orientation for Copilot agents. Load this FIRST for hexcrawl work.
+     NOT authoritative for specific hex details (hex-*.md files win).
+     NOT authoritative for specific entity details (characters/*.md, npcs/*.md win).
+     Update this at major session milestones, not every small edit.
+     See _copilot-instructions.md for the full authority hierarchy. -->
 
 ## Players & Characters (CRITICAL)
 

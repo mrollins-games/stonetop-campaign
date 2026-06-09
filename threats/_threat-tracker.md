@@ -1,4 +1,7 @@
 # Threat Tracker
+<!-- KEEP IN SYNC: This summarizes threats/*.md files.
+     When editing a threat's individual file, update its row here.
+     Authority: individual threat files WIN if there's a conflict. -->
 
 ## Status Key
 - 🔴 **Active** — Currently a problem; grim portents advancing

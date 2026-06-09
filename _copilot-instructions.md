@@ -58,6 +58,29 @@ When a request matches a skill, follow that skill's procedure:
 
 You don't need the exact slash command — infer the right skill from context.
 
+## Keep-In-Sync Rules (CRITICAL)
+
+**When you edit a file, you MUST also update every file it syncs with.** This prevents stale data.
+
+| When you change... | Also update... |
+|--------------------|----------------|
+| Any `hexcrawl/hex-*.md` (POIs, energy, terrain) | `hexcrawl/poi-index.md` (hex's row) AND `reference/energy-reference.md` (if energy table changed) |
+| `hexcrawl/poi-index.md` (hex summary) | Corresponding `hexcrawl/hex-*.md` if one exists |
+| `hexcrawl/session-resume/canon-summary.md` | Nothing — this is the narrative summary, updated at session milestones |
+| Any `characters/*.md` (stats, moves, XP) | `characters/_party-summary.md` (party table row) |
+| Any `npcs/stonetop-residents/*.md` | `npcs/_npc-index.md` (NPC's row) |
+| Any `threats/*.md` (status, grim portents) | `threats/_threat-tracker.md` (threat's row) |
+| `steading/stonetop.md` (stats/surplus) | `_index.md` (Current Steading Snapshot) |
+| Any session file `sessions/session-*.md` | `_index.md` (Sessions table), `world/timeline.md`, relevant NPC/threat files |
+| `handouts/*.md` (content changes) | Regenerate PDF if one exists for this handout |
+| `reference/spirits.md` or `reference/energy-reference.md` | Nothing — these are standalone references |
+
+**Authority hierarchy** (when two files disagree, the MORE SPECIFIC file wins):
+1. **Hex detail files** (`hex-d8.md`, `hex-e7.md`, `hex-e5.md`) — authoritative for hex content
+2. **Entity files** (`npcs/*.md`, `threats/*.md`, `characters/*.md`) — authoritative for that entity
+3. **Index/summary files** (`poi-index.md`, `_npc-index.md`, `_party-summary.md`, `_index.md`) — convenient summaries, NOT authoritative
+4. **`canon-summary.md`** — narrative orientation for agents; update at major milestones, not every edit
+
 ## Your Responsibilities
 
 ### After Each Session Transcript

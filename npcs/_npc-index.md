@@ -1,4 +1,7 @@
 # NPC Index — Residents of Stonetop
+<!-- KEEP IN SYNC: This summarizes npcs/stonetop-residents/*.md files.
+     When editing an NPC's individual file, update their row here.
+     Authority: individual NPC files WIN if there's a conflict. -->
 
 > Based on Steading Playbook p.5. Add each NPC named during introductions or play.
 > Give each an occupation (even if just farmer/homemaker) and at least 1 trait.

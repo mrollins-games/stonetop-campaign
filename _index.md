@@ -1,4 +1,7 @@
 # Stonetop Campaign — Master Index
+<!-- KEEP IN SYNC: This is a high-level dashboard. Data here is duplicated from detail files.
+     Update this when: sessions added, threats change, steading stats change.
+     Authority: detail files (sessions/*.md, threats/*.md, steading/stonetop.md) WIN. -->
 
 ## Quick Links
 - [Session Log](sessions/)

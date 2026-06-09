@@ -1,4 +1,7 @@
 # Party Summary
+<!-- KEEP IN SYNC: This summarizes characters/*.md files.
+     When changing a PC's stats/moves/XP in their character file, update this table.
+     Authority: individual character files WIN if there's a conflict. -->
 
 ## Player Characters
 

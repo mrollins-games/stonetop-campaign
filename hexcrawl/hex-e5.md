@@ -1,4 +1,8 @@
 # Hex E5 — The Welcome Glade
+<!-- AUTHORITATIVE for E5 content. When you edit this file, also update:
+     - hexcrawl/poi-index.md (E5 row)
+     - reference/energy-reference.md (if energy table changed)
+     - handouts/filberta-hunters-route.md (if Filberta-relevant content changed) -->
 
 **Terrain:** Lightning-shaped forest glade. Widest at the SW edge (river side), narrowing and zig-zagging northward into the trees.
 **Visible?** YES (visible from D4 across the river — a bright gap in the treeline)

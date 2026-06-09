@@ -1,4 +1,8 @@
 # Great Wood Hexcrawl - POI Index (Reindexed to player grid)
+<!-- KEEP IN SYNC: This is a SUMMARY of hex content. Authoritative detail lives in hexcrawl/hex-*.md files.
+     When editing a hex here, also update the corresponding hex-*.md if one exists.
+     When a hex-*.md file changes, update this file's row to match.
+     Authority: hex-*.md files WIN if there's a conflict. -->
 # Grid: Columns A-J, Rows 1-10 (bottom-to-top)
 # Flat-top hexes, letter = column (west to east), number = row (south to north)
 

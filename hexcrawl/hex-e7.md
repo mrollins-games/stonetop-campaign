@@ -1,4 +1,8 @@
 # Hex E7 — The Food Nexus
+<!-- AUTHORITATIVE for E7 content. When you edit this file, also update:
+     - hexcrawl/poi-index.md (E7 row)
+     - reference/energy-reference.md (if energy table changed)
+     - handouts/filberta-hunters-route.md (if Filberta-relevant content changed) -->
 
 **Terrain:** Ancient managed woodland. Forest Folk cultivated coppice.
 **Visible?** NO (pattern only visible from within or from canopy height)
