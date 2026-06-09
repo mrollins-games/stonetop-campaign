@@ -11,6 +11,7 @@
 | 5 | 🟢 Low | Between Sessions | Get photos of Wolfram, Halpin, and Gareth playbook sheets for accurate stats | 2026-06-02 | ☐ |
 | 6 | 🟢 Low | Between Sessions | Confirm Gareth's background/instinct and exact moves from playbook | 2026-06-02 | ☐ |
 | 7 | 🟢 Low | Between Sessions | Confirm Halpin's exact background name from playbook | 2026-06-02 | ☐ |
+| 8 | 🟡 Medium | Pre-Session 3 | Generate POI art for hunting route hexes (D8→E7→E5). 10 scenes identified: Rooted Pass, Canopy Escape, Food Nexus, Restless Oak, Sunlit Hollow, Canopy Parliament, The Cusp, Lightning Glade, The Crossing, Dilwen's Camp. Decide: how many, format (square vs 16:9), perspective (45° vs flat overhead), purpose (player reveal cards vs PPT/VTT). Then write prompts. | 2026-06-08 | ☐ |
 
 ## Completed
 
