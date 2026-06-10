@@ -34,16 +34,16 @@ She helped you across. She's helped you every time since.
 
 ### The Girl in the River
 
-She doesn't speak. She acts. The first time you addressed her from the far bank — standing dripping on E5's shore, looking back — she appeared. A pale shape beneath the surface, looking up. Young face. Dark hair streaming with the current. She mouths words but nothing comes. Her eyes are old and desperate with purpose: *not again, not another one, not here.*
+She doesn't speak much. She acts. The first time you addressed her from the far bank — standing dripping on E5's shore, looking back — she appeared. A pale shape beneath the surface, looking up. Young face. Dark hair streaming with the current. She mouths words but nothing comes. Her eyes are old and desperate with purpose: *not again, not another one, not here.*
 
-She guides every crossing. She redirects everyone else. Swimmers feel the current bringing them back to the near shore — safer. They think the ford is impassable. It isn't. She just won't let them try.
+She guides every crossing. She redirects everyone else considering the other side folly. Swimmers feel the current bringing them back to the near shore — safer. They think the ford is impassable. It isn't. She just won't let them drown and guides them to the greatest safety, back with kin.
 
 You've tried to help her. You've offered. She doesn't want help. She wants to do her job. She wants no one else to drown where she drowned. That's all that's left of her.
 
 **What you know:**
 - No one in Stonetop knows she exists. They just think the crossing is impossible.
 - She drowned here — a long time ago. Longer than anyone remembers.
-- She doesn't distinguish between "dangerous crosser" and "safe crosser" — she turns EVERYONE back. Except you. Because you asked.
+- She doesn't distinguish between "dangerous crosser" and "safe crosser" — she turns EVERYONE back. Except you. Because together, redemption.
 - She's a ghost, not a nature spirit. Mortal dead.
 - You've never crossed without greeting her since that first day.
 
@@ -84,16 +84,14 @@ At the narrow northern tip of the glade, where the lightning bolt pinches to a p
 
 On later visits, you've sometimes seen Filberta here — waiting for her father, playing with her squirrel, looking bored and restless the way she always does when Dilwen leaves her behind.
 
-**What you know:**
-- Dilwen doesn't know why his camp feels good. He just knows it does.
-- You know about the hunt offering — the tradition hunters pass down. When you make a kill, you leave an offering. It's hunter in-group knowledge, but you've spoken to enough spirits to understand the principle.
-- You don't know that Dilwen doesn't leave one.
+**What you since learned:**
+- Dilwen doesn't know why his camp is so but here he feels special, no one but he and his crew have the privilage of making camp here - and it will stay that way.
 
 ---
 
 ## E7 — The Coppice
 
-That first day, you didn't stop at the glade. The rabbit-spirit had pulled you north, and at the glade's tip the energy in the earth didn't end — it continued, flowing north into the trees like an underground river. You followed it. Past Dilwen's empty camp. Into the forest.
+That first day, you didn't stop at the glade. The rabbit-spirit had pulled you north, and at the glade's tip the energy in the earth didn't end — it came from the north.
 
 Filberta was ahead of you on the trail.
 
@@ -107,7 +105,7 @@ You stopped walking. You knelt. You pressed your palms flat against the earth.
 
 > Roots connected underground like a web. Grafted together — different species, one system. Alive, healthy, clean. Nourished by the same current you'd followed from the glade. The system was immense. Old. Slowly fading — like a fire no one tends. But still warm. Still breathing.
 
-Spirit Tongue found nothing individual to speak to. No singular presence to address. It was warmth within warmth. A candle indistinguishable from sunlight. Danu saturated the land so thoroughly that no lesser spirit could manifest — not because they were absent, but because the goddess was already *everything here.*
+Spirit Tongue found. Danu saturated the land so thoroughly that no lesser spirit could manifest — not because they were absent, but because the goddess was already *everything here.*
 
 Filberta disappeared into the trees ahead. You stayed. You didn't need to go further. You'd found something vast — something that answered questions you hadn't known to ask. The earth held you. Danu's palm, open and warm.
 
@@ -119,30 +117,11 @@ You turned back before dark. You've returned many times since — following the 
 - The system is slowly weakening. Fading. Like it needs tending that no one provides.
 - You've seen Filberta here many times — she belongs to this place in a way the other hunters don't. The squirrels come to her. The forest knows her.
 - Hunters don't tell non-hunters about the coppice. You've never been told about it — you found it yourself. What little you know of hunter custom says this place is theirs, and silence is expected.
-- You've never approached from the D8 side. Never climbed the Rooted Pass. Never had reason to — the river crossing is YOUR way in, and from E5 north is all you've ever needed.
-
----
-
-## What They Don't Know (GM only — do not include in player copy)
-
-*Deliberately omitted or unknown to Wolfram:*
-
-- The Restless Oak (E7, northern edge) — she's uncorrupted and waiting for him, but from E5 her signal is lost in Danu's saturated presence. He's never approached from D8 before. The expedition changes this.
-- The Food Nexus's full history — Forest Folk cultivated coppice, ley line origin at C9, the broken cycle. He feels the network but doesn't know its purpose or creators.
-- The ley line's full mapped path (C9→D8→E7→E5→D4→Stonetop) — he feels a current but hasn't traced it to its source.
-- The Sunlit Hollow (E7, POI 3) — Helior/Danu convergence. Hasn't ventured deep enough.
-- The squirrel relay communication network — he sees Filberta's squirrel but doesn't know about the colony's intelligence system.
-- The Cusp (Fae boundary jade formations) — has never been to the NE edge of E7.
-- That Dilwen doesn't leave the hunt offering — he knows the tradition exists but not Dilwen's loophole.
-- That Filberta also knows The Cusp intimately — they've never compared notes about the deep wood.
-- D8 entirely — the Rooted Pass, the hunting grounds, the canopy escape. He's never been there.
+- You've never approached from the D8 side. Never had reason to — the river crossing is YOUR way in, and from E5 north is all you've ever needed.
 
 ---
 
 ## Placeholders
 
-> *[PLACEHOLDER — Has Wolfram told anyone about the drowned girl? Or is this entirely private knowledge? Confirm with James.]*
-
 > *[PLACEHOLDER — What draws Wolfram across the river specifically? Is he looking for something about his origin (found in the Old Woods as a baby)? Or is it purely Danu's call?]*
 
-> *[PLACEHOLDER — The expedition will be Wolfram's first time approaching from D8. When he descends and senses the Restless Oak, how does he react to discovering a spirit he MISSED from E5? Does this shake his confidence in his senses?]*
