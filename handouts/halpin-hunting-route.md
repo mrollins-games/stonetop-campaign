@@ -2,17 +2,7 @@
 
 **For:** Dan G. (Halpin)  
 **Represents:** What Halpin knows about the hunting grounds — all secondhand, all gathered over the lip of a cup in the public house  
-**Give when:** Before the expedition into the Great Wood begins
-
----
-
-## Context (GM only — do not include in player copy)
-
-*Halpin is NOT a hunter. He's never walked the route. He's never crossed the river. But he's the man who brings the honey brandy to the public house, and people talk to the man pouring drinks. This handout is structured as one evening: Halpin arriving at the pub with a fresh batch, then a series of vignettes — conversations overheard, stories told, fragments shared by people whose tongues loosened at his table.*
-
-*His knowledge is impressionistic. Secondhand. Warm and amber-coloured, like everything in his life.*
-
-*What he DOES have that nobody else does: a connection to Helior that will manifest physically in these hexes (the bees, the Sunlit Hollow). He doesn't know about that yet. But he's felt something pulling his gaze south-east his whole life.*
+**Give when:** After the expedition into the Great Wood already began! Sorry these areas were under developed when we started sesson 3 and the shared fiction we developed means you should have known this earlier. Lets apply this retroactively if thats okay.
 
 ---
 
@@ -164,11 +154,11 @@ Third cup before he spoke:
 
 "Waves?"
 
-"Frozen waves. Jade. Running in a line — curved, like a wall. I could see through them but..." He shook his head. "I didn't cross. Something in me said DON'T. So I didn't."
+"Frozen waves. Malachite green. Banded. Running in a line — curved, like a wall. I could see through them but..." He shook his head. "I didn't cross. Something in me said DON'T. So I didn't."
 
 He finished his drink. Left coin on the bar. "Don't tell anyone I went that far. Dilwen'd skin me."
 
-You've never told anyone. You've never forgotten it either. *Jade waves. A border. Something that says DON'T.*
+You've never told anyone. You've never forgotten it either. *Malachite waves. A border. Something that says DON'T.*
 
 ---
 
@@ -184,28 +174,8 @@ You don't know what's out there. But Helior wants you to go look.
 
 ---
 
-## What They Don't Know (GM only — do not include in player copy)
-
-*Deliberately omitted or unknown to Halpin:*
-
-- The Sunlit Hollow (E7, POI 3) — Helior/Danu convergence. His bees will react when he enters E7. Golden bees, luminescent honey. Discovery territory.
-- The glade's shape IS the ley line's surface expression — not Helior's design, but Helior approves. The solstice alignment is real and meaningful.
-- The drowned girl spirit is why the crossing is "surprisingly safe" — not Helior, not luck.
-- The "offering" is the Halfeyd tradition — he has correct instincts but not the details.
-- The jade formations are The Cusp — Fae boundary markers. The young hunter's instinct to not cross was correct.
-- The Food Nexus is Forest Folk cultivation. Filberta is right about the planting.
-- The squirrel Parliament is an intelligence relay network, not just social behaviour.
-- Dilwen traps (not hunts) specifically to avoid the offering. The loophole.
-- Wolfram crosses the river regularly via the drowned girl's permission. The ford IS crossable.
-
----
-
 ## Placeholders
 
 > *[PLACEHOLDER — Has Halpin ever been to the river crossing? Even to the near bank? Or has he only ever seen the glade from the clifftop? Ask Dan G.]*
 
-> *[PLACEHOLDER — Does Halpin supply honey brandy to the public house regularly, or is this a special-occasion thing? Confirm with Dan G. what his livelihood looks like.]*
-
 > *[PLACEHOLDER — Has Filberta ever directly told Halpin about the offering? Or is Brennan's grandfather the closest he's gotten?]*
-
-> *[PLACEHOLDER — The solstice observation — has he told anyone? Does anyone else watch from the cliff that morning?]*

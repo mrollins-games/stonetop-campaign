@@ -2,17 +2,7 @@
 
 **For:** Danny R. (Gareth)  
 **Represents:** What Gareth knows about the ley line, the overland route to its source, and the Malachite formations at the Fae boundary  
-**Give when:** Before the expedition into the Great Wood begins
-
----
-
-## Context (GM only — do not include in player copy)
-
-*Gareth's knowledge comes from obsession. He detected the ley line his first week in Stonetop, failed to cross the river three times (ley line headwinds + the drowned girl, though he doesn't know about her), and eventually went overland via D8 and down the far side through D6. Along the way he found the standing stone in D6 (the Fay-wood Broom lead — his unmastered minor arcana), entered E5, traced the ley line up the glade, discovered the coppice, and found the Malachite formations at E7's NE edge.*
-
-*He spent DAYS at the Cusp — completely abandoning his ley line mapping in favour of investigating the formations and their markings. He hasn't entered Fae territory. He wants to translate the inscriptions first. This is his current obsession.*
-
-*He does NOT know about the drowned girl spirit (interprets all crossing failures as energy physics). He does NOT know about the trail spirit, the Restless Oak, or the Sunlit Hollow — he was focused entirely on energy readings and then the Malachite.*
+**Give when:** After the expedition into the Great Wood already began! Sorry these areas were under developed when we started sesson 3 and the shared fiction we developed means you should have known this earlier. Lets apply this retroactively if thats okay.
 
 ---
 
@@ -193,29 +183,10 @@ The expedition is your chance to go back. With more supplies. With time. And may
 
 ---
 
-## What They Don't Know (GM only — do not include in player copy)
-
-*Deliberately omitted or unknown to Gareth:*
-
-- The drowned girl spirit is why he can't cross the river (not just ley line headwinds). She pushes everyone back. He's never detected her because she's a ghost (mortal dead), not an energy source.
-- Wolfram crosses the river easily (spirit's permission). If Gareth learns this he'll be furious — why does the "resistance" not apply to Wolfram?
-- The ley line originates at C9 (Forest Folk outpost) — he's traced it to E7 but not further.
-- The Forest Folk built the coppice system. The ley line powered their cistern and cultivation.
-- The Malachite formations are the Fae binding spell's projection point — they BOUND corrupted Forest Folk spirits into the trees. The inscriptions may be terms of the original contract (never fell the trees).
-- The Restless Oak is an uncorrupted Forest Folk spirit in E7 — he walked right past her, focused on energy readings.
-- The trail spirit in E5 exists — he was too focused on the Hand to notice.
-- Filberta knows the Malachite formations (she calls them The Cusp). They've never compared notes.
-- The Sunlit Hollow in E7 (Helior/Danu convergence) — he passed through E7 without finding it.
-- The standing stone vision is the Fay-wood Broom lead (his unmastered minor arcana). The grave is real. The broom is waiting for him.
-
----
-
 ## Placeholders
 
 > *[PLACEHOLDER — Has Gareth told anyone about the Malachite formations? Has he mentioned the ley line to Wolfram (blood oath partner)? To Ted? Or is all of this private notebook material?]*
 
 > *[PLACEHOLDER — How much progress has he made on the translation? Has he cracked any symbols? Or is he still at "structural analysis" phase?]*
-
-> *[PLACEHOLDER — Does Danny R. want Gareth to have entered Fae territory briefly (even one step) and experienced something? Or is the restraint absolute?]*
 
 > *[PLACEHOLDER — The standing stone in D6 — does this need its own hex file? Is this a known POI or did Gareth discover something new?]*
