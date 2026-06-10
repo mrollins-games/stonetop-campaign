@@ -94,29 +94,26 @@ You wanted to open the cage. You wanted to scream at him. You wanted to break hi
 
 You couldn't do any of it. He was your father. He was bigger. He was *him*. And you were twelve.
 
-### Your Squirrel
+Then the father squirrel came.
 
-One of the kits — the smallest — had pressed itself into the corner of the cage furthest from Dilwen. It wasn't crying. It was watching you. Directly. Intently. The same bold stare as the one who'd taken the sloe from your palm that morning.
+It launched itself at your dad like something out of a legend — vicious, fearless, tiny claws and teeth against a grown man. It fought like it had nothing to lose. Because it didn't. Your father stumbled, swore, tried to swat it away. In the melee he fell backwards — right onto the trap. The cage shattered beneath him. Sticks snapping, twine tearing. The family scattered free.
 
-You don't know if it was the same squirrel. You've never been sure. But it looked at you like it knew you. Like it had decided something.
+The father squirrel didn't survive.
 
-That night, while your father slept and you lay awake sick with anger, the smallest kit squeezed through a gap in the hazel rods — too tight for its mother, too tight for its siblings, but just barely possible for the runt. It crossed the ground between the cage and your bedroll. It climbed onto your chest. It sat there, looking at you, and it didn't leave.
+It was the first time you ever saw someone stand up to your dad. A creature a fraction of his size, who knew it would die, and fought anyway. For its family.
 
-In the morning your father saw it on your shoulder. He shrugged. "Runt wouldn't've survived anyway."
+That squirrel became your idol. You've stood up to your father ever since.
 
-You've never forgiven him. For any of it.
+One of the freed children — one of the young squirrels that ran free when the cage broke — didn't scatter with the others. It followed you.
 
-The others — the mother and the remaining kits — he sold the pelts in town three days later. You know this. You try not to think about it.
+And you took off, burning with rightious anger. Runing home to stonetop but the wrong way. Directly to the river.
 
 **What you know:**
 - Your squirrel chose you. Not the other way around.
 - When you bring it back to E7, the Parliament recognises it immediately. They cluster around it. Calm. Welcoming. It sits on a familiar branch and chatters softly with the others. It's catching up. It's home.
-- It doesn't go manic here. It settles.
 - Your father has never once successfully trapped a squirrel in E7 since that day. Not one. The Parliament remembers.
 
 ### Running
-
-You couldn't stay. Not another minute. Not with him breathing ten feet away and the cage still sitting by the dead fire with three shapes huddled inside. You got up before dawn. You walked south through the glade — past the wide mouth of the lightning bolt, past the wildflowers and the soft grass, down to the river's edge.
 
 You'd never crossed here. The river runs fast and cold. Chest-high in summer. The current is vicious — undertow that drags at your legs, algae-slick rocks, sudden holes. Most townsfolk won't attempt it. You'd always gone back north, up through D8, the long way home.
 
@@ -136,10 +133,9 @@ And then something pushed you. Firm. Steady. A current beneath the current, movi
 
 You made it. You stood on the D4 bank dripping and shaking, the squirrel puffed up like a wet pinecone on your shoulder, chattering furiously at the river. Something had guided you — guided you home, back to kin, to the greatest safety it knew to give.
 
-You didn't understand it then. You still don't, really. But you made it home that day — soaked, freezing, alone except for a stolen squirrel kit who'd chosen you over its cage. Your father didn't come home until the next evening. He never asked how you got back. He never noticed you'd crossed the river.
+You didn't understand it then. You still don't, really. But you made it home that day — soaked, freezing, alone except for a stolen squirrel who'd chosen you over its cage. Your father didn't come home until the next evening. By then you had moved out.
 
 **What you know:**
-- The crossing is dangerous but not impossible. You've done it that once.
 - Something in the water helped you. You don't know what. But it pushed you toward home — like it understood that's where you needed to be.
 - You've never told anyone about that crossing. It felt private. Desperate. Not something you want to explain.
 - Townsfolk don't cross here. When they try, they don't make it — current pushes them back. You don't know why it let YOU through.
@@ -148,9 +144,9 @@ You didn't understand it then. You still don't, really. But you made it home tha
 
 ## The Offering (what hunters know)
 
-When you make a kill, you leave an offering. Every hunter knows this. It's the first thing you're taught — or the first thing you learn from watching. You leave something: a portion of the meat, arranged a certain way, left at the kill site. You don't ask what it's for. You just do it.
+When you make a kill, you leave an offering. Every hunter knows this. It's the first thing you're taught — or the first thing you learn from watching. You leave something: arranged a certain way, left at the kill site. You don't ask what it's for. You just do it.
 
-The legend among hunters: if someone who doesn't know the offering were to hunt, they'd be thinned from the herd. This is why non-hunters don't hunt. It's not a rule anyone enforces — it enforces itself.
+The legend among hunters: if someone who doesn't know to place the offering were to hunt, they'd be thinned from the herd. This is why non-hunters don't hunt. It's not a rule anyone enforces — it enforces itself.
 
 Your father traps instead of hunts. The animals die when he isn't there. He thinks this means he doesn't have to make the offering. He thinks he's clever.
 
@@ -180,10 +176,3 @@ You knew — in the way children know things without being told — that this wa
 
 Together, you and your fairy friend made a fairy ring on the other side — in the forest beyond the formations. You've been back many times. This is your secret place. Childhood. Wonder. A friendship no one in Stonetop knows about.
 
----
-
-## Placeholders
-
-> *[PLACEHOLDER — Has Filberta ever crossed the river again since that day? Or was it truly a one-time desperate act? Confirm with Kari.]*
-
-> *[PLACEHOLDER — Kari to fill in the fairy friend meeting story at the Malachite formations.]*
