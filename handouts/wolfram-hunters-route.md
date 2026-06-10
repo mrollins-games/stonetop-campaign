@@ -1,16 +1,8 @@
 # The River Crossing — Wolfram's Handout
 
 **For:** James (Wolfram)  
-**Represents:** What Wolfram knows about E5 and E7 — from his own crossings, his Vessel sense of the root network, and following Filberta into the coppice  
-**Give when:** Before the expedition into the Great Wood begins
-
----
-
-## Context (GM only — do not include in player copy)
-
-*Wolfram's knowledge comes from direct experience: swimming the D4→E5 crossing, exploring the Welcome Glade, and following Filberta north into E7's coppice. He has never been to D8 — he enters from the river side and has never had reason to push past E7 into the highlands. His knowledge is intimate and spiritual, grounded in Danu's presence and the spirits he's spoken to along the way.*
-
-*The handout is structured as one continuous story: the first day Wolfram crossed the river and followed Filberta into the deep wood. After each story section, bullet points cover additional facts he's learned on subsequent visits.*
+**Represents:** What Wolfram knows about D4, E5 and E7 — from his own crossings.
+**Give when:** After the expedition into the Great Wood already began! Sorry these areas were under developed when we started sesson 3 and the shared fiction we developed means you should have known this earlier. Lets apply this retroactively if thats okay.
 
 ---
 
@@ -18,7 +10,7 @@
 
 You were sixteen. The river between D4 and E5 runs fast and cold — chest-high in a good summer, higher in spring. The riverbed is treacherous: smooth stones shift, algae-slick, sudden drop-offs where your footing vanishes. The undertow grabs at your legs in ways that don't match the surface current.
 
-Townsfolk don't cross here. When someone tries — some wild-headed youth who fancies the far bank — they don't make it. Not that anyone can remember a drowning. They just... come back. Current pushes them to the near shore. Feet find purchase on the wrong side. They try again, and again, and then they're cold and tired and they go home. It's "too dangerous." Everyone accepts this.
+Townsfolk don't cross here. When someone tries — some wild-headed youth who fancies the far bank — they don't make it. Not that anyone can remember a drowning. They just... come back. Current pushes them to the near shore. Most everyone accepts this.
 
 You tried too. You waded in — the cold hit your chest, the current shoved — and hands you couldn't see pressed against your ribs, firm and insistent, pushing you back toward the shallows. Not violent. Motherly. *No. Not you either. Back.*
 
@@ -28,7 +20,11 @@ You stood waist-deep in the near shallows, breathing hard, and you spoke to her.
 
 Silence. The river rushing past. Then — a shift. The pressure on your chest released. The current didn't change, but it stopped *fighting* you. A presence in the water, old and sad and focused, considered you. Considered your request.
 
-You asked permission. That's what no one else had ever done.
+>"Danu calls me from the other side, her trees part there to embrace us."
+
+>Ghost: "Perhase she was who called me too, but I couldn't make it. I called for help but the river filled my lungs, it was a painful deth. One I won't allow again, not with me here."
+
+"Let me finish then what you hoped to start, let me plant there in your name and call it complete."
 
 > The cold hits your chest again. The current shoves. Your feet leave the bottom and for a moment you're nothing but the river's plaything. Then — a nudge. A current that shouldn't exist pushes you toward solid rock. Your hand finds a grip where no grip should be.
 
