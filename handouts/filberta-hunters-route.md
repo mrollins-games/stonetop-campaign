@@ -8,9 +8,7 @@
 
 ## D8 — The Rooted Pass
 
-You were twelve. Your father woke you before dawn — "Up. We're going deep today." You were thrilled. He didn't always take you to E7. Sometimes he left you at the pass and went alone.
-
-Not today. Today you climbed together.
+You were twelve. Your father woke you before dawn — "Up. We're going deep today." You were than thrilled not to be abandoned. We'll see for how long. 
 
 The pass is a steep hillside, almost a cliff, choked with ancient roots — gnarled, interlocking, black when wet. The gaps between them drop into unseen tangles. There is no obvious path. But there IS a path, if you grew up climbing it.
 
@@ -21,8 +19,8 @@ You were fast that morning. Faster than your father. You were already at the bot
 You were. The sloes were ripe.
 
 **What you know:**
-- You could do this blindfolded. You've climbed the Rooted Pass since you were seven.
-- Most people who attempt it turn back. It's not marked. It doesn't want to be found.
+- You could do this blindfolded. You've climbed the Rooted Pass since you were seven. When the expidtion gets there you don't roll defy danger to descend - hah.
+- Most people who attempt it turn back. It's not marked. It doesn't want to be found. Looks impossible to most.
 - At the base, the forest opens into massive old-growth trunks spaced wider. Game trails cut everywhere. This is where the hunting begins — for those who hunt.
 
 ---
@@ -49,8 +47,6 @@ They looked like a council in session. Absurdly serious. Tiny furry lawmakers de
 
 You laughed out loud. "Parliament," you said to no one. "It's a parliament."
 
-The name stuck because the contradiction was funny — *parliament* is stuffy, formal, wig-wearing important. And they were squirrels. Ridiculous, frantic, nut-obsessed squirrels who took themselves enormously seriously. The Canopy Parliament. You loved them immediately.
-
 They froze when they heard you laugh. Every head turned. Dozens of dark eyes staring down.
 
 You held very still. Held out a sloe on your palm.
@@ -61,12 +57,12 @@ By midmorning you were sitting cross-legged beneath the oak with eight of them o
 
 ### Why no one else comes here
 
-You've thought about this — later, older, looking back. The hunting here is the best in the Great Wood. Better than anywhere within a day's walk of Stonetop. But the route stays quiet. Three, maybe four people use it regularly. Why?
+You've thought about this — later, older, looking back. The hunting here is the best in the Great Wood. Better than anywhere within a day's walk of Stonetop. But the route stays quiet. Just the hunters use it regularly. Why?
 
-- **Hunters don't share.** It's part of the code. You don't point newcomers at your grounds. "Game's good in the deep wood" — that's all anyone says. The WHERE stays with those who earned it.
+- **Hunters don't share hunter things with non-hunters.** It's part of the code. You don't point newcomers at your grounds. "Game's good in the deep wood" — that's all anyone says. The WHERE stays with those who earned it.
 - **The Parliament keeps it that way.** Anyone who doesn't already know the route gets spotted by the relay. The alarm cascades. Game disperses before they're within bowshot. They come once, catch nothing, and don't come back. The forest self-selects for the patient. For the quiet. For *you.*
 - **There's nothing to describe.** You've tried to tell Halpin about this place more than once. But the words go sideways every time. You end up talking about the squirrels. About the way the light moves. About how it FEELS. The place itself — what it IS, what it gives — doesn't survive translation.
-- **Your father guards it.** He tells people there's plenty of game closer to home. He's possessive of this stretch of forest in a way he's possessive of nothing else.
+- **Your father guards beyond it.**  He's possessive of his camp in a way he's possessive of nothing else.
 
 ### Evening
 
@@ -74,7 +70,7 @@ You lost track of time. The Parliament eventually scattered — not alarmed, jus
 
 Dark was coming. Your father wasn't back.
 
-He was supposed to collect you hours ago. He always did — appearing on the trail with his pack and his grim silence, jerking his chin toward the pass. *Come on. Moving.* But the trail was empty and the shadows were long.
+He was supposed to collect you hours ago. 
 
 You went to find him. South, toward E5. Toward his camp.
 
