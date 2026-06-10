@@ -12,9 +12,9 @@ You noticed it the first week. Standing in your laboratory, Azure Hand humming a
 
 Every energy source you'd studied before had been local. A battery. A reservoir. A node. But THIS was a current — moving, continuous, coming from somewhere and going somewhere. Not stored. Not static. *Flowing.*
 
-You spent three months mapping it from within Stonetop. Walking the village at night, staff extended, feeling where the current ran strongest. It follows no road, no building line — it cuts through the earth on its own trajectory. South-east to north-west. Always the same direction. Always the same strength. Patient. Ancient. Indifferent to the village built on top of it.
+You spent three months mapping it from within Stonetop. Walking the village at night, staff extended, feeling where the current ran strongest. It follows no road, no building line — it cuts through the earth on its own trajectory. From the South-east right into town well below the Stone. Always the same direction. Always the same strength. Patient. Ancient. Indifferent to the village built on top of it.
 
-> The Hand prickles when you face into the current. Not pain — excitement. The etherium plate vibrates at a frequency you feel in your teeth. It WANTS to drink from this. It wants to gather. You don't let it. Not yet. Not until you understand what you're touching.
+> The Hand prickles when you face into the current. Not pain — excitement. 
 
 The current's origin is south-east. Beyond the bluff. Beyond the river.
 
@@ -24,7 +24,7 @@ You went to find it.
 
 ## The River (Failed Crossings)
 
-The cliff edge gives you the clearest reading. Stand at the bluff with the Hand extended toward the forest — the current intensifies. It's coming from across the river. Specifically: from that bright gap in the canopy, the lightning-bolt glade visible from here. The energy pours out of that opening and crosses the water without slowing.
+The cliff edge gives you the clearest reading. Stand at the bluff with the Hand extended toward the forest — the current intensifies. It's coming from across the river. Specifically: from that bright gap in the canopy, the glade visible from here. The energy pours out of that opening and crosses the water without slowing.
 
 The river doesn't interrupt it. Water doesn't block it. The current passes through as if the river weren't there.
 
@@ -34,33 +34,29 @@ But YOU can't.
 
 You went to the ford at dawn. Chest-high water, vicious undertow, algae-slick stones. You'd be swimming INTO the current — against its flow. You reasoned: the current is energy, not physical force. It shouldn't affect a body.
 
-You were wrong. The moment you waded past your waist, the Hand began to PULL. The current flowing into the staff created resistance — like walking into a gale while holding a sail. At chest height, something pushed you back. Not just the physical current — a pressure in the energy itself. A wall.
+You were wrong.
 
 Your feet slipped. The undertow grabbed. You went under and washed up on the near bank, coughing. Twenty feet downstream.
 
 ### Second Attempt
 
-You wrapped the Hand in oiled leather — dampen its interaction with the current. It worked partially. You made it further. Almost to the midpoint —
+You made it further. Almost to the midpoint —
 
-Then the resistance doubled. Sudden. One step: manageable. Next step: impossible. Your body refused to move forward. The current deposited you on the near bank like flotsam.
+Then the current broke to push you back. When you try to regain your footing on a large rock, it only spun you around.
 
 ### Third Attempt
 
-Night. Theory: ley lines might pulse with solar cycles. If there was a nocturnal lull —
+Night. Theory: the ley line's current might push against the staff, you'll need it on the otherside but first a test. You leave it at home...
 
-There wasn't. Same result. The river wouldn't let you cross against the flow.
+Same result. The river wouldn't let you cross against the flow.
 
 Three failures. You sat on the rocks, wrote six pages of notes, and decided: if you can't go THROUGH the current, go AROUND it.
 
 ---
 
-## The Overland Route (via D8)
+## The Overland Route (via B8)
 
-You went south from Stonetop the long way — overland, circling wide, climbing to the highland pass the hunters use. You weren't following the ley line here; you were flanking it. The Hand confirmed the current ran through D8 as well — faint, underground, flowing south. Noted. Filed. You descended the far side and turned south-east along the river's far bank.
-
-D6. Dense forest coming down to the river's edge. The ley line was below you now, running deeper underground as it approached the crossing point. You were close — perhaps two hours' walk from the glade.
-
-And then you saw the stone.
+You went south from Stonetop the long way — overland, circling wide, climbing to the highland pass the hunters use. You weren't following the ley line here; you were flanking it. You treked back south along the far side of the river.
 
 ---
 
@@ -92,7 +88,7 @@ You marked the standing stone's location in your notebook. Drew the symbols. You
 
 You followed the current. It surfaced ahead of you — you could feel it rising from thirty feet underground to just beneath the soil, then breaking through entirely. The trees fell away. The glade opened.
 
-> A lightning-bolt shaped clearing. Widest at the river to the SW, narrowing in sharp zig-zag angles as it cuts north into the trees. The energy runs along its length like water in a channel — exposed, flowing freely, unobstructed by root or stone. This is what a ley line looks like on the surface: a scar where nothing grows because the current burned absence into the earth over centuries.
+> A lightning-bolt shaped clearing. Widest at the river to the SW, narrowing in sharp zig-zag angles as it cuts north into the trees. The energy runs along its length like water in a channel — exposed, flowing freely, unobstructed by root or stone. This is what a ley line looks like on the surface: a not ascar where nothing grows, but where growing things make way.
 
 You walked the glade's full length. Staff extended. Readings at every zig-zag bend. The current intensifies as the glade narrows — concentrating at the tip the way water speeds through a bottleneck. The trees lean away from the edges. The grass grows thick and uniform — fed by ambient energy runoff.
 
@@ -106,15 +102,13 @@ You kept walking north. The current continued — underground again, flowing fro
 
 The forest changed. You almost missed it — you were watching the Hand, not the trees. But eventually you looked up and stopped.
 
-The trees were PLACED. Oaks in the upper canopy, beeches filling gaps, hazel in the understory — growing in complementary layers, spaced with mathematical regularity. Root systems — you could feel them through the staff — grafted together underground. Different species connected into one network. Fed by the same current you'd been tracing.
+The trees were PLACED. Oaks in the upper canopy, beeches filling gaps, hazel in the understory — growing in complementary layers, spaced with mathematical regularity. Different species connected into one. 
 
-Someone built this. Someone planted a forest and wired it together underground and powered it with the ley line.
-
-You spent hours here. Walking grid patterns. Mapping the root network's architecture through the Hand's readings. The system is immense — fills the entire hex, or near enough. Ancient. And weakening. The current still feeds it, but the flow is thinner than the infrastructure was built for. Like a river that once filled its banks running half-dry.
+You spent hours here. Walking grid patterns. Mapping the flows. It arries from the NE and in ways vents, in ways pools, then flows on to town the way you came.
 
 You wanted to trace the ley line further north — find the source. But something else caught your attention.
 
-At the north-eastern edge of the coppice, the energy readings changed. Not the ley line — something ELSE. A different signature. Older. Stranger. Radiating from the tree line ahead.
+At the north-eastern edge of the coppice, the energy readings changed. Not the ley line — something ELSE. A different signature. Stranger. Radiating from the tree line ahead.
 
 You turned toward it.
 
@@ -126,9 +120,9 @@ You saw the colour first. Deep green — not leaf-green, not moss-green. *Malach
 
 Then the shapes resolved.
 
-> Crystalline formations rising from the forest floor. Waist-high, translucent, shaped like waves caught mid-break — spray frozen as solid arcs, the leading edge razor-thin while the body curves thick and dense. They run in a line as far as you can see, curving away into the trees in both directions. A wall of frozen green water that never fell.
+> Crystalline formations rising from the forest floor. Waist-high, translucent, shaped like waves caught mid-break — spray frozen as solid arcs, the leading edge razor-thin while the body curves thick and dense. They run in a line as far as you can see, curving away into the trees in both directions. Always facing west.
 
-You approached. The Hand was screaming — not painful, but LOUD. The energy here was unlike anything in the ley line. The ley line is warm, earthy, flowing. This was crystalline. Structured. Precise. Like the difference between a river and a clock.
+You approached. The Hand was screaming — not painful, but LOUD. The energy here was unlike anything in the ley line. The ley line is warm, earthy, flowing. This was residual, crystalline. 
 
 You touched one. The surface was cool. Impossibly smooth — smoother than polished glass. The banding isn't painted on; it goes ALL the way through. You can see into the interior — swirling layers of dark and light green, like looking into deep water. Faint luminescence deep within. Not reflecting light. Generating it.
 
