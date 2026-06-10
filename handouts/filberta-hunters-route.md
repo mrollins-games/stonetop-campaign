@@ -1,16 +1,8 @@
 # The Day Everything Changed — Filberta's Handout
 
 **For:** Kari (Filberta)  
-**Represents:** What Filberta knows about D8, E7, and D4 — from a lifetime on the hunting route, anchored around one terrible, wonderful day  
-**Give when:** Before the expedition into the Great Wood begins
-
----
-
-## Context (GM only — do not include in player copy)
-
-*This handout is structured around a single day — the day Dilwen trapped the squirrel family. It's the same day Filberta first met the Canopy Parliament, the same day her squirrel chose her, and the only day she swam the river east-to-west to get home. The story moves D8 → E7 → E5 → D4, following her emotional arc from excitement to horror to flight.*
-
-*After the story sections, bullet points cover additional facts she knows from other visits.*
+**Represents:** What Filberta knows about D8, E7, E5, and D4 — from a lifetime on the hunting route, anchored around one terrible, wonderful day  
+**Give when:** After the expedition into the Great Wood already began! Sorry these areas were under developed when we started sesson 3 and the shared fiction we developed means you should have known this earlier. Lets apply this retroactively if thats okay.
 
 ---
 
@@ -146,15 +138,15 @@ Halfway across, the undertow grabbed your legs and pulled. Your feet left the bo
 
 And then something pushed you. Firm. Steady. A current beneath the current, moving *across* the river instead of down it. Pushing you toward the far bank. Your feet found rock — solid, stable, exactly where you needed it. Another step. Another. The water dropped from your shoulders to your chest to your waist.
 
-You made it. You stood on the D4 bank dripping and shaking, the squirrel puffed up like a wet pinecone on your shoulder, chattering furiously at the river. Something had guided you. Something in the water that wanted you safe on the other side.
+You made it. You stood on the D4 bank dripping and shaking, the squirrel puffed up like a wet pinecone on your shoulder, chattering furiously at the river. Something had guided you — guided you home, back to kin, to the greatest safety it knew to give.
 
 You didn't understand it then. You still don't, really. But you made it home that day — soaked, freezing, alone except for a stolen squirrel kit who'd chosen you over its cage. Your father didn't come home until the next evening. He never asked how you got back. He never noticed you'd crossed the river.
 
 **What you know:**
 - The crossing is dangerous but not impossible. You've done it that once.
-- Something in the water helped you. You don't know what.
+- Something in the water helped you. You don't know what. But it pushed you toward home — like it understood that's where you needed to be.
 - You've never told anyone about that crossing. It felt private. Desperate. Not something you want to explain.
-- Townsfolk don't cross here. When they try, they don't make it — current pushes them back. You've heard this. You don't know why it let YOU through.
+- Townsfolk don't cross here. When they try, they don't make it — current pushes them back. You don't know why it let YOU through.
 
 ---
 
@@ -170,43 +162,27 @@ You think he's a coward.
 
 ---
 
-## The Cusp (E7, NE edge)
+## The Malachite Formations (E7, NE edge)
 
-### How you found it
+### How you found them
 
 You were eleven — the year before the squirrel day. Your father left you in E7 as usual. You waited for squirrels. They didn't come. (Your father was too close — you know that now.) You got bored.
 
 You walked further NE than you'd ever gone. The managed trees thinned. The undergrowth changed — wilder, older. And then you saw them.
 
-Jade-green crystalline formations. Waist-high, translucent, shaped like crashing waves caught mid-break — spray frozen as solid arcs. They ran in a line as far as you could see, curving away into the trees in both directions.
+Malachite formations. Waist-high, translucent, banded in swirling layers of dark and light green — shaped like crashing waves caught mid-break, spray frozen as solid arcs. They ran in a line as far as you could see, curving away into the trees in both directions. Deep green, rich as velvet, catching the filtered canopy light and holding it.
 
-You touched one. Cool. Smooth. Faintly humming.
+You touched one. Cool. Impossibly smooth. Faintly humming.
 
 You knew — in the way children know things without being told — that this was a border. The other side was different. You crossed it anyway.
 
 ### Your fairy friend
 
-*(This story is between you and the GM — Kari, tell me how you met your fairy friend on the other side of The Cusp. What were they like? What did you do together that first day?)*
+*(This story is between you and the GM — Kari, tell me how you met your fairy friend on the other side of the Malachite formations. What were they like? What did you do together that first day?)*
 
 ### The fairy ring (F8)
 
-Together, you and your fairy friend made a fairy ring on the other side — in the forest beyond The Cusp. You've been back many times. This is your secret place. Childhood. Wonder. A friendship no one in Stonetop knows about.
-
----
-
-## What They Don't Know (GM only — do not include in player copy)
-
-*Deliberately omitted or unknown to Filberta:*
-
-- The Food Nexus is a Forest Folk cultivated system — she feels it's deliberate but doesn't know who or why.
-- The ley line feeding the root network — she has no sense of the energy current.
-- The Restless Oak — she's never encountered it (passes through E7's centre, not the northern edge near D8).
-- The Sunlit Hollow — hasn't found it (hidden in a canopy gap, requires following the bees).
-- That Wolfram also visits E7 via E5 — they've never compared notes.
-- What guided her across the river (the drowned girl spirit) — she felt it but has no explanation.
-- The drowned girl's nature or story — she only knows "something helped."
-- The trail spirit's true nature — she ran through the glade but wasn't listening.
-- That the squirrel relay is actively protecting the coppice from outsiders — she knows the Parliament is smart, but not the full scope of their intelligence network.
+Together, you and your fairy friend made a fairy ring on the other side — in the forest beyond the formations. You've been back many times. This is your secret place. Childhood. Wonder. A friendship no one in Stonetop knows about.
 
 ---
 
@@ -214,6 +190,4 @@ Together, you and your fairy friend made a fairy ring on the other side — in t
 
 > *[PLACEHOLDER — Has Filberta ever crossed the river again since that day? Or was it truly a one-time desperate act? Confirm with Kari.]*
 
-> *[PLACEHOLDER — Does the Parliament treat Filberta differently after the squirrel-cage incident? Do they trust her more because she was clearly horrified? Or is there wariness toward any human connected to Dilwen?]*
-
-> *[PLACEHOLDER — Kari to fill in the fairy friend meeting story at The Cusp.]*
+> *[PLACEHOLDER — Kari to fill in the fairy friend meeting story at the Malachite formations.]*
