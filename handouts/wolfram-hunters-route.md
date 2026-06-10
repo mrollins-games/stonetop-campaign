@@ -14,7 +14,7 @@
 
 ---
 
-## The Route (what everyone in Stonetop knows)
+## The Route
 
 The hunters go into the Great Wood through a steep hillside pass, down into deep forest where the game is thick, and out to a glade by the river. D8, E7, E5. Three hexes. A day's walk each way if you know the ground.
 
