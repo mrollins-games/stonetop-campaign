@@ -2,7 +2,6 @@
 
 **For:** Kari (Filberta)  
 **Represents:** What Filberta grew up knowing about the forest south and east of Stonetop — the pass, the food nexus, the squirrel colony, the Cusp, and the Welcome Glade.  
-**Give when:** First expedition or any journey into D8, E7, E5, or F8. Also relevant if Filberta's relationship with the forest, her father, or the Fae comes into focus.
 
 ---
 
