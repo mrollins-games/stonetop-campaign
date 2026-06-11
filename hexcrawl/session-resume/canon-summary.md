@@ -69,9 +69,9 @@ An underground current of energy flowing from C9 (Forest Folk outpost) through t
 
 **Fae territory starts at:** F4, F6, F8, E9 — everything east of this line is Fae.
 
-**The Cusp** (NE edge of E7, bordering F8) = the boundary's physical expression. Jade wave formations — look like frozen waves of green stone. These are BOTH the projection point of the Fae binding spell AND leftovers/residue of it.
+**The Malachite Formations** (NE edge of E7, bordering F8) = the boundary's physical expression. Banded malachite-green crystalline formations shaped like frozen waves, always facing west. These are the REMNANTS of the Fae binding spell — spent debris of the massive working that imprisoned corrupted Forest Folk in trees. They hold no energy; energy directed at them doesn't find a home. The ley line does NOT extend east past this boundary. Inscriptions in Fae script on the west-facing bases contain concepts of "rules/conditions" and "breached" — text nested within text.
 
-**Fairy Ring** is in F8 (SW side, just across the boundary from The Cusp). Made by Filberta + a fairy friend in childhood.
+**Fairy Ring** is in F8 (SW side, just across the boundary from the Malachite Formations). Made by Filberta + a fairy friend in childhood.
 
 ---
 
@@ -101,9 +101,12 @@ An underground current of energy flowing from C9 (Forest Folk outpost) through t
 
 ### The Drowned Girl Spirit (E5 / D4)
 - Ghost anchored at the E5 ford crossing
-- Guides swimmers safely — no one has ever drowned at this ford
+- **Origin:** She was called by Danu to cross to E5 but drowned trying. She called for help but the river filled her lungs.
+- **Behavior:** Redirects ALL swimmers back to the near shore — considers the other side folly, guides them to greatest safety, back with kin. No one has ever drowned at this ford because she won't allow it.
 - Can appear at D4 side too (across the river)
-- No one knows she's there
+- No one in Stonetop knows she exists. They just think the crossing is impossible.
+- **Wolfram's pact:** He asked permission to cross, told her "Danu calls me from the other side." She recognized a shared purpose. He promised: "Let me finish what you hoped to start, let me plant there in your name and call it complete." She lets him cross — together, redemption.
+- **Filberta's crossing:** The ghost pushed a fleeing twelve-year-old girl toward home (D4) — greatest safety, back with kin. Consistent with her rule. Filberta doesn't know what helped her.
 
 ### The Ford Crossing (E5 → D4)
 - Genuinely dangerous: chest-high summer, neck-high spring. Never calm — sometimes calmer.
@@ -211,7 +214,7 @@ Full file: `hexcrawl/hex-e7.md` (5 POIs, most complex hex)
 2. **The Restless Oak** (N edge, first encountered from D8) — Uncorrupted Forest Folk spirit merged naturally with her tree in death. Speaks to Wolfram via Spirit Tongue. Party encounters her BEFORE reaching the coppice centre when approaching from D8. From E5, her signal is lost in Danu's saturation (why Wolfram never found her before).
 3. **The Sunlit Hollow** — Helior/Danu convergence. Danu smiles upon this place and greets Helior. Luminescent bees, sunstone, golden honey.
 4. **The Canopy Parliament** — Squirrel colony with relay communication. Filberta's squirrel comes home here.
-5. **The Cusp** (NE edge, bordering F8) — Jade wave Fae boundary markers. Projection point of binding spell.
+5. **The Malachite Formations** (NE edge, bordering F8) — Banded green crystalline wave-shapes. Spent remnants of Fae binding spell. Hold no energy. Inscriptions in Fae script (rules/conditions + breached). Ley line does not extend east past here.
 
 ### E5 — The Welcome Glade
 Full file: `hexcrawl/hex-e5.md` (3 POIs)
@@ -274,7 +277,7 @@ Full file: `hexcrawl/hex-e5.md` (3 POIs)
 | D10 | Dark water (small lake) |
 | B8 | River bend (exposed strata) |
 | E5 | Welcome Glade (visible from D4 across river) |
-| E7 POI 5 | The Cusp (jade formations visible) |
+| E7 POI 5 | The Malachite Formations (green crystalline waves visible) |
 
 ---
 

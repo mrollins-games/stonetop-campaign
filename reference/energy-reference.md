@@ -26,7 +26,7 @@ Cross-indexed with per-hex energy tables in each hex .md file.
 | E7 | The Food Nexus (root network) | Root network | Reservoir | Radiates outward from nexus centre | Moderate | Fed by ley line | Undiscovered |
 | E7 | The Sunlit Hollow | Sunstone | Source | Pulses outward, static | Gentle, warm | Helior/Danu convergence (self-sustaining) | Undiscovered |
 | E7 | The Restless Oak | Spirit warmth | Source | Faint radiance, localised | Faint | The uncorrupted spirit's connection to the root network | Undiscovered |
-| E7 | The Cusp | Binding residue | Source | Radiates inward toward Fae territory (F8) | Moderate, ancient | Residual energy from the Fae binding spell — projection point | Undiscovered |
+| E7 | The Malachite Formations | Binding residue | Spent | None — inert, no energy flow | None (spent) | Remnants of the Fae binding spell — no active energy, does not interact with ley line. Ley line does NOT extend east past here. | Undiscovered |
 | E5 | The Welcome Glade | Ley line pass-through | Current | S from E7, SW toward D4 | Weak | Draws predisposed townsfolk across the river | Undiscovered |
 | E5 | River crossing | Spirit presence | Source | Localised at the ford | Faint | Drowned girl spirit, guides crossings | Undiscovered |
 | D4 | River ford | Ley line terminus (Stonetop end) | Current | Arrives from E5, continues NW toward Stonetop | Faint | Weakest point — most townsfolk don't notice | Undiscovered |
@@ -41,4 +41,4 @@ Cross-indexed with per-hex energy tables in each hex .md file.
 - The ley line is a single continuous current: **C9 → D8 → E7 → E5 → D4 → Stonetop**. It appears in each hex's local table as the relevant segment.
 - The ley line draws predisposed townsfolk across the river at D4 toward E5 and deeper. Most don't notice — only those sensitive or "called."
 - The sunstone is qualitatively different — warm, divine, not arcane. Gareth senses it but it may feel unfamiliar compared to the ley line.
-- **Fae territory boundary:** F4 → F6 → F8 → E9, continuing east. Everything east of this line is Fae. The Cusp (E7 NE edge) sits right on this boundary facing F8.
+- **Fae territory boundary:** F4 → F6 → F8 → E9, continuing east. Everything east of this line is Fae. The Malachite Formations (E7 NE edge) sit right on this boundary facing F8. They are energetically inert — spent spell debris. The ley line does NOT extend east past them.

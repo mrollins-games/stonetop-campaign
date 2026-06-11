@@ -229,19 +229,22 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 ---
 
-## POI 5: The Cusp
+## POI 5: The Malachite Formations (formerly "The Cusp")
 
 **Location:** NE edge of E7, where the managed woodland meets Fae territory (boundary with F8).
 
 **Description:**
-> The trees thin. The managed pattern of the coppice gives way to something wilder, older. And there — rising from the forest floor like frozen surf — jade-green crystalline formations. Waist-high, translucent, shaped like crashing waves caught mid-break. They run in a line as far as you can see in both directions, curving away into the trees. The boundary.
+> The trees thin. The managed pattern of the coppice gives way to something wilder, older. And there — rising from the forest floor — crystalline formations. Waist-high, banded in swirling layers of dark and light green, shaped like crashing waves caught mid-break. They run in a line as far as you can see in both directions, curving away into the trees. Always facing west. The boundary.
 
 **The Formations:**
-- Jade-green (or jade-like?) crystalline material. Translucent, faintly luminous at dusk.
-- Shaped like crashing waves — organic curves frozen in mid-crash, spray caught as solid arcs.
+- Malachite-green crystalline material. Banded, swirling. Cool to the touch.
+- Shaped like crashing waves — organic curves frozen in mid-crash, spray caught as solid arcs. Always facing west.
 - Run along the entire Fae boundary line (across multiple hexes on this border).
 - Ancient. Mossy at the base but the crystal itself doesn't weather.
-- **True origin (GM secret):** These are both the projection point AND the leftovers of the Fae binding spell that imprisoned the corrupted Forest Folk in trees. The spell was cast FROM here, radiating inward. The wave-shapes are the frozen moment of magical force being hurled into Fae territory. The PCs do not know this.
+- Inscriptions carved into the landward (west-facing) base of each formation. Fae script — fluid, curved, interconnected. East-facing side is smooth, unmarked.
+- **Energy behavior:** The formations hold no energy. Energy put there doesn't find a home. They interact with energy like a spent spell — remnants/debris of a massive magical working, long since discharged. The ley line does NOT extend east past this boundary.
+- **True origin (GM secret):** These are the remnants of the Fae binding spell that imprisoned the corrupted Forest Folk in trees. The spell was cast FROM here, radiating inward. The wave-shapes are the frozen moment of magical force being hurled into Fae territory. Now spent — no active projection, just crystallized debris.
+- **Inscriptions (GM secret):** Contain at minimum two concepts: "rules/conditions" and "breached." The text is nested — detail within detail, text within text. Likely terms of the original contract (never fell the trees) and acknowledgment that the contract has been broken.
 
 **Filberta's Connection:**
 - Dilwen left her in E7 on trapping trips. She played with the squirrels.
@@ -255,10 +258,10 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 
 | # | Discovery | Move/Trigger |
 |---|-----------|--------------|
-| 1 | The formations run in both directions — a continuous line. This is a BORDER, not a random feature. | Free (obvious) |
+| 1 | The formations run in both directions — a continuous line. This is a BORDER, not a random feature. Always facing west. | Free (obvious) |
 | 2 | The crystal doesn't weather. Moss grows at the base but slides off the surface. Ancient but pristine. | Free (touch it) |
-| 3 | Faint energy radiates inward (toward Fae territory). Not a ward keeping things out — it was projected IN. | Gareth Azure Hand (free) |
-| 4 | The material is the same substance as Fae binding marks found on imprisoned Forest Folk trees deeper in the wood. Same magical signature. | Gareth Seek Insight 10+ or Wolfram communes with Restless Oak |
+| 3 | The formations hold no energy. Energy directed at them doesn't stick — like a spent spell, debris of a massive working long since discharged. The ley line does not extend east past this point. | Gareth Azure Hand (free) |
+| 4 | Inscriptions on the west-facing base — Fae script containing concepts of "rules/conditions" and "breached." Text within text — nested detail. | Gareth (days of study) |
 | 5 | Filberta recognizes this place. "I've been here before. When I was little. Dad left me back there and I walked until I found these." | Filberta free (emotional beat) |
 
 **What the Restless Oak knows about The Cusp:**
@@ -279,7 +282,7 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 | Root network | Reservoir | Radiates outward from nexus centre | Moderate | Fed by ley line | Undiscovered |
 | Sunstone | Source | Pulses outward, static | Gentle, warm | Helior/Danu convergence (self-sustaining) | Undiscovered |
 | Restless Oak spirit warmth | Source | Faint radiance, localised | Faint | Uncorrupted spirit's connection to root network | Undiscovered |
-| The Cusp (binding residue) | Source | Radiates inward toward Fae territory (F8) | Moderate, ancient | Residual energy from the Fae binding spell — projection point | Undiscovered |
+| The Malachite Formations (binding residue) | Spent | None — inert, no energy flow | None (spent) | Remnants of the Fae binding spell — no active energy, does not interact with ley line | Undiscovered |
 
 ---
 

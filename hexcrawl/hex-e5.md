@@ -73,16 +73,19 @@ Even with the drowned girl guiding, crossing requires nerve:
 **Without the spirit:** Add disadvantage to all crossing rolls. The ford becomes genuinely lethal.
 
 **The Spirit — Her Story:**
-A young woman from Stonetop, generations ago. She was swimming across to meet a lover on this side — someone she wasn't supposed to see. The current took her mid-crossing. She drowned within sight of both banks.
+A young woman from Stonetop, generations ago. She was called by Danu — felt the pull toward the far bank, toward E5, toward the trees that part to embrace. She couldn't make it. She called for help but the river filled her lungs. A painful death.
 
-Her spirit lingers at the ford. She doesn't want anyone else to drown here. She guides crossings subtly — a current that nudges you toward shallower footing, a stone that's inexplicably stable when your foot finds it, the sensation of a hand pressing your back when you stumble.
+Her spirit lingers at the ford. She redirects everyone back to the near shore — considers the other side folly, guides them to the greatest safety, back with kin. She doesn't distinguish between strong and weak swimmers. She turns EVERYONE back. Townsfolk don't cross here; they think the ford is impassable. It isn't. She just won't let them drown.
 
-**No one knows she's there.** The crossing has always been "surprisingly safe" — townsfolk chalk it up to good luck or knowing the ford well. Wolfram would sense her immediately.
+**No one in Stonetop knows she exists.** They just think the crossing is impossible.
+
+**Wolfram's Pact:**
+Wolfram spoke to her directly: "Danu calls me from the other side, her trees part there to embrace us." She responded — perhaps she was called by Danu too, but couldn't make it. Wolfram promised: "Let me finish then what you hoped to start, let me plant there in your name and call it complete." She let him cross. Together, redemption. She's helped him every crossing since.
 
 **Communication:**
-- She doesn't speak. She acts.
-- If Wolfram addresses her directly: she manifests as a pale shape beneath the water's surface, looking up. Young face, dark hair flowing with the current. She mouths words but no sound comes. Sad. Protective.
-- She knows nothing useful — she's been here so long she barely remembers her own name. She just knows: don't let them drown.
+- She doesn't speak much. She acts.
+- If addressed directly: she manifests as a pale shape beneath the water's surface, looking up. Young face, dark hair flowing with the current. She mouths words but nothing comes. Sad. Protective.
+- Her focus is singular: don't let them drown. Guide them to safety.
 
 **Discoveries:**
 
