@@ -67,6 +67,21 @@ A summary of the demand: the purification cistern at C9 once maintained by the F
 
 ---
 
+## The Adornments
+
+Wokn's proxies offer these as gifts to decorate the town — beautiful, welcome, subtly binding.
+
+### Carved Lintel-Stones
+Smooth malachite-green stones etched with "protective" knotwork, offered for above doorframes. The symbols are actually Fae script. Every resident who passes beneath reads them unconsciously — each passage deepens the knowing without anyone realizing they're learning something.
+
+### A Gilded Weather-Vane
+For the granary roof. Elegant metalwork — a running hare in profile. Always points east regardless of wind direction. People stop noticing after a week. Those who DO notice feel a pull to look where it points.
+
+### Tallow Candles That Smell of the Forest
+A generous gift — dozens of candles, offered freely. When lit, they smell of deep wood: moss, hazel, loam. The shadows they cast don't quite match the objects they belong to. Shadows lean east. Shadows reach toward doorways. Seeds the shadow-breaking grim portent — the candles are practice, teaching shadows to move independently.
+
+---
+
 ## Portent Triggers (Escalation)
 
 Things that advance Wokn's demand toward consequence:
