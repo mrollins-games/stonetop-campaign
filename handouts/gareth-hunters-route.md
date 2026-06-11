@@ -70,7 +70,7 @@ You touched it with both hands.
 
 > A vision. Clear as glass.
 >
-> A woman — beautiful, ageless, calm — sweeping the stairs of a large stone grave. Wide steps leading up to a sealed entrance. She sweeps methodically. Dust and dead leaves gather at her broom's edge. The broom itself is pale wood — almost white — and catches the light wrong. Too bright for its surroundings. The grain moves like water when you look at it directly.
+> A woman — impossibly beautiful, ageless, calm — sweeping the stairs of a large stone grave. Wide steps leading up to a sealed entrance. She sings a tune while she sweeps. Dust and dead leaves gather at her broom's edge. The broom itself is pale wood — almost white — and catches the light wrong. Too bright for its surroundings. The grain moves like water when you look at it directly.
 >
 > She finishes. Leans the broom against a nearby tree — carefully, upright, balanced. Pats the trunk once as if thanking it for holding her things. Then she turns and walks away. Unhurried. Into the forest. Gone.
 
@@ -116,15 +116,15 @@ You turned toward it.
 
 ## The Malachite Formations (E7, NE Edge)
 
-You saw the colour first. Deep green — not leaf-green, not moss-green. *Malachite green.* Banded, swirling, rich as velvet. Catching what little light filtered through the canopy and holding it, refracting it in ways stone shouldn't.
+At first all you can make out is the color Deep green — Banded, swirling. Catching what little light filtered through the canopy.
 
 Then the shapes resolved.
 
 > Crystalline formations rising from the forest floor. Waist-high, translucent, shaped like waves caught mid-break — spray frozen as solid arcs, the leading edge razor-thin while the body curves thick and dense. They run in a line as far as you can see, curving away into the trees in both directions. Always facing west.
 
-You approached. The Hand was screaming — not painful, but LOUD. The energy here was unlike anything in the ley line. The ley line is warm, earthy, flowing. This was residual, crystalline. 
+You approached. The energy here was unlike anything in the ley line. The ley line is warm, earthy, flowing. This was residual, crystalline. 
 
-You touched one. The surface was cool. Impossibly smooth — smoother than polished glass. The banding isn't painted on; it goes ALL the way through. You can see into the interior — swirling layers of dark and light green, like looking into deep water. Faint luminescence deep within. Not reflecting light. Generating it.
+You touched one. The surface was cool.
 
 And the markings.
 
@@ -132,13 +132,13 @@ And the markings.
 
 ### The Inscriptions
 
-Carved into the base of each formation — below the wave-crest, on the landward face. Symbols. Not worn. Not weathered. As crisp as the day they were cut, though the stone itself reads as ancient beyond measure.
+Carved into the base of each formation — below the wave-crest, on the landward face. Symbols.
 
 The script is unfamiliar. Not Maker glyphs (you know those). Not the Forest Folk markings you found at D8 (you've cross-referenced). Something else entirely. The characters are fluid — curved, interconnected, flowing into each other like a single continuous line that happens to form distinct shapes at regular intervals.
 
 You copied every symbol you could find. Filled three pages of your notebook. The formations stretch in both directions — a long curved line running roughly north-south — and EVERY formation has inscriptions on its landward face. The far side (east-facing) is smooth. Unmarked. The markings are for people approaching FROM the west. From HERE.
 
-This is a message for you. For anyone standing where you're standing.
+
 
 ---
 
@@ -150,11 +150,9 @@ Three days you spent at the Malachite formations. Maybe four — you lost count.
 
 What you determined:
 
-- **The formations are a BOUNDARY.** The energy signature changes categorically on the eastern side. The ley line continues underneath (you can feel it, faintly) but the surface energy is completely different. Whatever is east of this line is a different domain.
+- **The formations are a BOUNDARY.** The energy signature changes categorically on the eastern side. The ley line doesnt go that way. Whatever is east of this line is a different domain.
 - **The inscriptions are a SINGLE text.** Not repeated warnings on each formation — one continuous message, reading north to south (or south to north — you haven't cracked directionality). Each formation carries one "sentence" or clause. Together they form something — a proclamation? A treaty? A set of rules?
-- **The malachite is not natural stone.** It doesn't match any geological formation. The crystalline structure is too regular. The luminescence has no identifiable chemical source. The wave shape is too consistent across dozens of formations. This was MADE. Grown, perhaps. Cultivated like the coppice behind you — but with mineral instead of wood.
-- **The energy is a PROJECTION.** The formations aren't just markers — they're emitting. A field extends from them, east to west, fading over perhaps fifty feet. Within that field, your readings go strange — dampened, flattened. As if something is pressing ambient magical signatures down. Suppressing manifestation.
-- **You WANT to cross.** Every instinct says: go east. The Hand pulls toward whatever is generating that crystalline signature. The curiosity is physical. Visceral. You stood at the boundary and your feet moved forward without your permission. You stopped yourself. Barely.
+- **The malachite is not natural stone.** It doesn't match any geological formation. The crystalline structure is too regular.  The wave shape is too consistent across dozens of formations. This interacts with energy in a wierd way, like a spent spell. It holds no energy and emergy put there doesnt find a home. Reminants of a giant spell perhapse - like the debri of a spent spell.
 
 You did not cross. Not because of cowardice. Because the inscriptions are there FOR A REASON. Someone carved rules — or warnings — into the western face of a boundary wall. You are a scholar. You translate FIRST. Then you act.
 
@@ -164,23 +162,16 @@ You did not cross. Not because of cowardice. Because the inscriptions are there 
 
 You went home after four (five?) days. Filthy, sunburnt, half-starved, vibrating with excitement. You've been working on the translation since. The script resists your usual methods — it's not in your books, not in Ted's Chronicle (you checked, casually, without explaining why). It shares some structural features with Fay linguistic patterns you've read about but never encountered directly.
 
-You believe the inscriptions are Fae. You believe they contain rules of passage — conditions for crossing, consequences for violation, or terms of an agreement. You haven't cracked them yet. But you will.
+You believe the inscriptions are Fae. You believe they contain two concepts but the conjugation is unclear
+- The concept of rules or conditions
+- The concept of breeched
+But the endless curvin lines contain much more detail within those larger conecpts - perhapse text within text
 
-The expedition is your chance to go back. With more supplies. With time. And maybe — if you can translate enough to know the RULES — to cross.
 
 **What you know:**
-- The ley line path: Stonetop → D4 → (crosses river at E5) → runs through E5 glade → continues NE into E7 coppice → continues further NE (source unknown, beyond the Malachite boundary)
-- The coppice is artificial — planted, root-grafted, ley-line-powered. Builder unknown. Ancient.
-- The Malachite formations are a Fae boundary. The inscriptions are rules or terms. You haven't translated them yet.
-- The standing stone in D6 gave you a vision of a Fay-wood broom. It's connected to your Key research — another piece of the puzzle. You'll go back for it.
-- The ley line is weakening. The system it feeds is slowly failing. Whatever maintained it is gone.
+- The Malachite formations are a Fae boundary, streching as far as you've tested.
+- The standing stone in D6 gave you a vision of a Fay-wood broom. Its near a giant stone tomb. It was used by an impossibly beautiful woman. 
 
 ---
 
-## Placeholders
 
-> *[PLACEHOLDER — Has Gareth told anyone about the Malachite formations? Has he mentioned the ley line to Wolfram (blood oath partner)? To Ted? Or is all of this private notebook material?]*
-
-> *[PLACEHOLDER — How much progress has he made on the translation? Has he cracked any symbols? Or is he still at "structural analysis" phase?]*
-
-> *[PLACEHOLDER — The standing stone in D6 — does this need its own hex file? Is this a known POI or did Gareth discover something new?]*
