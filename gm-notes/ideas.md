@@ -13,6 +13,46 @@
 
 ---
 
+### 2. Fae Gossipers
+**Context:** `Expedition`, `NPC Interaction`, `Fae`  
+**Idea:** Encounter Fae creatures who trade in gossip — they'll answer a question truthfully if you give them a secret about someone else. Secrets given away become *known* in the Fae realm and may have consequences.  
+**Related:** `reference/fae-law.md`, `hexcrawl/fae-travel.md`  
+**Used:** ☐
+
+---
+
+### 3. Fae Dream Encounter
+**Context:** `Expedition`, `Fae`, `Mystery`  
+**Idea:** A Fae entity that interacts through dreams. PCs camping in the Fae wilds might share a collective dream-space where a Fae makes offers, asks riddles, or tests them. What happens in the dream has real consequences.  
+**Related:** `reference/fae-law.md`  
+**Used:** ☐
+
+---
+
+### 4. Changeling Wants to Come Home With You
+**Context:** `Expedition`, `Fae`, `Drama`  
+**Idea:** A Changeling (human-seeming Fae, or Fae-raised human) desperately wants to leave with the PCs and return to the mortal world. Do they help? What obligations does it create? Does it violate any Fae law?  
+**Related:** `reference/fae-law.md` (Law 4: Don't take what isn't given)  
+**Used:** ☐
+
+---
+
+### 5. Resume the Hollow Court (David/Ted Spotlight)
+**Context:** `Expedition`, `Fae`, `Drama`, `Politics`  
+**Idea:** A Fae figure wants to reconvene the Hollow Court — an ancient Fae adjudication body. They seek Ted specifically because he is a Judge. This creates a David spotlight episode: Ted must decide whether mortal law applies in Fae disputes, and whether accepting the role creates obligations.  
+**Related:** `reference/fae-law.md`, `npcs/stonetop-residents/ted.md`  
+**Used:** ☐
+
+---
+
+### 6. The Armistice Question
+**Context:** `Expedition`, `Fae`, `Worldbuilding`  
+**Idea:** Seed the question: was there once an armistice between Fae and mortals? Who broke it? What were the terms? Different Fae give contradicting accounts. This can become a long-term mystery thread.  
+**Related:** `reference/fae-law.md`, `hexcrawl/fae-travel.md`  
+**Used:** ☐
+
+---
+
 ### [Template for new ideas]
 **Context:** `[tags]`  
 **Idea:** [description]  
@@ -47,3 +87,4 @@ Use these so Copilot knows when to surface an idea:
 - `Atmosphere` — Mood, description, tone
 - `Worldbuilding` — Establishing setting details
 - `Drama` — Character conflict, relationships
+- `Fae` — The Fae realm, its inhabitants, and their laws

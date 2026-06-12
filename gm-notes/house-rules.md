@@ -14,6 +14,21 @@
 
 ---
 
+### 2. Extra Judge (Absent Player XP)
+**Rule:** When David (Ted, the Judge) misses a session, he picks one of the following conditions. He gets 6 circles to mark; each time the condition is met in the next session he attends, mark a circle. When all 6 are filled, mark XP.  
+**Conditions (pick 1):**
+- Cite a law exactly as written
+- Get someone to say the word "Judge"
+- Make the Intervene move when someone breaks a law
+- Hold court with 2+ people present
+
+**Reason:** Keeps Ted engaged with his playbook identity even when David can't attend. Reward is modest (6 triggers → 1 XP) so it doesn't snowball.  
+**Replaces/Modifies:** No RAW equivalent — custom addition.  
+**Added:** 2026-06-12  
+**Session Introduced:** TBD
+
+---
+
 ### [Template]
 **Rule:** —  
 **Reason:** —  
