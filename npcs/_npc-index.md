@@ -73,6 +73,14 @@
 
 ---
 
+## Fae Entities
+
+| Name | Pronouns | Nature | Traits | Sessions | Notes |
+|------|----------|--------|--------|----------|-------|
+| [Liksa](fae/liksa.md) | she/her | Snake-bodied textile sovereign | Vain, industrious, self-conscious | — | Domain of frantic textile production; hides serpentine true form beneath dark stone patio |
+
+---
+
 ## NPC Trait Reference
 > Assign as needed; choose from this list or make up your own.
 
