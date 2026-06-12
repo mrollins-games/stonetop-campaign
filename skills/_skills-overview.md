@@ -17,6 +17,7 @@ In conversation with Copilot, use the skill name as a command:
 - `/season-change` — Walk through the Seasons Change procedure
 - `/expedition-prep` — Help plan an expedition
 - `/populate-hex` — Develop a hex with terrain, POIs, passives, and active interactions
+- `/generate-fae` — Create a new Fae creature from the procedural generation tables
 
 ## How Copilot Should Use Skills
 When the user asks a question or requests help:

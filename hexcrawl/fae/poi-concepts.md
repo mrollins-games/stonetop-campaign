@@ -1,0 +1,36 @@
+# Fae Territory — POI Concepts
+
+Working list of points of interest for Fae territory hexes (F4, F6, F8, E9, etc.). Not yet placed.
+
+## Territory Rules
+
+Every hex a party enters in Fae territory is **randomly selected** from this list — even if they've visited that hex before. The landscape shifts; nothing stays where you left it. Some hexes require a minimum depth (number of hexes traveled into Fae territory) before they can appear.
+
+**Finding your way back:** Every POI has a way PCs can learn to summon it — a condition, a ritual, a relationship, or a piece of knowledge that lets them choose to encounter it again instead of rolling randomly.
+
+**Fixed locations:** The Golden Oak and the Red Groves are the only POIs fixed to a specific hex. Everything else drifts.
+
+---
+
+| # | Name | Theme | Depth | Description |
+|---|------|-------|-------|-------------|
+| 15 | The Race Track | Whimsy | — | A Fae athletic ground. Challenges always being offered. Win and earn a boon; lose and owe a favor. The races are never fair — the course changes mid-run, the finish line moves, gravity reverses on the final stretch. |
+| 14 | The Nesting Tower | Whimsy | — | A tree grown impossibly tall and thin, spiraling upward. Home to a Fae birdkeeper who breeds messenger-birds that carry thoughts instead of letters. Might trade one for something interesting. |
+| 13 | The Wandering Market (Local Branch) | Whimsy | — | Appears irregularly. Three or four Fae merchants selling impossible things: bottled starlight, a compass that points to what you need most, shoes that never wear out but slowly change your gait to a dance. Payment is never silver. |
+| 11 | The Hollow Court | Remnants of the War | — | An ancient Fae meeting-place, now abandoned. Throne-like roots, a natural amphitheater. Something important was decided here once. Echoes of old arguments still ripple — voices in the wind, two sides of a debate no one remembers. |
+| 9 | The Singing Stones | Beauty / Danger | — | A circle of standing stones that hum in harmony. Beautiful. Calming. Anyone who sits among them too long finds their anger has been taken — literally removed. Useful? Or theft? |
+| 8 | The Mirror Glade | Beauty / Danger | — | A clearing where the canopy reflects perfectly in still water below, making it impossible to tell up from down. Disorienting. Fae find it hilarious. Fall "up" into the canopy-reflection and you're in a different place entirely. |
+| 7 | The Weeping Garden | Beauty / Danger | — | Impossibly beautiful flowers, each grown from a mortal emotion a Fae collected. Smelling one gives you that feeling — overwhelming joy, crushing grief, perfect contentment. Addictive. Some flowers are caged in iron lattice (the dangerous ones). |
+| 6 | The Path That Walks | Time / Space | — | A trail that moves. It was here yesterday; today it's three hundred yards east. Follow it and you arrive somewhere different each time. It remembers who walked it last and adjusts. |
+| 5 | The Long Minute | Time / Space | — | A clearing where time stretches. Feels like hours inside; minutes pass outside. Fae use it for crafting, thinking, grieving. A PC who enters might emerge with a beard — or realize they were only gone a heartbeat. |
+| 4 | The Grove of Seasons | Time / Space | — | Four trees in a circle, each permanently in a different season — one in full bloom, one heavy with fruit, one bare, one frosted. Step between them and time skips. Useful, dangerous, unpredictable. |
+| 3 | The Courier's Rest | Knowing / Wokn | — | A waystone where Fae couriers pause. Messages pinned to it in leaf-script. Some are addressed to people who don't exist yet. One might be addressed to a PC. |
+| 2 | The Library of Spent Favors | Knowing / Wokn | — | Shelves carved into living trees, holding leaves that record every deal ever made between Fae and mortal in this region. Readable — if you can parse Fae script. Reading one means you *know* it, which means... |
+| 1 | The Remembering Pool | Knowing / Wokn | — | A still, dark pool. Look into it and you see a memory you forgot you had. The memory is always true. The cost: the pool now knows it too, and Wokn's court can access it. |
+| 16 | Entrance to a Fae Path | Passage | — | A threshold — an arch of twisted branches, a gap between two stones, a door-shaped shadow — that opens onto a Fae path. The path runs between places without crossing the land in between. Where it leads depends on who's walking and what they carry. |
+| 17 | The Green Lord's Tomb | Remnants of the War | — | A burial mound overgrown with moss and flowering vines. Inside, the remains of a Green Lord — one of the old makers, killed or bound during the war. The air is heavy. The ground remembers power. Something still stirs if you linger too long or speak a name. |
+| 18 | The Performer's Rest | Whimsy | — | A cozy Fae inn tucked into a hollow hill. Warm light, soft beds, excellent food. Payment is your best performance — a song, a feat of strength, a cooked meal, a dance, a story. The hosts judge sincerity, not skill. Half-hearted efforts earn a cold room and strange dreams. |
+| 19 | The Would-Be Merchant | Quest / Whimsy | — | A lone Fae desperate to convene the Wandering Market. They need three things they cannot get alone: a gift (something given freely, no trick), a glamour (an illusion or disguise worth selling), and a prize (something won in contest). Helping them means the Market appears — and you're owed a favor by a merchant. |
+| 20 | The Hindsight Ring | Time / Space | — | A ring of mushrooms that, when sat within, lets you astral project into the past — observe but not interact. The mushrooms can be carefully transplanted elsewhere; they take a season from planting to become active. Powerful tool for learning history, solving mysteries, or confirming suspicions. |
+| 21 | The Homestead | Encounter / Hub | — | A cozy homestead with a welcome sign, smoke curling from the chimney, and three other POI arranged in the yard. A motherly Fae tends the place. If a PC hasn't tried at least one oddity she encourages them warmly — "Oh now, you really should. Try at least one, I always say." If they do, she makes a bed for them. If they refuse, she scolds. If one partakes in all three, they think they could find this place again… when they want to. (The hex can be summoned at the edge of an adjacent hex instead of appearing randomly.) |
+| 22 | The Snowdrift Cave | Mystery | — | A cave entrance half-buried beneath a permanent snowdrift — out of place, out of season. The air around it is winter-cold regardless of the weather. Inside is dark and still. What lies deeper is unknown. |
