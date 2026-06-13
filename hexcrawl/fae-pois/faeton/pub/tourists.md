@@ -29,10 +29,12 @@ Four tall men seated together at a table, unhurried and faintly amused by everyt
 - Happy to share drinks (their round is already paid — they performed a four-part harmony earlier, apparently stunning)
 - Will ask PCs questions about the mortal world with genuine curiosity
 - Offer nothing freely and ask for nothing — they're just *here*
-- If pressed on where they're from: "Further in. Much further."
+- If pressed on where they're from: "Ard Dún. Further in. Much further."
+- They are not from this forest — they travelled through other territory to reach Faeton
 
 ## GM Notes
 - Low-stakes social encounter — no threat, no deal, no hook (yet)
 - Establishes that Faeton gets visitors from deeper in the Fae realm
+- Implies **Ard Dún** exists as a distant Ard Sidhe homeland — a fortress/seat of power with many more of their kind
 - The Ard Sidhe as a type: tall, sharp-featured, ancient, observant — use this as a template for high Fae encountered elsewhere
 - Could become quest-givers or information sources in later sessions if PCs build rapport
