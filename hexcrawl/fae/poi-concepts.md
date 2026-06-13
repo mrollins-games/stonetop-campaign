@@ -1,10 +1,10 @@
 # Fae Territory — POI Concepts
 
-Working list of points of interest for Fae territory hexes (F4, F6, F8, E9, etc.). Not yet placed.
+Working list of points of interest for the Faedom (F4, F6, F8, E9, etc.). Not yet placed.
 
 ## Territory Rules
 
-Every hex a party enters in Fae territory is **randomly selected** from this list — even if they've visited that hex before. The landscape shifts; nothing stays where you left it. Some hexes require a minimum depth (number of hexes traveled into Fae territory) before they can appear.
+Every hex a party enters in the Faedom is **randomly selected** from this list — even if they've visited that hex before. The landscape shifts; nothing stays where you left it. Some hexes require a minimum depth (number of hexes traveled into the Faedom) before they can appear.
 
 **Finding your way back:** Every POI has a way PCs can learn to summon it — a condition, a ritual, a relationship, or a piece of knowledge that lets them choose to encounter it again instead of rolling randomly.
 

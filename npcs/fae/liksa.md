@@ -1,7 +1,7 @@
 # Liksa
 
 **Pronouns:** she/her  
-**Home:** Fae realm (has a domain accessible beneath her dark stone patio)  
+**Home:** The Faedom (has a domain accessible beneath her dark stone patio)  
 **Nature:** Fae — snake-bodied entity, textile sovereign  
 **Traits:** Vain, industrious, commanding, deeply self-conscious  
 **Desires:** To be seen as beautiful; to collect items that make her so; to never have her snake-form seen

@@ -7,7 +7,7 @@
 
 ## Overview
 
-A compact Fae town encountered at multiple depths along the travel route. Faeton serves as a waypoint — PCs pass through it entering the Fae realm and again on the way out.
+A compact Fae town encountered at multiple depths along the travel route. Faeton serves as a waypoint — PCs pass through it entering the Faedom and again on the way out.
 
 ## Buildings
 

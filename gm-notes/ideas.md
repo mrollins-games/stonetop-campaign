@@ -15,7 +15,7 @@
 
 ### 2. Fae Gossipers
 **Context:** `Expedition`, `NPC Interaction`, `Fae`  
-**Idea:** Encounter Fae creatures who trade in gossip — they'll answer a question truthfully if you give them a secret about someone else. Secrets given away become *known* in the Fae realm and may have consequences.  
+**Idea:** Encounter Fae creatures who trade in gossip — they'll answer a question truthfully if you give them a secret about someone else. Secrets given away become *known* in the Faedom and may have consequences.  
 **Related:** `reference/fae-law.md`, `hexcrawl/fae-travel.md`  
 **Used:** ☐
 
@@ -87,4 +87,4 @@ Use these so Copilot knows when to surface an idea:
 - `Atmosphere` — Mood, description, tone
 - `Worldbuilding` — Establishing setting details
 - `Drama` — Character conflict, relationships
-- `Fae` — The Fae realm, its inhabitants, and their laws
+- `Fae` — The Faedom, its inhabitants, and their laws

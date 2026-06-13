@@ -46,7 +46,7 @@ An insulted Fae might: demand satisfaction, storm off, offer forgiveness as a gi
 
 ## Territorial Laws — Custom (this campaign)
 
-Laws enforced within Fae territory, either by custom, by the Chieftains, or by the territory itself.
+Laws enforced within the Faedom, either by custom, by the Chieftains, or by the territory itself.
 
 ### The Law of Guests
 - **A traveler who accepts hospitality is a guest.** A guest may not be harmed by their host, nor may they harm their host. Lasts until they leave.

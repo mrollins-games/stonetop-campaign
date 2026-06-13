@@ -2,7 +2,7 @@
 
 ## The Journeyman's Trail
 
-- There is a journeyman's trail/road through the Fae realm
+- There is a journeyman's trail/road through the Faedom
 - **Stay on it** to avoid the more extreme manifestations
 - Two pairs of Standing Stones anchor the trail (four total) — they anchor the trail to a place, then reverse the place to the trail
 
@@ -21,11 +21,11 @@
 - They never attack, never confront — just giggle, pilfer, and stay barely out of reach
 - The missing stone is the reason PCs can't simply walk home; recovering or replacing it is the key to restoring the path
 
-> The Ellyllon are persistent, uncanny, and deeply annoying. They've made the Fae realm slightly harder to leave — not as a trap, but because they think it's funny.
+> The Ellyllon are persistent, uncanny, and deeply annoying. They've made the Faedom slightly harder to leave — not as a trap, but because they think it's funny.
 
 ## Depth System
 
-Traveling in the Fae realm takes you places — but **not always the same place**. POIs are randomized each time a PC enters a hex.
+Traveling in the Faedom takes you places — but **not always the same place**. POIs are randomized each time a PC enters a hex.
 
 ### Rules
 - Each POI can only appear at certain **depths**
