@@ -36,3 +36,4 @@ Traveling in the Fae realm takes you places — but **not always the same place*
 | Lord Wokn's Encampment | ? | Manifests where he becomes known |
 | Liksa's Textile Court | ? | Concentric textile production |
 | Hotsprings Rivera | 2–3 | Nereids, Before/After factions, aquifer conflict |
+| The Revel Clearing | ? | Time passes fast; a visit burns a season. **Unlock:** pass four seasons here → summonable at will |
