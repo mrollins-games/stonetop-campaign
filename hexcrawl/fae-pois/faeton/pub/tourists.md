@@ -61,6 +61,9 @@ They imagine themselves as a gift the Nereids don't know they're getting yet.
 3. **Explaining the Nereids:**  
    *"Water folk. Beautiful, curious — starved for stories, we're told. They've been tucked away in that grotto so long they'll absolutely yearn to soak us up."*
 
+4. **Blurted by another one (unnecessary, eager):**  
+   *"I can't wait to soak* them *up."*
+
 ## Interaction
 
 - Happy to share drinks (their round is already paid — they performed a four-part harmony, polished but routine)
