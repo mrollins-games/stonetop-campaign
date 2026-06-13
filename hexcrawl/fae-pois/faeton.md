@@ -13,7 +13,7 @@ A compact Fae town encountered at multiple depths along the travel route. Faeton
 
 | # | Name | Description | Notable NPCs |
 |---|------|-------------|--------------|
-| 1 | The Pub | Fae drinking house | [Leanna](../../npcs/fae/leanna.md) (Widow Leanna) |
+| 1 | The Pub | Fae drinking house. Payment is a performance — a song, a story, a feat of strength, a dance, a cooked meal. Sincerity is judged, not skill. Half-hearted efforts earn cold drinks and strange dreams. | [Leanna](../../npcs/fae/leanna.md) (Widow Leanna), The Barkeep |
 | | | | |
 | | | | |
 
