@@ -84,6 +84,7 @@ They imagine themselves as a gift the Nereids don't know they're getting yet.
 - Never offer anything of real value. Never make promises. Never stay.
 
 ## GM Notes
+- **Deeply punchable at the table.** That's the point.
 - Meant to be mildly irritating, not villainous — PCs should feel the dynamic without it being a quest
 - Good mirror for how PCs themselves might be perceived by Fae deeper in
 - If PCs challenge or embarrass them, they deflect gracefully — "No offense meant, friend" — and leave soon after
