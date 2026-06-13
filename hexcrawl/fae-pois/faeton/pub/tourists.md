@@ -36,6 +36,20 @@ They're slumming. Back in Ard Dún they're unremarkable — mid-status, unexcept
 
 They aren't cruel. They aren't predatory in any dramatic sense. They're just... extractive in a low-key, self-satisfied way. They consume the novelty of a place without contributing to it, and they'll leave without looking back.
 
+## Their Destination: Hotsprings Rivera
+
+They're on their way to the Nereids. This is the real reason for the trip.
+
+They've exoticised the Nereids completely — water spirits, hot springs, beautiful and curious about outsiders. They expect the "After" Nereids (who value stories and experience) will be *thrilled* to meet four well-travelled Ard Sidhe. They're counting on the novelty factor working in their favor.
+
+They are **eager to share this** — they'll bring it up unprompted:
+- "We're headed to the Rivera next. The hot springs. Have you been?"
+- "Water folk, we're told. Curious about travellers. Should be quite the experience."
+- "We plan to *soak up* their attention." (They love this pun. They use it often. They think it lands every time.)
+- "Oh, they're in for an experience too — trust us on that."
+
+They imagine themselves as a gift the Nereids don't know they're getting yet.
+
 ## Interaction
 
 - Happy to share drinks (their round is already paid — they performed a four-part harmony, polished but routine)
