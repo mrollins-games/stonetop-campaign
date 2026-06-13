@@ -19,18 +19,20 @@ Traveling in the Fae realm takes you places — but **not always the same place*
 
 | Depth One | Depth Two | Depth Three | Depth Four |
 |-----------|-----------|-------------|------------|
-| | | | |
-| | | | |
-| | | | |
+| Faeton (In) | Hotsprings Rivera | Faeton (In) | Faeton (Out) |
+| | | Hotsprings Rivera | |
 | | | | |
 | | | | |
 
-> TODO: Populate with POIs at their appropriate depths (e.g., Lord Wokn's Encampment, Liksa's Court, Hotsprings Rivera, etc.)
+> Navigation: Deeper = South, Back (shallower) = North, Sideways = East/West  
+> (In) = entering, (Out) = exiting/leaving  
+> TODO: Continue populating with remaining POIs
 
 ## Known Fae POIs
 
 | POI | Depth | Notes |
 |-----|-------|-------|
+| Faeton | 1 (In), 3 (In), 4 (Out) | Fae settlement/town |
 | Lord Wokn's Encampment | ? | Manifests where he becomes known |
 | Liksa's Textile Court | ? | Concentric textile production |
-| Hotsprings Rivera | ? | Nereids, three sub-locations |
+| Hotsprings Rivera | 2–3 | Nereids, Before/After factions, aquifer conflict |
