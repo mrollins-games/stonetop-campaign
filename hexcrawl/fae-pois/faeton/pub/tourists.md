@@ -42,6 +42,8 @@ They're on their way to the Nereids. This is the real reason for the trip.
 
 They've exoticised the Nereids completely — water spirits, hot springs, beautiful and curious about outsiders. They expect the "After" Nereids (who value stories and experience) will be *thrilled* to meet four well-travelled Ard Sidhe. They're counting on the novelty factor working in their favor.
 
+One of them has mentioned — casually, like it doesn't matter — that they're not entirely sure the water folk at the Rivera aren't actually Korrigans. Beautiful by dusk, something else by light. The others waved it off. Either way, they're "in for an experience."
+
 They are **eager to share this** — they'll bring it up unprompted:
 - "We're headed to the Rivera next. The hot springs. Have you been?"
 - "Water folk, we're told. Curious about travellers. Should be quite the experience."
