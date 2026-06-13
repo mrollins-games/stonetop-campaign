@@ -50,6 +50,17 @@ They are **eager to share this** — they'll bring it up unprompted:
 
 They imagine themselves as a gift the Nereids don't know they're getting yet.
 
+## Key Lines
+
+1. **Opening (inviting PCs to their table):**  
+   *"Come, join us! We are generous on the eve of our departure."*
+
+2. **Inviting PCs to travel with them:**  
+   *"Fall in with us! You absolutely must indulge in the springs."*
+
+3. **Explaining the Nereids:**  
+   *"Water folk. Beautiful, curious — starved for stories, we're told. They've been tucked away in that grotto so long they'll absolutely yearn to soak us up."*
+
 ## Interaction
 
 - Happy to share drinks (their round is already paid — they performed a four-part harmony, polished but routine)
