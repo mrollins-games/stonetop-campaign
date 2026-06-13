@@ -22,27 +22,23 @@ Home of the Nereids. Contains the **aquifer access mechanism**: a statue of a wo
 
 ## Inhabitants — The Nereids
 
-Two factions of Nereids exist here, split by a shared grievance but divided in temperament:
+A single community of Nereids, distinguished by when they came to the Rivera:
 
-### The "Before" Nereids (Originals)
-- **Origin:** Original inhabitants of the Grotto, have always been here
+### The "Before" (Original Inhabitants)
+- **Origin:** Have always lived in the Grotto
 - **Instinct:** Value purity and the undisturbed natural state
-- **Want:** The Priests of the Spring to stop diverting water from the aquifer
 
-### The "After" Nereids (Newcomers)
-- **Origin:** Found this place when their own river ran dry (driven here by the same water diversion)
+### The "After" (Taken In)
+- **Origin:** Found in despair in the dried river below — the river of the Rivera itself. Taken in by the Before when their waters failed.
 - **Instinct:** Value stories and experience — curious about mortals
-- **Want:** The Priests of the Spring to stop diverting water from the aquifer
 
-### Shared Conflict
-Both factions agree the **Priests of the Spring** are the enemy — they're diverting the aquifer water, threatening the hot springs and the Nereids' home. But the two groups disagree on *how* to deal with it:
-- The "Before" want isolation, protection, purity
-- The "After" are open to mortal help and alliance
+### Shared Grievance
+All the Nereids want the **Priests of the Spring** to stop diverting water from the aquifer. The After lost their river to this; the Before risk losing theirs next.
 
 ## GM Notes
 - Three distinct sub-POIs give players choices about where to explore
-- The Before/After split gives PCs factional politics to navigate even within a single POI
-- The "After" Nereids are the more likely quest-givers — they'll talk to mortals
+- The Before/After distinction gives the community texture — different temperaments, same home
+- The "After" Nereids are the more likely to engage with mortals — they value stories
 - The aquifer mechanism (statue + song) is a potential puzzle/leverage point
 - Priests of the Spring are an external threat tying this POI to the wider world
-- Each sub-location likely has its own flavor of encounter/interaction
+- The dried river below is what gives the "Rivera" its name
