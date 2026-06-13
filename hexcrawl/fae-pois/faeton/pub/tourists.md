@@ -64,6 +64,15 @@ They imagine themselves as a gift the Nereids don't know they're getting yet.
 4. **Blurted by another one (unnecessary, eager):**  
    *"I can't wait to soak* them *up."*
 
+5. **Bragging about past conquests (locker-room energy, unprompted):**  
+   They reference other water folk they claim to have "visited" on previous trips:
+   - *"Not as good as that Kelpie. Am I right? Am I right? She couldn't get enough of me."*
+   - *"Remember that Selkie? Kept her skin in my pack three days. Three days! She was* devoted.*"*
+   - *"There was a lake maiden once — what was it, three conditions? I met two. Almost had her for keeps."*
+   - *"I had a Merrow pull me into her cave. Willingly! Well — mostly willingly."*
+   - *"The Nixie on the Westwater — she sang for* me. *Just me. The rest of you stood there like stones."*
+   - *"Ever been with a Fuath? ...No? Good. Don't."* (the others laugh too hard at this)
+
 ## Interaction
 
 - Happy to share drinks (their round is already paid — they performed a four-part harmony, polished but routine)
