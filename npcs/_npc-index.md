@@ -79,6 +79,7 @@
 |------|----------|--------|--------|----------|-------|
 | [Liksa](fae/liksa.md) | she/her | Snake-bodied textile sovereign | Vain, industrious, self-conscious | — | Domain of frantic textile production; hides serpentine true form beneath dark stone patio |
 | [Blush-of-Dawn](../threats/blush-of-dawn.md) | they/them | Radiant Fae muse (magical entity) | Lonely, beautiful, parasitic | — | Leanan Sidhe pattern; pavilion frozen before dawn; adoration sustains them |
+| [Leanna](fae/leanna.md) | she/her | Leanan Sidhe posing as wealthy widow | Grave, magnetic, patient | — | Faeton Pub regular; "Widow Leanna"; gifts brilliance, drains life |
 
 ---
 
