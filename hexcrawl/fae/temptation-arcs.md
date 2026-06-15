@@ -142,49 +142,62 @@ The bark is warm. The roots don't hurt. It feels like falling asleep.
 
 ## Filberta — The Heroic Death
 
-**The Ending:** Filberta sacrifices herself to save her friends. She dies holding a trimming of the Golden Oak — and is reborn Fae. Immortal. A legend. Anchored to this forest forever. She can never go home.
+**The Ending:** Filberta sacrifices herself to save her friends. She dies wrapped in the Goldleaf Cloak — and is reborn Fae. Immortal. A legend. Anchored to this forest forever. She can never go home.
 
-**The Artifact:** A trimming of the Golden Oak — a small living branch, leaves shimmering gold-green, warm to the touch. The Golden Oak's roots already resurrect the dead (established lore). A trimming carries that power in miniature — but rebirth through it in the Faedom doesn't return you to mortal life. It returns you as part of the forest.
+**The Artifact:** A Giant Oak Leaf — about 6 feet long, waxy and rigid, shimmering with golden iridescence. A leaf from the Golden Oak itself. Can be turned into a Goldleaf Cloak (existing minor arcana from the book). The cloak's backside power: *"When you die and are buried in the earth, wrapped in your goldleaf cloak, you return to life as if you were buried at the roots of the Golden Oak."* But dying in the FAEDOM wearing it doesn't return you to mortal life — it returns you as part of the forest.
 
 ### Beat 1 — The Vision
 
 **When:** After Filberta does something brave (even small) in the Faedom. The forest NOTICES bravery.
 
-She sees herself — in battle. Overwhelmed. Her friends behind her, wounded. She makes the choice: holds the line. Takes the blow. Falls. In her hand: a golden branch, blazing.
+She sees herself — in battle. Overwhelmed. Her friends behind her, wounded. She makes the choice: holds the line. Takes the blow. Falls. She's wearing a shimmering golden cloak that blazes as she drops.
 
 Then: light. Green-gold light. She rises — different. Glowing. Fae. The wound closes with bark and flower. She's ALIVE but changed. Her friends flee to safety. She watches them go — and cannot follow. Her feet have grown roots into the clearing where she fell.
 
 She wakes. Feels fine. But the spot where she "died" in the vision — she can see it. A clearing, not far ahead. Flowers growing in a circle. It looked peaceful.
 
-**What it gives her:** The knowledge that the forest would KEEP her if she fell here. And a direction — she can feel where the trimming is. It's close. Growing somewhere in the Faedom, waiting for someone brave enough to claim it.
+**What it gives her:** The knowledge that the forest would KEEP her if she fell here. And a pull — something golden, somewhere in the Faedom, waiting for someone brave enough to claim it.
 
-### Beat 2 — The Trimming
+### Beat 2 — The Giant Oak Leaf
 
 **When:** Filberta faces real danger and performs genuine bravery. After the fight, in the quiet after.
 
 A voice — not a person, the FOREST — whispers: *"You were magnificent."*
 
-Flowers grow where her blood fell (or where she stood). And there, among them: a small golden branch, freshly fallen as if just cut. Leaves shimmering. Warm. It hums faintly when she touches it — like recognition.
+Flowers grow where her blood fell (or where she stood). And there, resting among them as if placed deliberately: a giant oak leaf. About 6 feet long. Waxy. Rigid. Shimmering with golden iridescence. It's unmistakable — a leaf from the Golden Oak.
 
-**The choice:** Does she take it? Does she keep it?
+**The choice:** Does she take it?
 
-**If she takes it:** It's hers. It feels right in her hand — like a weapon, like a promise. She knows what it does without being told: if she falls holding this, the forest catches her. The Golden Oak's gift: death undone. But HERE, not at home. Here, forever.
+**If she takes it:** It's hers. A new minor arcana. She knows — somehow, in the way Fae knowledge arrives — that it can become something more. A cloak. A mantle. A second skin.
 
-**If she leaves it:** It remains. Growing. It'll be there next time she passes. The forest is patient. It believes in her.
+**If she leaves it:** It remains. The forest is patient. It'll be there next time.
 
-### Beat 3 — The Clearing
+### Beat 3 — Making the Cloak
 
-**When:** A genuine crisis. The party is in danger. Someone will die or be lost if nothing changes. The clearing from the vision is RIGHT THERE — Filberta can see it. She's holding the trimming.
+**When:** Filberta pursues the requirements to turn the leaf into the Goldleaf Cloak.
 
-This isn't manufactured. This is real danger, real stakes, and the clearing happens to be where they are (or close enough). The choice is genuine: fight normally and maybe everyone lives, maybe someone doesn't. Or fight in the clearing with the Golden Oak's trimming in hand, and if she falls there — truly, selflessly — the forest keeps its promise.
+**Requirements** (per the arcana):
+1. Learn the secrets of its making — from a Fae, a spirit of the wild, or a favored servant of Danu. *(Blush-of-Dawn? Mivvi? The Arbiter tree? A deeper Fae?)*
+2. Tan the leaf with a mix of lime-water, crow guano, the brain of a cave bear, and her own blood.
+3. Have it fitted to her exact measurements by a tailor of exceptional skill. *(Does the Faedom have one? Is this a quest in itself?)*
 
-**If she falls in the clearing holding the trimming:** She dies. Actually dies. The party sees it happen. The trimming blazes gold — roots burst from it, from her, into the earth. Then: green-gold light. Bark. Flowers. She rises — Fae. Beautiful. Powerful. Rooted. The trimming has become part of her — golden leaves in her hair, bark-skin, eyes like sunlit canopy.
+Each requirement is a mini-adventure. The ingredients are grotesque (cave bear brain). The fitting requires trust — someone measuring her precisely, knowing her shape. The learning requires asking a Fae for help (and what do they want in return?).
+
+**What it gives her:** The Goldleaf Cloak. Immunity to life-drain effects. Immunity to emotional dampening. A constant golden glow (can't hide). And the backside power she doesn't fully understand yet: death while wearing it = rebirth.
+
+### Beat 4 — The Clearing
+
+**When:** A genuine crisis. The party is in danger. Someone will die or be lost if nothing changes. The clearing from the vision is RIGHT THERE — Filberta can see it. She's wearing the cloak.
+
+This isn't manufactured. This is real danger, real stakes, and the clearing happens to be where they are (or close enough). The choice is genuine: fight normally and maybe everyone lives, maybe someone doesn't. Or fight in the clearing wearing the Goldleaf Cloak, and if she falls there — truly, selflessly — the Golden Oak's promise activates.
+
+**If she falls in the clearing wearing the cloak:** She dies. Actually dies. The party sees it happen. The cloak blazes gold — roots burst from beneath her into the earth. Then: green-gold light. Bark. Flowers. She rises — Fae. Beautiful. Powerful. Rooted. The cloak has become part of her — golden leaves as skin, bark-armor, eyes like sunlit canopy.
 
 She looks at them with love. She cannot leave.
 
 > "Go. I'll be here. I'll always be here."
 
-**The Ending:** She is the thing she always wanted to be — the hero who saved everyone. But she's a statue in a forest now. A guardian spirit of the Golden Oak's lineage. Wolfram will visit. The others will try. But she can't come home for harvest. She can't grow old with them. She got glory but lost everything that made glory worth having.
+**The Ending:** She is the thing she always wanted to be — the hero who saved everyone. But she's a guardian spirit of the Golden Oak's lineage now. Wolfram will visit. The others will try. But she can't come home for harvest. She can't grow old with them. She got glory but lost everything that made glory worth having.
 
 ---
 
