@@ -185,6 +185,105 @@ If broken/refused:
 
 ---
 
+## Beat 5 — The Dawnfire Vine
+
+### When This Happens
+
+After Beat 4 is complete — Gareth has carried her rites, earned the broom, and established himself as someone she trusts. She summons HIM this time (first time she's initiated). She appears differently: wearing leaf-scale armor woven with dried vines, hair braided back. She looks like she's preparing for something.
+
+### The Confession
+
+She's nervous. For the first time, she isn't performing vulnerability — she IS vulnerable. She speaks carefully:
+
+> "There is something I have wanted to ask. Since you first saw me at the water."
+
+A pause. The glow flickers — unsteady.
+
+> "My master made me. When he died, I should have been undone. But someone's admiration — a stranger's — kept me here. Tethered me. I have existed since then on scraps. Passing glances. Brief fascinations."
+
+She looks at Gareth directly.
+
+> "I am still tethered to his tomb. The Dawnfire Vine grows inside — from his remains. It feeds on what he was. As long as it grows there, I am bound to him. To his grave. To tending what I was made for."
+
+She takes a breath she doesn't need.
+
+> "I could be your muse. I could be *with* you — not haunting a dead man's doorstep. If you can take the Dawnfire Vine from his tomb... my tie to him could be fully broken. And your adoration could sustain me."
+
+### What She's Really Asking
+
+This is a **proposal.** She's asking Gareth to:
+1. Enter the Green Lord's Tomb (interior — not just the entrance she sweeps)
+2. Take the Dawnfire Vine from the burial remains
+3. Give it to her (it becomes her crown — the orange flowers from her true portrait)
+4. Accept that his admiration will now SUSTAIN her — she becomes dependent on him
+
+**But first:** She needs to open the tomb for him. She's the only one who can — she's keyed to it. But she won't open it unless she believes he means it. She can't risk being abandoned mid-transformation. If he takes the vine and then withdraws his attention — she dies. Actually dies. Not dims. Not fades. **Ceases.**
+
+### The Reassurance
+
+Before she opens the tomb, she asks — not in words, but in behavior. She goes still. Dims almost completely. Looks at him in the dark — barely visible, nearly mortal, nearly nothing.
+
+This is the moment. She needs to hear — from HIM, unprompted, genuine — that he sees her. That he'll keep seeing her. Not forever (Fae don't think in forever). Just: *that he won't look away.*
+
+**What works:**
+- Any sincere statement of commitment to her as a person (not a tool, not a mystery to solve)
+- Acknowledging what she is (a made thing, dependent, frightened) without flinching from it
+- Offering something concrete: "I will speak your name. I will see you. I won't stop."
+
+**What doesn't work:**
+- Promises framed as transactions ("I'll sustain you if you help me")
+- Hollow reassurance ("yeah sure, it'll be fine")
+- Deflecting with humor or analysis (Seeker trap — Danny R. might intellectualize this moment)
+
+**If he reassures her:**
+She blazes — briefly, brightly — then dims back to steady warm glow. She nods. She places both hands on the tomb entrance and the roots/stone parts like a curtain. The interior is revealed. She steps aside and does not enter.
+
+> "Bring me my crown."
+
+**If he can't/won't reassure her:**
+She doesn't open the tomb. She looks at him for a long time. Then:
+
+> "Perhaps another day. When you know what you want to say."
+
+She leaves. Not angry. Not hurt (visibly). Just... waiting. This can be attempted again later. She's patient. She's been waiting centuries.
+
+### Inside the Tomb
+
+The interior:
+- **Heavy air.** Pressure on the chest. The Azure Hand tingles violently — old Maker power saturates everything.
+- **The remains.** Not a skeleton — a shape. Humanoid but made of compressed light, now dark. A silhouette of what was. Still beautiful in its ruin.
+- **The Dawnfire Vine.** Spirals up the interior walls from the base of the remains. Orange flowers glow like embers — dozens of them. The vine pulses gently, feeding. Warm to touch.
+- **Something stirs.** When Gareth reaches for the vine, the remains react. Not physically — psychically. A wave of INTENT: possessiveness, beauty, ownership. This was the Green Lord's nature — to own beautiful things. It reaches for Gareth's mind: *"Mine. She is mine. You are in MY house."*
+
+### The Test
+
+Gareth must resist the Green Lord's residual will while taking the vine. This is:
+- **Defy Danger (WIS or INT)** — resist the psychic possessiveness
+- On **10+:** He takes the vine cleanly. The remains go dark. The tomb is just a tomb.
+- On **7-9:** He takes the vine but something comes with it — a fragment of the Green Lord's possessiveness lodges in him. He'll feel protective of Blush-of-Dawn in ways that aren't entirely his own. (Foreshadows the Leanan Sidhe pattern — is his devotion his, or inherited from the thing that made her?)
+- On **6-:** The tomb reacts violently — the air crushes, the Azure Hand overloads (mark a corruption box), and the vine is taken but Gareth is changed. He sees Blush-of-Dawn the way the Green Lord did: as property. As HIS. This is extremely dangerous and must be worked through.
+
+### After — The Crown
+
+Gareth emerges with the Dawnfire Vine. Blush-of-Dawn is waiting — she hasn't moved.
+
+He gives her the vine. She weaves it into her hair — quickly, practiced, as if she always knew how. The orange flowers settle into a crown. They pulse in sync with her glow — one rhythm now. Her radiance SHIFTS: no longer rose-gold sunset. Now **dawn proper** — orange, warm, alive. The pre-dawn twilight that followed her becomes actual first-light.
+
+She is changed. She is free of the tomb. She is his muse now — sustained by his attention.
+
+> "Thank you. I can feel him letting go."
+
+She looks at the tomb entrance. It's sealed again — closed of its own accord. She doesn't look sad. She looks like someone putting down a very heavy thing they carried for too long.
+
+### Consequences (Long-Term)
+
+- **Blush-of-Dawn is now Gareth's muse.** She will appear when he works, when he studies, when he creates. She enhances his abilities (TBD mechanically — perhaps advantage on certain Know Things or arcana rolls when she's present).
+- **She requires attention.** Not constantly — but regularly. If Gareth ignores her for too long (multiple sessions), she dims. If she dims too much, she's in danger. He accepted responsibility for her existence.
+- **The Leanan Sidhe pattern is now ACTIVE.** She isn't predatory. But the pattern is real: she gives brilliance, he gives attention, and if the balance tips — if he gives too much — he wastes. This is the Fetch's warning made real.
+- **The Green Lord's tomb is now inert.** Whatever stirred there has lost its anchor. The tomb is safe to explore — but empty of power. The broom no longer smells of honeysuckle.
+
+---
+
 ## NPC — Blush-of-Dawn
 
 **Solitary, fae, magical, beautiful, passionate**  
@@ -211,6 +310,7 @@ Special qualities: Fae nature; radiant; aura of warmth and honeysuckle; pre-dawn
 | 2 (Lullaby) | Mourning, private, not for them | Her grief is genuine. Her devotion to the dead master is real. |
 | 3 (Conversation) | Curious, open, slightly alien | She genuinely doesn't understand mortal existence. It fascinates her. |
 | 4 (Rites) | Hopeful, trusting, at-risk | She's offering something real. If rejected here, the wound is deep. |
+| 5 (Dawnfire Vine) | Vulnerable, decisive, terrified | She's choosing to sever her oldest bond. She could die if this fails. |
 
 **Appearance:** (per reference art)
 - Luminous — skin radiates warm golden-rose light, brighter at her hair and horns
@@ -221,15 +321,18 @@ Special qualities: Fae nature; radiant; aura of warmth and honeysuckle; pre-dawn
 - Bare feet. Sits on branches, perches rather than stands
 - When dimmed (Beat 1): grey-ish, hair tangled and dull, dress muted, looks almost mortal
 - When blazing (after rites): impossible to look at directly. Dawn incarnate.
+- After the crown (Beat 5): orange Dawnfire Vine woven into hair, leaf-scale armor of green and gold, flowers pulse in sync with her heartbeat-glow. No longer twilight — actual dawn-light. Warmer, steadier, more present.
 
 ---
 
 ## Connections
 
 - **The Broom:** Gareth's Minor Arcana lead (Fay-wood Broom). Located at the Green Lord's Tomb, south side, leaning on an elm. Given freely after rites completed, or available as loot if rites refused/failed.
-- **The Green Lord's Tomb (POI #17):** Depth 3. Where the rites happen. Heavy with old power. Something stirs within.
+- **The Dawnfire Vine:** Orange-glowing vine flowers growing inside the Green Lord's Tomb, feeding on his remains. Removing it severs Blush-of-Dawn's bond to her dead master. Becomes her crown. Located deep inside — requires her to open the tomb.
+- **The Green Lord's Tomb (POI #17):** Depth 3. Where the rites happen (exterior) and where the vine grows (interior). Heavy with old power. Something stirs within — the Green Lord's residual possessiveness.
 - **Blush-of-Dawn's Domain (Pavilion):** Separate encounter — her full court of devotees. Comes later if relationship develops. See `threats/blush-of-dawn.md` for the threat escalation.
-- **The Leanan Sidhe Pattern:** She IS this pattern — gifts in exchange for devotion that consumes. But in THIS encounter chain she's at the START of the pattern. She's lonely, not predatory. The predation comes when she has enough admiration to sustain a court.
+- **The Leanan Sidhe Pattern:** She IS this pattern — gifts in exchange for devotion that consumes. Beat 5 activates it: she becomes Gareth's muse, sustained by his attention. The Fetch encounter foreshadows where this leads if the balance tips.
+- **The Fetch:** Gareth's Fetch (in `the-fetch.md`) shows what happens if he gives too much — knowledge without effort, stillness, emptiness. Beat 5's "muse" role is the first step on that road.
 
 ---
 
