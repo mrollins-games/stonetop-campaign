@@ -5,7 +5,7 @@
 > **Tone:** Melancholy → intimate → dangerous (escalates gently across beats)  
 > **Primary PC:** Gareth (Danny R.'s Seeker) — but affects the whole party  
 > **Trigger:** Gareth's vision of her sweeping the tomb.  
-> **Structure:** Three appearances, spaced across sessions or travel beats.
+> **Structure:** Four beats, spaced across sessions or travel beats.
 
 ---
 
@@ -99,6 +99,16 @@ She doesn't offer conversation. If they try:
 
 The song fades after 10 minutes. She was never visible. But the camp feels warmer that night. Dreams are kinder. No mechanical benefit — just atmosphere.
 
+### The Gift
+
+Whether found in the branches or not — when the PCs break camp next morning, the broom is there. Leaning against the nearest tree, handle warm, smelling faintly of honeysuckle. It wasn't there last night.
+
+No note. No ceremony. She left it because she heard him listen. That was enough.
+
+> *(If they found her in the branches: she left it where she sat. If they never sought her: it's at the camp's edge, as if it walked there on its own.)*
+
+**What this gives Gareth:** The Fay-wood Broom — his minor arcana. It's a gift, freely given, because he witnessed her grief without intruding on it. No debt. No rite. Just... she wants him to have it.
+
 ---
 
 ## Beat 3 — The Conversation
@@ -135,61 +145,16 @@ She means this literally — say her name with intent and she will come. This is
 ### What This Gives Gareth
 
 - **A way to summon her.** Speaking "Blush-of-Dawn" with intention anywhere in the Faedom = she appears (within minutes, not instantly).
-- **Context for the broom.** She tends the tomb with it. It's Fae-wood. It belonged to her master. She's been using it because it's all she has of him.
-- **A hook forward.** She wants someone to carry her rites. That's the next beat.
+- **Context for the broom.** She tended the tomb with it. It was her master's. She gave it freely after the lullaby because Gareth listened without demanding.
+- **A hook forward.** She wants someone to sever her bond to the dead. That's the next beat.
 
 ---
 
-## Beat 4 — "Carry My Rites"
+## Beat 4 — The Dawnfire Vine
 
 ### When This Happens
 
-After Gareth has summoned her at least once (proving the name works). She appears and makes a request:
-
-> "You have called me. You have seen me. Will you carry my rites?"
-
-### What She's Asking
-
-She wants him to perform the **ritual she does at the tomb** — the sweeping, the water, the recitation. Not because she can't. Because having someone ELSE do it means she's not alone in her devotion. Shared ritual is witnessed ritual. Witnessed devotion is real devotion.
-
-But: the ritual requires going to the Green Lord's Tomb (Depth 3). And performing it there means **being in her master's presence** — whatever remains of him in that heavy air.
-
-### The Rite (TBD — The Test)
-
-The ritual itself should put Gareth to a test. Options:
-
-**A. Devotion vs. Self-Interest**
-The rite requires sweeping the tomb entrance with the broom (HIS artifact lead). But completing the rite means leaving the broom there — returning it to its place. Does he take the thing he came for, or does he honor the dead and the woman who tends them? (Resolution: she gives it freely AFTER the rite if he doesn't grab it. Taking it during = she's hurt.)
-
-**B. Witnessing Something Terrible**
-The rite includes a recitation — speaking the Green Lord's name aloud at the tomb. This wakes something. Not hostile — but overwhelming. A flash of what the Green Lord WAS: the power, the beauty, the tyranny. Gareth must endure it without flinching. The test is standing in the presence of something ancient and not running.
-
-**C. Choosing Her Over Knowledge**
-During the rite, the tomb offers Gareth something — knowledge, power, a vision of arcane secrets (Seeker bait). But the rite requires focus. He must choose: complete the ritual for HER, or break it to take what the tomb offers HIM. (He can always come back for the knowledge. But she'll know if he chose himself over the rite.)
-
-**D. Public Devotion**
-The rite requires doing something visibly admiring — singing back to her, describing what he sees, or performing gratitude — in front of the party. Not privately. The test is: will he be genuine in front of witnesses? Admiration given in private is easy. Admiration given publicly, when others might judge, is real.
-
-### After the Rite
-
-If completed:
-- She blazes. Full radiance. The glow fills the clearing like actual sunrise.
-- She gives the broom freely: "It was his. Now it tends to you. As I tended to him."
-- She is now available as an ongoing NPC — can be summoned, will help, will ask for small devotions in return (nothing parasitic yet — just attention, acknowledgment, being seen)
-- The tomb is now accessible as a POI for future exploration
-
-If broken/refused:
-- She dims. Badly. The warmth goes cold.
-- The broom is still obtainable — but it's just... there. Leaning on the tree. No ceremony. No gift. Just loot.
-- She doesn't appear when called for a long time. Can be repaired but requires significant effort.
-
----
-
-## Beat 5 — The Dawnfire Vine
-
-### When This Happens
-
-After Beat 4 is complete — Gareth has carried her rites, earned the broom, and established himself as someone she trusts. She summons HIM this time (first time she's initiated). She appears differently: wearing leaf-scale armor woven with dried vines, hair braided back. She looks like she's preparing for something.
+After Beat 3 is complete — Gareth has learned her name, summoned her at least once, and established himself as someone she trusts. She summons HIM this time (first time she's initiated). She appears differently: wearing leaf-scale armor woven with dried vines, hair braided back. She looks like she's preparing for something.
 
 ### The Confession
 
@@ -307,10 +272,9 @@ Special qualities: Fae nature; radiant; aura of warmth and honeysuckle; pre-dawn
 | Beat | How She Presents | What's Real |
 |------|-----------------|-------------|
 | 1 (Stream) | Unguarded → then performing | She has a private self. No one has seen it before. |
-| 2 (Lullaby) | Mourning, private, not for them | Her grief is genuine. Her devotion to the dead master is real. |
+| 2 (Lullaby) | Mourning, private, not for them | Her grief is genuine. Her devotion to the dead master is real. She gives the broom without being asked. |
 | 3 (Conversation) | Curious, open, slightly alien | She genuinely doesn't understand mortal existence. It fascinates her. |
-| 4 (Rites) | Hopeful, trusting, at-risk | She's offering something real. If rejected here, the wound is deep. |
-| 5 (Dawnfire Vine) | Vulnerable, decisive, terrified | She's choosing to sever her oldest bond. She could die if this fails. |
+| 4 (Dawnfire Vine) | Vulnerable, decisive, terrified | She's choosing to sever her oldest bond. She could die if this fails. |
 
 **Appearance:** (per reference art)
 - Luminous — skin radiates warm golden-rose light, brighter at her hair and horns
@@ -327,12 +291,12 @@ Special qualities: Fae nature; radiant; aura of warmth and honeysuckle; pre-dawn
 
 ## Connections
 
-- **The Broom:** Gareth's Minor Arcana lead (Fay-wood Broom). Located at the Green Lord's Tomb, south side, leaning on an elm. Given freely after rites completed, or available as loot if rites refused/failed.
+- **The Broom:** Gareth's Minor Arcana lead (Fay-wood Broom). Given freely after the lullaby (Beat 2) — left for him at camp because he listened to her grief without intruding. No debt attached.
 - **The Dawnfire Vine:** Orange-glowing vine flowers growing inside the Green Lord's Tomb, feeding on his remains. Removing it severs Blush-of-Dawn's bond to her dead master. Becomes her crown. Located deep inside — requires her to open the tomb.
 - **The Green Lord's Tomb (POI #17):** Depth 3. Where the rites happen (exterior) and where the vine grows (interior). Heavy with old power. Something stirs within — the Green Lord's residual possessiveness.
 - **Blush-of-Dawn's Domain (Pavilion):** Separate encounter — her full court of devotees. Comes later if relationship develops. See `threats/blush-of-dawn.md` for the threat escalation.
-- **The Leanan Sidhe Pattern:** She IS this pattern — gifts in exchange for devotion that consumes. Beat 5 activates it: she becomes Gareth's muse, sustained by his attention. The Fetch encounter foreshadows where this leads if the balance tips.
-- **The Fetch:** Gareth's Fetch (in `the-fetch.md`) shows what happens if he gives too much — knowledge without effort, stillness, emptiness. Beat 5's "muse" role is the first step on that road.
+- **The Leanan Sidhe Pattern:** She IS this pattern — gifts in exchange for devotion that consumes. Beat 4 activates it: she becomes Gareth's muse, sustained by his attention. The Fetch encounter foreshadows where this leads if the balance tips.
+- **The Fetch:** Gareth's Fetch (in `the-fetch.md`) shows what happens if he gives too much — knowledge without effort, stillness, emptiness. Beat 4's "muse" role is the first step on that road.
 
 ---
 
@@ -341,6 +305,6 @@ Special qualities: Fae nature; radiant; aura of warmth and honeysuckle; pre-dawn
 - **Space these beats across 2-4 sessions.** Don't rush. Let the relationship build naturally.
 - **Beat 1 is the hook.** If they miss it entirely, no harm — Beat 2 works without it. But Beat 1 gives the crucial "she has a private self" context that makes everything after richer.
 - **The lullaby should NOT trigger saves or mechanics.** It's just beautiful and sad. If players react in-character to something that isn't mechanically threatening, that's the whole point.
+- **The broom gift (end of Beat 2) has no strings.** This is NOT a Fae bargain. She gives it because he witnessed something real. The debt-free nature of this gift makes Beat 4's proposal hit harder — THAT one has strings.
 - **"Speak me into existence" is literal Fae law.** A name spoken is a name owed. By teaching Gareth to summon her, she's creating a bond. This has long-term implications.
-- **The rite test (Beat 4) should be chosen based on what challenges DANNY R. specifically.** Pick the option that tests what his version of Gareth values most. If he's greedy for knowledge → Option C. If he's private → Option D. If he's selfless → Option A might not be a test at all. Choose the one that creates genuine tension.
 - **She is NOT hostile in any of these beats.** If the PCs attack her, she blazes (blind) and vanishes. She doesn't fight. She doesn't retaliate. She just... leaves. And is much harder to find again.
