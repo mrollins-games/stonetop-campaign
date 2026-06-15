@@ -53,39 +53,46 @@ Someone whispers "thank you" looking at Halpin, not upward. Someone else weeps w
 
 ## Ted — The Hollow Court Reconvened
 
-**The Ending:** Ted takes a seat on the Fae Court permanently. He can fix everything — the contract, Stonetop's obligations, all of it. But he's bound to Fae law now. He judges in the forest. He doesn't come home.
+**The Ending:** Ted argues the case and wins — Stonetop is freed from the Forest Folk's burden. But the Court now has a human advocate. He's proven Fae law works. They'll call on him again. And again. And eventually his own complicity (Axel's wood) surfaces — in HIS court.
 
-### Beat 1 — The Vision
+### Beat 1 — Finding the Proof
 
-**When:** After the party visits the Hollow Court encounter (or during rest in Depth 2-3).
+**When:** Ted investigates the Fae contract, the Forest Folk's imprisonment, or the Hollow Court's history (conversation with Arbiter tree, research in the archive, or his own Chronicle knowledge).
 
-Ted sees the Court — no longer hollow. Filled. In session. He sits opposite Lord Wokn, arguing that Stonetop should not bear the Forest Folk's burden. His arguments are brilliant. Wokn concedes. The people are freed.
+Ted finds (or assembles) the legal proof that Stonetop does NOT inherit the Forest Folk's obligations. The contract was between the OLD Court and the Forest Folk specifically. When the corrupt offshoot was punished and ALL Forest Folk were imprisoned (unjustly), the contract's terms were violated BY THE COURT ITSELF. A contract violated by the enforcing party is void.
 
-He wakes knowing: this COULD happen. The Court could reconvene. He could argue the case. He could win.
+**What it gives him:** A legal argument — airtight by Fae law standards. He KNOWS he could win this case. But there's no court to argue it before. The Hollow is empty. The Court hasn't assembled since the unjust ruling.
 
-**What it gives him:** Nothing physical. Just knowledge — and the itch. He knows the law now. He's seen how it works from the inside.
+### Beat 2 — Assembling the Court
 
-### Beat 2 — The Precedent
+**When:** Ted decides to reconvene the Hollow Court. This requires gathering those with a vested interest in the outcome — that's how Courts are built in Fae law. Not appointed. Assembled by stakes.
 
-**When:** The party encounters a Fae dispute they can't solve, OR Ted tries to invoke law/justice in the Faedom and it fails because there's no authority to enforce it.
+**The Assembly:** Ted must find and convince NPCs/factions who have standing (a vested interest in whether Stonetop bears the burden):
 
-The Arbiter tree (from the Hollow Court) speaks to him — or he hears it in his memory: *"The Court requires a quorum. You have standing. Would you sit?"*
+Potential court members (Ted must recruit enough for a quorum):
+- **The Arbiter Tree** — already present, always in session. Will serve as seat/facilitator if others come.
+- **Mivvi & Sable** — they live at the Hollow, tend the tree. Minor standing but they validate the space.
+- **Lord Wokn** — the opposition. He WANTS Stonetop to bear the burden (it benefits his domain). He'll come to argue against Ted.
+- **A Forest Folk representative** — one of the imprisoned, somehow reached or spoken for. Their burden is the subject.
+- **The Tourists / Ard Sidhe** — observers from a neutral court. Their presence legitimizes.
+- **Blush-of-Dawn** — her master (the Green Lord) was part of the original Court. She has inherited standing.
+- **Other Fae with territorial claims** — anyone whose domain touches Stonetop's obligations.
 
-**The choice:** Does he take a seat — just temporarily, just for THIS case? Or does he refuse?
+**The challenge:** Each potential member has their own price for attending. Some want favors. Some want assurances. Some want Ted to rule on THEIR dispute first (proving his competence). This is a multi-session political quest.
 
-**If he sits:** He resolves the dispute brilliantly. The Fae involved defer to him. It feels RIGHT — this is what he's built for. The Court recognizes one session served. Two more and he has permanent standing.
+**What it gives him:** A reconvened Court. A quorum. The authority to argue his case. And a taste of how Fae politics actually work — who owes whom, who fears whom.
 
-**If he refuses:** The dispute festers. People are harmed. He could have fixed it. The itch gets worse.
+### Beat 3 — The Debate and Ruling
 
-### Beat 3 — The People v. Stonetop
+**When:** The Court is assembled at the Hollow. All parties present. Ted argues the case.
 
-**When:** Lord Wokn (or another Fae authority) formally charges Stonetop with inheriting the Forest Folk's obligations — the broken contract, Axel's wood, all of it. This happens in the Faedom. The party is present.
+The debate: Ted presents his proof. Lord Wokn (or his advocate) argues the counter — that Stonetop benefited from the contract (the wood, the protections, the boundary) and therefore inherits its costs. The assembled Court weighs both sides.
 
-The only one who can argue the defense is Ted. But to argue before the Court, he must have standing. Standing requires sitting as a judge. Permanently.
+**If Ted wins:** Stonetop is freed. The ruling is spoken by the Arbiter tree: *"And so it is."* The Forest Folk's burden is NOT Stonetop's. The contract is dissolved. Relief. Victory. Ted is brilliant.
 
-**If he takes the seat:** He argues the case. He's magnificent. Stonetop is freed. But the Court now has a human judge — him. He is bound to the forest, to Fae law, to impartiality. He cannot advocate for Stonetop again. He judges ALL equally now. And his first case after this one? Someone brings up Axel's wood. His complicity. In HIS court.
+But: the Court members now know Ted. They've seen him work. They know he understands Fae law. And a human who can navigate Fae law is USEFUL. They'll call on him. Disputes will find him. And eventually — someone raises Axel's wood. Ted's own people used Fay-wood in violation. If the contract is dissolved, this might not matter. But if someone argues Ted had standing BECAUSE of complicity...
 
-**The Ending:** Ted is the thing he always wanted to be — the ultimate authority on justice. But justice is impartial. He can't protect his people anymore. He can only judge them.
+**The Ending:** Ted freed his people. But he's proven that the Court works. That it SHOULD reconvene. That a human can sit in it. He's opened a door he cannot close. The Court won't let him walk away — not because they're cruel, but because he's too valuable. Justice needs judges. And he's the best one they've seen in centuries.
 
 ---
 
