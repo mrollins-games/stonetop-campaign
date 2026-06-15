@@ -142,45 +142,49 @@ The bark is warm. The roots don't hurt. It feels like falling asleep.
 
 ## Filberta — The Heroic Death
 
-**The Ending:** Filberta sacrifices herself to save her friends. She dies — and is reborn Fae. Immortal. A legend. Anchored to this forest forever. She can never go home.
+**The Ending:** Filberta sacrifices herself to save her friends. She dies holding a trimming of the Golden Oak — and is reborn Fae. Immortal. A legend. Anchored to this forest forever. She can never go home.
+
+**The Artifact:** A trimming of the Golden Oak — a small living branch, leaves shimmering gold-green, warm to the touch. The Golden Oak's roots already resurrect the dead (established lore). A trimming carries that power in miniature — but rebirth through it in the Faedom doesn't return you to mortal life. It returns you as part of the forest.
 
 ### Beat 1 — The Vision
 
 **When:** After Filberta does something brave (even small) in the Faedom. The forest NOTICES bravery.
 
-She sees herself — in battle. Overwhelmed. Her friends behind her, wounded. She makes the choice: holds the line. Takes the blow. Falls.
+She sees herself — in battle. Overwhelmed. Her friends behind her, wounded. She makes the choice: holds the line. Takes the blow. Falls. In her hand: a golden branch, blazing.
 
-Then: light. Green light. She rises — different. Glowing. Fae. The wound closes with bark and flower. She's ALIVE but changed. Her friends flee to safety. She watches them go — and cannot follow. Her feet have grown roots into the clearing where she fell.
+Then: light. Green-gold light. She rises — different. Glowing. Fae. The wound closes with bark and flower. She's ALIVE but changed. Her friends flee to safety. She watches them go — and cannot follow. Her feet have grown roots into the clearing where she fell.
 
 She wakes. Feels fine. But the spot where she "died" in the vision — she can see it. A clearing, not far ahead. Flowers growing in a circle. It looked peaceful.
 
-**What it gives her:** The knowledge that the forest would KEEP her if she fell here. Not as punishment — as reward. She'd be a guardian spirit. A legend.
+**What it gives her:** The knowledge that the forest would KEEP her if she fell here. And a direction — she can feel where the trimming is. It's close. Growing somewhere in the Faedom, waiting for someone brave enough to claim it.
 
-### Beat 2 — The Offer
+### Beat 2 — The Trimming
 
 **When:** Filberta faces real danger and performs genuine bravery. After the fight, in the quiet after.
 
 A voice — not a person, the FOREST — whispers: *"You were magnificent."*
 
-Flowers grow where her blood fell (or where she stood, if she wasn't wounded). The forest offers, not in words but in feeling: you could be this forever. You could be the one who saves them every time. No more fear of not being enough. No more "would-be." Just: HERO.
+Flowers grow where her blood fell (or where she stood). And there, among them: a small golden branch, freshly fallen as if just cut. Leaves shimmering. Warm. It hums faintly when she touches it — like recognition.
 
-**The choice:** Does she engage with the idea? Does she ask "how?" Or does she let it pass?
+**The choice:** Does she take it? Does she keep it?
 
-**If she engages:** The forest shows her: the clearing from the vision. It's real. It exists. If she falls there — truly falls, truly sacrificing — the forest will catch her. Remake her. She'll be Fae.
+**If she takes it:** It's hers. It feels right in her hand — like a weapon, like a promise. She knows what it does without being told: if she falls holding this, the forest catches her. The Golden Oak's gift: death undone. But HERE, not at home. Here, forever.
 
-**If she lets it pass:** The flowers remain but the voice goes quiet. It'll come back next time she's brave. It always notices.
+**If she leaves it:** It remains. Growing. It'll be there next time she passes. The forest is patient. It believes in her.
 
 ### Beat 3 — The Clearing
 
-**When:** A genuine crisis. The party is in danger. Someone will die or be lost if nothing changes. The clearing is RIGHT THERE — Filberta can see it.
+**When:** A genuine crisis. The party is in danger. Someone will die or be lost if nothing changes. The clearing from the vision is RIGHT THERE — Filberta can see it. She's holding the trimming.
 
-This isn't manufactured. This is real danger, real stakes, and the clearing happens to be where they are (or close enough). The choice is genuine: fight normally and maybe everyone lives, maybe someone doesn't. Or fight in the clearing, and if she falls there — truly, selflessly — the forest keeps its promise.
+This isn't manufactured. This is real danger, real stakes, and the clearing happens to be where they are (or close enough). The choice is genuine: fight normally and maybe everyone lives, maybe someone doesn't. Or fight in the clearing with the Golden Oak's trimming in hand, and if she falls there — truly, selflessly — the forest keeps its promise.
 
-**If she falls in the clearing:** She dies. Actually dies. The party sees it happen. Then: green light. Bark. Flowers. She rises — Fae. Beautiful. Powerful. Rooted. She looks at them with love. She cannot leave.
+**If she falls in the clearing holding the trimming:** She dies. Actually dies. The party sees it happen. The trimming blazes gold — roots burst from it, from her, into the earth. Then: green-gold light. Bark. Flowers. She rises — Fae. Beautiful. Powerful. Rooted. The trimming has become part of her — golden leaves in her hair, bark-skin, eyes like sunlit canopy.
+
+She looks at them with love. She cannot leave.
 
 > "Go. I'll be here. I'll always be here."
 
-**The Ending:** She is the thing she always wanted to be — the hero who saved everyone. But she's a statue in a forest now. A legend that breathes. Wolfram will visit. The others will try. But she can't come home for harvest. She can't grow old with them. She got glory but lost everything that made glory worth having.
+**The Ending:** She is the thing she always wanted to be — the hero who saved everyone. But she's a statue in a forest now. A guardian spirit of the Golden Oak's lineage. Wolfram will visit. The others will try. But she can't come home for harvest. She can't grow old with them. She got glory but lost everything that made glory worth having.
 
 ---
 
