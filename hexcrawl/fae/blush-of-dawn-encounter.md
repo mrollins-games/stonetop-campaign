@@ -1,119 +1,187 @@
-# Blush-of-Dawn — Encounter
+# Blush-of-Dawn — Encounter (Multi-Beat)
 
 > **Connected POI:** The Green Lord's Tomb (#17) — Depth 3  
-> **Theme:** Beauty, devotion, loneliness, the broom artifact  
-> **Tone:** Seductive and melancholy — not hostile unless rejected  
+> **Theme:** Devotion, purpose, being seen without performance  
+> **Tone:** Melancholy → intimate → dangerous (escalates gently across beats)  
 > **Primary PC:** Gareth (Danny R.'s Seeker) — but affects the whole party  
-> **Trigger:** Gareth's vision of her sweeping the tomb. She visits him at camp.
+> **Trigger:** Gareth's vision of her sweeping the tomb.  
+> **Structure:** Three appearances, spaced across sessions or travel beats.
 
 ---
 
-## The Setup — Night Visit
+## Beat 1 — Caught at the Stream
 
 ### When This Happens
 
-During a **camp scene** in the Faedom (any depth). Gareth has already had his vision of Blush-of-Dawn sweeping her old master's tomb. This encounter happens BEFORE the party finds the tomb — she comes to them.
+Early in the Faedom — Depth 1 or 2. Near water (a stream, a spring, a pool). Can happen during travel or while the party is making camp near a water source. Gareth has already had his vision.
 
-### Read or Paraphrase
+### What They See
 
-The watch is quiet. The fire has burned low.
+Someone is at the water's edge. Kneeling. Back to the party.
 
-Then — warmth. Not from the fire. From above. The air itself gets warmer, smells of honeysuckle and the first light of morning. The darkness at the tree line brightens to rose-gold, as if dawn is arriving from the wrong direction.
+She's filling a clay vessel — carefully, both hands, the way someone fills a watering can. Her glow is **dim** — barely there. Hair loose and tangled, not radiant. Dress muted, more grey than gold. She looks... ordinary. Small. Focused on her task. Humming something faintly — not a performance, just the absent humming of someone working.
 
-She's sitting on a branch just beyond the firelight — legs crossed, glowing faintly, watching. Hair like tangled sunlight. Small curved horns catching the light. A dress that shimmers between colors — peach, gold, violet — like sun through a prism. She's smiling. Not predatory. Patient.
+She hasn't noticed the party yet.
 
-She's been watching for a while.
+### If They Watch Silently
 
----
+She finishes filling the vessel. Stands. Turns.
 
-## The Conversation
+She sees them — and **startles**. For one instant her face is unguarded: surprised, embarrassed, flustered. Like being caught in your pajamas.
 
-Blush-of-Dawn addresses **Gareth specifically** — by name. She knows him. She saw him seeing her.
+Then the glow surges. The hair brightens. The dress shifts to gold. She straightens her posture, lifts her chin. The *performance* switches on — radiance, composure, beauty on display. It's instantaneous. And obviously a reaction.
 
-> "You watched me. In your vision. Most mortals don't notice me tending the grave — they see the tomb, the vines, the power. You saw *me*. Sweeping."
+> *(no dialogue — she looks at them, serene now, luminous, holds the vessel against her chest like armor, then turns and walks into the tree line. Gone.)*
 
-She tilts her head. The glow intensifies slightly — involuntary. She's pleased.
+### If They Call Out / Approach
 
-> "I have something that belongs to you. Or will. The broom — it's old Fae-wood. My master made it. I've been using it to tend his resting place. It leans against the elm outside his door."
+She startles the same way. The glow comes up. But if someone says something that acknowledges her AS SHE WAS — mundane, unperformed, human-in-action — she hesitates before the mask goes fully up.
 
-A pause. She looks at her hands.
+Examples that work:
+- "Sorry — didn't mean to startle you."
+- "Need help with that?"
+- "You don't have to— " (if someone notices the glow coming up and comments)
 
-> "I'll show you where. But I want something first."
+Examples that don't reach her:
+- "Who are you?" (too clinical)
+- "What are you?" (she's heard this before — it triggers the full performance)
+- Drawing weapons or being hostile
 
-### What She Wants
+**If they say something that sees her:** She pauses. Looks at them — really looks. Then:
 
-She doesn't want the broom — it's not hers. She doesn't want a soul, a debt, or a bargain. She wants something simpler and more dangerous:
+> "...you can see me when I'm not trying."
 
-> "Tell me I'm beautiful. But mean it. Not flattery — I can taste flattery and it's thin. Tell me what you actually see when you look at me. Describe it. Take your time."
+She doesn't say more. She leaves with the vessel. But she **remembers who said it** — and she'll be back.
 
-**This is not a trick.** She genuinely craves authentic admiration. She's a being bred for this. It sustains her the way food sustains mortals. She's asking for a meal.
+### If They Do Nothing / Miss Her
 
-### The Test
-
-**If Gareth (or any PC) gives genuine, specific admiration:**
-- Describe something real about her — the light, the warmth, the way her presence makes the camp feel less hostile
-- Doesn't need to be romantic — can be aesthetic appreciation, wonder, acknowledgment of what she IS
-- She closes her eyes, breathes in, and the glow steadies to a warm pulse
-
-She's satisfied. She gives directions to the tomb freely. She may linger — she likes company that notices her.
-
-**If the response is hollow flattery ("yeah you're pretty"):**
-- She winces. Faintly. Like tasting something sour.
-- "That's... adequate. Thank you."
-- She gives the directions anyway — but colder. Transactional. She leaves immediately.
-
-**If refused or challenged ("we don't owe you compliments"):**
-- The glow dims. She hugs her knees.
-- "No. You don't. No one does."
-- She leaves without giving directions. The broom can still be found — but the party must locate the Green Lord's Tomb on their own (Depth 3, normal travel).
-
-**If someone tries to weaponize this / psychoanalyze her ("you're just lonely, this is parasitic"):**
-- She goes very still. The warmth vanishes. The camp temperature drops to normal — which now feels cold by contrast.
-- "I know what I am. I know what I was made for. Do you know what YOU were made for?"
-- She vanishes. The rose-gold fades. Dawn is still hours away.
+She leaves with the water. No encounter. The party finds a wet spot by the stream where someone was kneeling. Faint scent of honeysuckle. A single glowing hair caught on a branch.
 
 ---
 
-## Directions to the Broom
+## Beat 2 — The Lullaby
 
-If she's satisfied, she gives these directions (Fae-style):
+### When This Happens
 
-> "Go deeper. Past the Mirror Glade — you'll know it by the water that shows what isn't there. Keep going until the moon turns the color of harvest. You'll smell old growth — heavier than the rest. Moss over everything. The elm is the tallest thing that isn't the mound itself. The broom leans against its south side. It's been waiting longer than you've been alive."
+Next camp scene in the Faedom. Night. During watch or while settling. She doesn't appear — she's HEARD.
 
-**Translation for GM:**
-- Past Mirror Glade = through Depth 2
-- Harvest moon = Depth 3 atmosphere
-- The Green Lord's Tomb = POI #17 at Depth 3
-- The broom is against an elm tree on the south side of the burial mound
+### What They Hear
+
+From somewhere in the canopy — not close, not far — a voice. Singing.
+
+It's a lullaby. Not for them. Not to them. She's singing to someone who isn't there.
+
+### The Song (paraphrased — deliver in fragments)
+
+The lullaby is about her master — her creator. Themes:
+
+- He spoke her name and she became. She was his dawn. His first light. His last thought.
+- He is gone now. The grave holds what made her. But she keeps his tomb. She sweeps the steps. She brings the water. She observes the old rites.
+- She was made to love him. She still does. She doesn't know if that's real or if she was designed to feel it. It doesn't matter — it's all she has.
+- A refrain: something like *"I keep what kept me / I clean what made me / I am the light left on after everyone has gone to sleep"*
+
+### What It Does
+
+The song plants the theme: **devotion to something lost.** It's heartbreaking. It's not aimed at the PCs. She's not performing — she's mourning. The PCs are overhearing something private.
+
+**No mechanical effect.** No charm. No save. Just... a beautiful, sad thing heard in the dark.
+
+### If They Seek Her Out
+
+She's sitting in a high branch, eyes closed, vessel from Beat 1 beside her (clean now, empty). If approached, she opens her eyes — doesn't startle this time. Acknowledges them with a nod. The song stops.
+
+She doesn't offer conversation. If they try:
+- Compliment the song → small smile, "It's for someone. Not for you. But... thank you for hearing it."
+- Ask who it's about → "My maker. He's in the ground now. I keep his rites."
+- Leave her be → She appreciates this. Nods. Resumes humming once they're back at camp.
+
+### If They Ignore It
+
+The song fades after 10 minutes. She was never visible. But the camp feels warmer that night. Dreams are kinder. No mechanical benefit — just atmosphere.
 
 ---
 
-## The Broom (When Found)
+## Beat 3 — The Conversation
 
-At the Green Lord's Tomb, the broom is exactly where she said — leaning against a massive elm. It looks unremarkable. Fae-wood handle (warm to the touch, lighter than it should be). Bristles that are too uniform, too clean for something left outdoors for centuries.
+### When This Happens
 
-**Details for Gareth's Minor Arcana lead:**
-- This IS the Fay-wood Broom from his arcana list
-- Not yet mastered — requires study to unlock its properties
-- Picking it up feels... right. Like it was waiting for exactly this hand.
-- Blush-of-Dawn has been using it to sweep the tomb entrance for centuries. It smells faintly of honeysuckle.
+Next appearance — she approaches this time. At the edge of camp. Dawn (actual dawn — the light makes her hard to distinguish from the sunrise for a moment). She addresses **Gareth directly**.
+
+### The Dialogue
+
+She sits at the fire's edge. Doesn't ask permission. Looks at Gareth with genuine curiosity — head tilted, glowing softly.
+
+> "What... are you doing here, young one?"
+
+A pause. She's studying him like a naturalist studies something new.
+
+> "No one spoke your name into existence as my master did I. How then do you come to be?"
+
+She's genuinely asking. Not rhetorical. She doesn't understand mortal origin — the idea of being born without intention, without a maker who CHOSE to create you, is alien to her.
+
+### If Gareth Engages
+
+She opens up. Slowly. In fragments between his questions:
+
+- She was spoken into being by her master — a Green Lord. He named her "Blush-of-Dawn" and she became the beauty of sunrise made flesh.
+- When he died, she should have been unmade — a creation without a creator dissolves. But someone — she doesn't say who — admired her in that moment. Their admiration gifted her a new incarnation. She persisted because she was *seen*.
+- She was once fulfilled in service to her master. Tending his beauty, reflecting his glory, being the light of his domain.
+- Now she is unfulfilled. None take her as their muse. She tends the tomb alone. She carries the rites alone. She keeps the old rituals because without them she has no purpose.
+
+> "I am but the Blush-of-Dawn. Speak me into existence and I shall appear again."
+
+She means this literally — say her name with intent and she will come. This is how Fae summoning works. A name spoken is a name owed. She's giving him the key to call her.
+
+### What This Gives Gareth
+
+- **A way to summon her.** Speaking "Blush-of-Dawn" with intention anywhere in the Faedom = she appears (within minutes, not instantly).
+- **Context for the broom.** She tends the tomb with it. It's Fae-wood. It belonged to her master. She's been using it because it's all she has of him.
+- **A hook forward.** She wants someone to carry her rites. That's the next beat.
 
 ---
 
-## Follow-Up Hooks
+## Beat 4 — "Carry My Rites"
 
-### If Blush-of-Dawn was pleased:
-- She may visit again — at dawn, at the edge of camp, always at a distance
-- She begins appearing in Gareth's peripheral vision at other Fae locations — sitting on branches, watching
-- She never asks for more than she asked the first time: tell her what you see
-- Eventually she may invite the party to her pavilion (separate encounter — her domain)
-- She becomes a potential **ally** — but one who is sustained by admiration, which means the PCs must continue feeding that need
+### When This Happens
 
-### If she was rejected:
-- She doesn't become hostile — she becomes absent
-- The broom is harder to find (no directions, must reach Depth 3 independently)
-- If the PCs DO find the tomb later, they may see evidence of her (swept paths, fresh flowers on the mound) but she avoids them
-- Can be repaired — seek her out, offer what she asked for originally. She's lonely, not proud.
+After Gareth has summoned her at least once (proving the name works). She appears and makes a request:
+
+> "You have called me. You have seen me. Will you carry my rites?"
+
+### What She's Asking
+
+She wants him to perform the **ritual she does at the tomb** — the sweeping, the water, the recitation. Not because she can't. Because having someone ELSE do it means she's not alone in her devotion. Shared ritual is witnessed ritual. Witnessed devotion is real devotion.
+
+But: the ritual requires going to the Green Lord's Tomb (Depth 3). And performing it there means **being in her master's presence** — whatever remains of him in that heavy air.
+
+### The Rite (TBD — The Test)
+
+The ritual itself should put Gareth to a test. Options:
+
+**A. Devotion vs. Self-Interest**
+The rite requires sweeping the tomb entrance with the broom (HIS artifact lead). But completing the rite means leaving the broom there — returning it to its place. Does he take the thing he came for, or does he honor the dead and the woman who tends them? (Resolution: she gives it freely AFTER the rite if he doesn't grab it. Taking it during = she's hurt.)
+
+**B. Witnessing Something Terrible**
+The rite includes a recitation — speaking the Green Lord's name aloud at the tomb. This wakes something. Not hostile — but overwhelming. A flash of what the Green Lord WAS: the power, the beauty, the tyranny. Gareth must endure it without flinching. The test is standing in the presence of something ancient and not running.
+
+**C. Choosing Her Over Knowledge**
+During the rite, the tomb offers Gareth something — knowledge, power, a vision of arcane secrets (Seeker bait). But the rite requires focus. He must choose: complete the ritual for HER, or break it to take what the tomb offers HIM. (He can always come back for the knowledge. But she'll know if he chose himself over the rite.)
+
+**D. Public Devotion**
+The rite requires doing something visibly admiring — singing back to her, describing what he sees, or performing gratitude — in front of the party. Not privately. The test is: will he be genuine in front of witnesses? Admiration given in private is easy. Admiration given publicly, when others might judge, is real.
+
+### After the Rite
+
+If completed:
+- She blazes. Full radiance. The glow fills the clearing like actual sunrise.
+- She gives the broom freely: "It was his. Now it tends to you. As I tended to him."
+- She is now available as an ongoing NPC — can be summoned, will help, will ask for small devotions in return (nothing parasitic yet — just attention, acknowledgment, being seen)
+- The tomb is now accessible as a POI for future exploration
+
+If broken/refused:
+- She dims. Badly. The warmth goes cold.
+- The broom is still obtainable — but it's just... there. Leaning on the tree. No ceremony. No gift. Just loot.
+- She doesn't appear when called for a long time. Can be repaired but requires significant effort.
 
 ---
 
@@ -133,46 +201,43 @@ Special qualities: Fae nature; radiant; aura of warmth and honeysuckle; pre-dawn
 - Set devotees to a task / challenge
 - Blaze brightly, blind onlookers
 - Appear in visions, dreams, and peripheral sight
-- Ask for admiration — directly, vulnerably, without pretense
+- Ask for admiration — indirectly, through vulnerability and beauty
 
-**Personality:**
-- Not a predator in this encounter — a lonely being seeking connection
-- Speaks softly, precisely, with long pauses between thoughts
-- The glow is involuntary — it brightens when she's pleased, dims when hurt
-- She knows she's dangerous. She doesn't pretend otherwise. But she's not trying to trap anyone HERE — she's trying to be seen.
-- Centuries of sweeping her dead master's tomb. She's grieving. Still. Always.
+**Personality (across the beats):**
+
+| Beat | How She Presents | What's Real |
+|------|-----------------|-------------|
+| 1 (Stream) | Unguarded → then performing | She has a private self. No one has seen it before. |
+| 2 (Lullaby) | Mourning, private, not for them | Her grief is genuine. Her devotion to the dead master is real. |
+| 3 (Conversation) | Curious, open, slightly alien | She genuinely doesn't understand mortal existence. It fascinates her. |
+| 4 (Rites) | Hopeful, trusting, at-risk | She's offering something real. If rejected here, the wound is deep. |
 
 **Appearance:** (per reference art)
 - Luminous — skin radiates warm golden-rose light, brighter at her hair and horns
 - Small curved horns, pale gold, swept back
 - Wild glowing hair — tangled, radiant, like sunlight caught in honey
 - Dress shimmers between peach, gold, violet, and blue — changes with mood/angle
-- The hem of her dress dissolves into sparks and motes of light, trailing below her feet
-- Bare feet. Never touches the ground — sits on branches, floats slightly
-- Expression: serene but watchful. A quiet smile that doesn't quite reach her eyes until someone truly looks at her.
-- Beaded necklace at her throat — the only non-luminous thing about her
+- The hem dissolves into sparks and motes of light, trailing below her feet
+- Bare feet. Sits on branches, perches rather than stands
+- When dimmed (Beat 1): grey-ish, hair tangled and dull, dress muted, looks almost mortal
+- When blazing (after rites): impossible to look at directly. Dawn incarnate.
 
 ---
 
-## NPC — The Green Lord (Dead)
+## Connections
 
-Not encountered — only referenced. But relevant context:
-
-- Blush-of-Dawn's former master
-- Killed/bound during the Fae rebellion (the war)
-- His tomb is POI #17 at Depth 3
-- The broom was his — he made it from Fae-wood
-- Blush-of-Dawn still tends his grave. She was bred to love him. She still does. He's been dead for centuries.
-- The air inside the tomb is heavy with old power. Something stirs if you linger.
-- She doesn't enter the tomb — only sweeps the entrance. She can't face what's inside.
+- **The Broom:** Gareth's Minor Arcana lead (Fay-wood Broom). Located at the Green Lord's Tomb, south side, leaning on an elm. Given freely after rites completed, or available as loot if rites refused/failed.
+- **The Green Lord's Tomb (POI #17):** Depth 3. Where the rites happen. Heavy with old power. Something stirs within.
+- **Blush-of-Dawn's Domain (Pavilion):** Separate encounter — her full court of devotees. Comes later if relationship develops. See `threats/blush-of-dawn.md` for the threat escalation.
+- **The Leanan Sidhe Pattern:** She IS this pattern — gifts in exchange for devotion that consumes. But in THIS encounter chain she's at the START of the pattern. She's lonely, not predatory. The predation comes when she has enough admiration to sustain a court.
 
 ---
 
 ## GM Notes
 
-- **This is a soft introduction to Blush-of-Dawn.** The full threat (pavilion, devotees, wasting pattern) comes later. Here she's a lonely figure offering a gift and asking for acknowledgment. Plant the seed.
-- **Danny R. should feel special.** Gareth had the vision — she came to HIM. Let him lead the interaction. Other PCs can contribute but she's focused on the one who saw her.
-- **The compliment is not free.** Even genuine admiration feeds her pattern. The PCs aren't doing anything wrong — but they ARE beginning a relationship with a being whose need for devotion is literally parasitic at scale. Foreshadow this gently.
-- **Don't make her creepy.** She's sad. She's beautiful. She's genuine. The horror comes later — when you realize her genuineness doesn't make the pattern less dangerous.
-- **The broom is a reward for engagement.** If the PCs refuse to interact with her at all, they can still find the broom — it just takes longer. The encounter makes the artifact feel personal and earned rather than just "found loot."
-- **Time this for a quiet moment.** Don't interrupt action with this. Wait for a camp scene where the pace is already slow. Let it breathe.
+- **Space these beats across 2-4 sessions.** Don't rush. Let the relationship build naturally.
+- **Beat 1 is the hook.** If they miss it entirely, no harm — Beat 2 works without it. But Beat 1 gives the crucial "she has a private self" context that makes everything after richer.
+- **The lullaby should NOT trigger saves or mechanics.** It's just beautiful and sad. If players react in-character to something that isn't mechanically threatening, that's the whole point.
+- **"Speak me into existence" is literal Fae law.** A name spoken is a name owed. By teaching Gareth to summon her, she's creating a bond. This has long-term implications.
+- **The rite test (Beat 4) should be chosen based on what challenges DANNY R. specifically.** Pick the option that tests what his version of Gareth values most. If he's greedy for knowledge → Option C. If he's private → Option D. If he's selfless → Option A might not be a test at all. Choose the one that creates genuine tension.
+- **She is NOT hostile in any of these beats.** If the PCs attack her, she blazes (blind) and vanishes. She doesn't fight. She doesn't retaliate. She just... leaves. And is much harder to find again.
