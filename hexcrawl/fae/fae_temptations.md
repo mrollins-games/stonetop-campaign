@@ -24,20 +24,22 @@ Halpin sees himself — radiant, wearing a gold ring, arms raised. People of Sto
 
 The vision ends. The gold ring is physically there, resting where his hand lay.
 
-**What it gives him:** A new minor arcana (Gold Ring). It has a backside — locked. Three requirements to unlock it (TBD — should test his faith/identity boundary).
+**What it gives him:** A new minor arcana (Gold Ring — "A simple, golden band that catches the light and shines, even in darkness. Its very presence fills goodly people with peace and hope, and servants of darkness with jealous hate."). It has a backside — locked.
 
 ### Beat 2 — Unlocking the Backside
 
 **When:** Halpin pursues the three requirements to unlock the ring's full power.
 
-The three requirements (TBD — but should each blur the line between serving Helior and serving himself):
-1. *(Requirement 1 — TBD)*
-2. *(Requirement 2 — TBD)*
-3. *(Requirement 3 — TBD)*
+**Requirements (from the arcana):**
+1. Wear the ring continuously for 40 days, witnessing the sunrise each day.
+2. Perform an act of charity while wearing the ring, one that changes the recipient's life.
+3. Participate in the devout and proper worship of Helior.
 
-Each requirement should feel like devotion to Helior from one angle and self-aggrandizement from another. Halpin can tell himself it's service. The ring doesn't correct him.
+Each requirement feels like genuine devotion to Helior — that's the insidious part. The ring doesn't ask him to do anything wrong. It asks him to be MORE devoted, MORE generous, MORE faithful. And in doing so it binds him tighter. Halpin can tell himself it's pure service. The ring doesn't correct him.
 
-**What it gives him:** The ring's backside unlocks. Full power revealed (TBD — but should amplify his radiance/authority dramatically).
+**What it gives him:** The ring becomes **Helior's Shining Ring**.
+- *Daylight:* When he spends the better part of a day wearing the ring and worshipping Helior in full sunlight, hold 1 Daylight. When he wears the ring in shadows or darkness and spends 1 Daylight, the ring shines forth with holy light (near, area) that is painful for creatures of darkness to look at. It glows for a few hours, until extinguished or another effect uses up its fuel.
+- *The catch:* The ring also shines like a psychic beacon while lit, alerting servants of darkness for miles around to his presence and location. But more importantly — it makes HIM the source of holy light. Not Helior's symbol. Not a prayer. Him. His hand. His ring. His radiance.
 
 ### Beat 3 — "They Believe"
 
@@ -62,6 +64,19 @@ Someone whispers "thank you" looking at Halpin, not upward. Someone else weeps w
 Ted finds (or assembles) the legal proof that Stonetop does NOT inherit the Forest Folk's obligations. The contract was between the OLD Court and the Forest Folk specifically. When the corrupt offshoot was punished and ALL Forest Folk were imprisoned (unjustly), the contract's terms were violated BY THE COURT ITSELF. A contract violated by the enforcing party is void.
 
 **What it gives him:** A legal argument — airtight by Fae law standards. He KNOWS he could win this case. But there's no court to argue it before. The Hollow is empty. The Court hasn't assembled since the unjust ruling.
+
+**The Artifact — The Arbiter's Stamp:** A disc of hardened bark, palm-sized, fallen from the Arbiter tree during/after the Hollow Court encounter. One side bears the tree's ring-pattern (like a cross-section). The other side is smooth — blank. Warm to hold. Smells of sap.
+
+**Front side (immediate, no unlock):** Press it to any written agreement or spoken ruling in the Faedom → the words glow briefly and become Fae-binding. Breaking them carries consequence (determined by the severity of the oath). Doesn't enforce — just BINDS.
+
+**Back side (locked) — The Enforcement:** Press it to a ruling → spirits/Fae dispatched to carry it out. The ruling becomes not just binding but EXECUTED. Judgment made real.
+
+**Requirements to unlock:**
+1. **Seal a ruling against a stranger.** Easy. Low-stakes. Proves competence. (He'll do this without thinking twice — a minor Fae dispute resolved, sealed, done.)
+2. **Seal a ruling that costs YOU something.** A case where the just outcome requires Ted to give up something — a possession, a secret, standing. The seal won't activate on a ruling that costs him nothing. It tests: do you serve justice or serve yourself?
+3. **Seal a ruling against someone you'd rather protect.** A case where someone Ted cares about (party member? Stonetop villager? Even himself?) is in the wrong. The seal demands impartiality. To unlock enforcement, he must prove he'll enforce against his own.
+
+*The poison:* Each requirement pulls him deeper into the judge role. By requirement 3, he's already proven he'll enforce against his own people. The Court doesn't need to trap him — he's already acting like a permanent judge.
 
 ### Beat 2 — Assembling the Court
 
@@ -111,6 +126,22 @@ It's warm. It's real. It's everything he never had.
 Then: bark climbing his legs. Roots wrapping her ankles. Both sinking into the trunk together. He wakes before it completes — gasping, hands pressed to the dirt.
 
 **What it gives him:** A direction. He can FEEL which way she is (deeper into the Faedom). A pull, like a compass needle. Faint but constant.
+
+**The Artifact — The Naming Seed:** A small acorn, darker than normal, warm. Found on the path (or given by a tree after Wolfram speaks to it). Hums faintly.
+
+**Front side (immediate, no unlock):**
+- Hold it to your ear → whispers the name of the nearest tree.
+- Pulls lightly toward the nearest dryad (like a compass needle — gentle, not urgent).
+- Knowing a tree's name means it might help you.
+
+**Back side (locked) — The Calling:** Speak a tree's name into the acorn → the tree ANSWERS. Full communion. You can ask it anything it has witnessed, felt, or remembers. Including: "Do you know who I am?" When used on his mother's tree: full two-way conversation. She can speak to him through any tree whose name he knows, anywhere in the Faedom.
+
+**Requirements to unlock:**
+1. **Learn three trees' names by listening.** Simple. Proves patience. He holds the acorn, waits, listens. Three names learned = he understands the language of roots.
+2. **Give a tree YOUR name.** Reciprocity. The acorn teaches him that naming goes both ways — to know a name you must offer one. He whispers "Wolfram" into the bark of a tree. That tree now knows him. (This is how his mother will learn he's coming — the trees gossip.)
+3. **Plant the acorn.** The hardest one. To unlock the backside, he must give it up — push it into the earth and let it root. It grows into a sapling overnight. The sapling IS the connection now — it's his, keyed to him, a permanent anchor in the Faedom. But planting it means he has a PLACE here now. A root. A reason to return. A thing that grows whether he tends it or not.
+
+*The poison:* Each requirement escalates him from "visitor" to "resident." Learning names = connection. Giving his name = being known. Planting = having a home here. By the time he reaches his mother, he already belongs to this forest in three ways.
 
 ### Beat 2 — The Voice in the Wood
 
