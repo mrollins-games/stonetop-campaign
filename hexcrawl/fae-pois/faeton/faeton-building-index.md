@@ -14,7 +14,7 @@ A compact Fae town encountered at multiple depths along the travel route. Faeton
 | # | Name | Description | Details |
 |---|------|-------------|---------|
 | 1 | [The Pub](pub/) | Fae drinking house. Payment is a performance — sincerity judged, not skill. Half-hearted efforts earn cold drinks and strange dreams. | See [pub patron index](pub/pub-patron-index.md) |
-| 2 | The Chime Shop | *TBD* | |
+| 2 | [The Chime Shop](chime-shop.md) | Glass-scaled shop of strange items. Trill sells useful oddities for non-monetary prices — sounds, memories, sensations. The hanging chimes are his ledger. | Uses [Strange Items table](../../fae/rollable-tables.md#2-strange-items-d20) |
 | 3 | [The Tailor](tailor.md) | Measurement collector. Trades calling cards for precise measurements of the world. Card temporarily alters bearer's body dimensions. | |
 
 ## GM Notes
