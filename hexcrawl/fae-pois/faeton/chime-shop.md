@@ -2,67 +2,103 @@
 
 **Location:** Faeton (Building #2)  
 **Type:** Fae Shop  
-**Role:** Purveyor of strange items — non-monetary exchange
+**Role:** Chime seller — magical keys, show-chimes, and oddities
 
 ## Description
 
-A narrow building made entirely of glass — thin panes overlapping like fish scales, each one a different color. Hundreds of chimes hang from the eaves: glass, bone, crystal, twig, frozen dewdrops on spider-silk threads. They ring constantly in breezes that don't exist outside the shop.
+A narrow building of polished stone, its doorframe inlaid with copper spirals. Inside: rows of hooks, shelves, and hanging displays holding hundreds of chimes — metal, bone, crystal, wood, coral. They ring softly in overlapping harmonics whenever anyone moves. The air hums.
 
-Inside: shelves of impossible objects. Nothing is labeled. Nothing has a price tag. The shopkeeper knows what you want before you do.
+A counter of dark wood, behind it more chimes in locked cases (the expensive ones). The shop smells of ozone and something floral.
 
-## The Shopkeeper — Trill
+## What Chimes ARE
 
-**Appearance:** Tall, impossibly thin, fingers too long. Skin like frosted glass — you can almost see through it. Moves in sudden bursts between long stillnesses. Speaks in half-sentences, expects you to finish them.
+In this setting, chimes function as **keys**. Fae doors, locks, wards, and sealed objects respond to the correct chime — material and resonant frequency must match. A gold-inlaid door needs a gold chime at the right pitch. A bone-sealed box needs a bone chime.
 
-**Behavior:**
-1. **Knows what caught your eye** before you looked at it. Points. Waits.
-2. **Names a price** — always non-monetary, always personal, always fair (by Fae standards):
-   - A sound you love (you'll never hear it again)
-   - The color of your mother's eyes (you forget it)
-   - The weight of a secret (you must speak it aloud to someone present)
-   - A skill you haven't used in a year (you lose it; he jars it)
-   - Your sense of direction for one day (auto-lost until next rest)
-3. **Never haggles.** The price is the price. If refused, shrugs. The item goes back on the shelf. No hard feelings.
-4. **Delighted by browsers.** Trill loves when people look without buying. He'll narrate objects with half-descriptions: *"That one sings when—well. You'd have to hold it."*
+But chimes are also **status objects**. Fae carry show-chimes that produce magical effects when rung — prestige, display, fashion. The weirder and more impressive the effect, the higher the status.
 
-## Stock
+The Chime Shop sells both: **functional chimes** (keys to specific places) and **show-chimes** (magical trinkets for display or utility).
 
-Roll on the [Strange Items table](../../fae/rollable-tables.md#2-strange-items-d20) for what's available. Filter to **Trade** type — those are the shop's inventory. Gift-type items don't appear here (those are found in the wild). Loot-type items appear rarely — Trill acquired them *somehow* and the price is steeper.
+---
 
-**Always in stock (don't roll):**
-- A jar of preserved starlight (item #6)
-- The bird-bone flute with three notes (item #7)
-- One item rolled fresh each time the PCs visit
+## Random Chime Generator (d100 or 3d100)
 
-**Rotating stock:** Roll 2d20 on the Strange Items table each time PCs enter Faeton. Those items are on the shelves this visit. Next visit, different stock (Trill trades with *someone* between visits — who?).
+> Adapted from *Hot Springs Island* (non-canon inspiration). Roll once on each column, or roll d100 and read across.
 
-## The Chimes Themselves
+| Roll | Made of | Engraved with | Special Effect |
+|:----:|---------|---------------|----------------|
+| 1–2 | Red Crystal | Constellations | Four-dimensional |
+| 3–4 | | | Glows softly |
+| 5–6 | Mithral | Animated Constellations | Hums constantly |
+| 7–8 | | | Covered in glitter |
+| 9–10 | Gold | Flowers | Drops glitter when sounded |
+| 11–12 | | | Covered in small mirrored disks |
+| 13–14 | Platinum | Geometric Knots | Covered in cubic crystal growths |
+| 15–16 | | | Covered in hexagonal crystal growths |
+| 17–18 | Silver | Feathers | Covered in growths that resemble fan coral |
+| 19–20 | | | Wrapped in braided thread of astral silver |
+| 21–22 | Bronze | Wildflowers | Orbited by a Saturn-like ring |
+| 23–24 | | | Orbited by an X-shaped dual ring of small gemstones |
+| 25–26 | Copper | Glowing Runes | Ends in a spike, can be used as a dagger |
+| 27–28 | | | Shaped like a curled fern |
+| 29–30 | Black Basalt | Skulls and Bones | Shaped like a woman's body, neck down |
+| 31–32 | | | When held, looks and feels like it's melting. It isn't. |
+| 33–34 | Alabaster | Spiraling Vines | Material is translucent and gel-like. Only rings when thrown against something. |
+| 35–36 | | | Shaped like a mouth. Sings "scat" style instead of chiming. |
+| 37–38 | Pink Granite | Scenes of War | Occasionally sings the name of its current owner instead of chiming |
+| 39–40 | | | Attempts to float up and behind its current owner's shoulders |
+| 41–42 | Lapis Lazuli | Weeping Figures | Attempts to orbit its current owner's head or torso |
+| 43–44 | | | Freezes water it touches |
+| 45–46 | Opalescent Stone | Hunting Scenes | Shaped like a cone. Greatly amplifies sound. Functions as a megaphone. |
+| 47–48 | | | Surrounded by a constant cloud of soap bubbles |
+| 49–50 | Animate Star Metal | Nautical Scenes | Launches d4 stunningly beautiful but otherwise mundane golden fireworks |
+| 51–52 | | | A pint of dark ale appears in the user's hand. No sound until the beer is completely drunk. |
+| 53–54 | Mother of Pearl | Stylized Clouds | Material has been cut into strips and woven together like a basket. |
+| 55–56 | | | Ringing causes its owner to grow fang-like teeth for d6 hours. |
+| 57–58 | Abalone | Stylized Waves | Ringing causes someone within 50' (not the holder) to appear ancient for d10 minutes. |
+| 59–60 | | | A small orb of perfectly clear ice, 1"–2" diameter, appears in the user's hand. |
+| 61–62 | Bone | Stylized Flames | Air within 10' is instantly purified and smells of ozone. |
+| 63–64 | | | Shaped and sounds like a small songbird. To ring, press the feet. |
+| 65–66 | Iridescent Chitin | Stylized Lightning | User is surrounded by a light fog while in possession of the chime. |
+| 67–68 | | | A small rain cloud forms over anyone currently in a bad mood (50' radius). |
+| 69–70 | Porcelain | Stylized Lace | Fragrant petals cascade from above over nearby creatures for 3–5 minutes. |
+| 71–72 | | | Possessing this chime nullifies the special effects of other chimes (50' radius). |
+| 73–74 | Terracotta | Candies and Sweets | Delicate paper flowers bloom from the ground and are consumed by golden flame that does not burn. |
+| 75–76 | | | The user's eyes glow with golden light. |
+| 77–78 | Horn | Bees and Honeycomb | Feathery wings sprout from the user's back and immediately disintegrate into golden light. |
+| 79–80 | | | The user's nails become perfectly manicured and painted with bright lacquer. |
+| 81–82 | Petrified Wood | Scales | All creatures of the same sex within 20' become clean, groomed, and pleasantly scented. |
+| 83–84 | | | If outdoors, all within 10' see the sky change to night and fill with shooting stars. |
+| 85–86 | Fossilized Bone | Swordfish | d20 nightingales fly up from behind the user, singing sweetly. |
+| 87–88 | | | Straps, buttons, clasps, or knots on nearby clothing come undone (30' radius). |
+| 89–90 | Pink Salt | Geometric Shapes | Instead of chiming, a small pebble within 20' cracks open and sings a single line of garbled poetry. |
+| 91–92 | | | If a different chime was rung less than 1 minute before, the holder of that chime is covered in paint. |
+| 93–94 | Coral | Birds | Instead of ringing, another creature within 30' sounds out the tones with a bout of severe flatulence. |
+| 95–96 | | | Golden waves of visible sound radiate from the chime and fade away. |
+| 97–98 | Baleen | Woodland Scenes | All prepared fires, candles, and censers within 20' are set ablaze. |
+| 99–100 | | | Sensual-smelling purple smoke rolls out from the user to a 20' radius, rising to knee height. Lasts about an hour. |
 
-The hanging chimes aren't decoration — they're Trill's ledger. Each chime is a completed transaction. The bone ones are old. The glass ones are recent. If you listen carefully, each chime rings with the *sound* of what was paid.
+### How to Use This Table
 
-A PC with magical senses or Fae-sight can hear:
-- A mother's lullaby (someone paid a melody)
-- Birdsong from a specific morning (someone paid a memory)
-- The crack of a campfire (someone paid warmth)
+- **Roll d100 once:** Read the row straight across for a complete chime (material + engraving + effect).
+- **Roll 3d100 separately:** One for material (use the "Made of" column — material listed covers 2 rows), one for engraving, one for special effect. Mix and match.
+- **Functional key-chimes** don't need a special effect — just material and engraving are enough.
+- **Show-chimes** always have all three.
 
-**If a PC asks to buy a chime:** Trill pauses. Considers. *"That would cost... what it cost the first time. Are you sure you want to carry someone else's price?"* (Buying a chime gives you what was paid — you gain a stranger's memory, sound, or sensation. But you also inherit whatever loss they carry.)
+### Matching Chimes to Locks
 
-## Payment Examples (d6 quick-roll)
+Locked Fae objects are typically inlaid with decorations of the same material as their chime. A door unlocked by a gold chime will be adorned with gold. Symbols on or around the object might indicate the resonant frequency required — knowledge of Fae music helps decode this.
 
-| d6 | Trill's Price |
-|:---:|-------------|
-| 1 | A sound you love — gone from your ears forever |
-| 2 | The memory of a meal — you forget it, he bottles it |
-| 3 | One hour of your sleep tonight — he takes it, you wake exhausted |
-| 4 | A word from your vocabulary — you can never say it again |
-| 5 | The weight of something you carry — not a possession, a burden. You must name it aloud. |
-| 6 | Your next laugh — the next time something is funny, nothing comes out. Trill gets it. |
+---
+
+## The Shopkeeper — TBD
+
+*(Shopkeeper personality and behavior to be designed. Key questions: What does it cost? What does the shopkeeper want? Are they Fae, or something else?)*
 
 ## GM Notes
 
-- Trill is not threatening, not bargaining — he is FAIR. That's what makes him unsettling.
-- PCs should feel the prices are steep but never unjust. The items are genuinely useful.
-- Repeat visits build relationship. Trill remembers everything he's been paid. He might offer something back someday — for the right price.
-- If a PC tries to steal: the chimes ALL ring at once. Deafening. Every Fae in Faeton turns to look. Trill just says: *"That one isn't yours yet."* No violence. Just shame.
-- The Chime Shop connects to the [Strange Items table](../../fae/rollable-tables.md#2-strange-items-d20) — when the trigger guide says "Chime Shop purchase," this is where it happens.
-- Trill's glass-skin and the Glassway aesthetics make him feel slightly alien even among Fae — he might be from somewhere else originally.
+- The chime generator makes every visit to the shop produce unique items
+- Chimes-as-keys gives PCs reasons to buy specific chimes AND to come back when they find a locked thing
+- Show-chimes are fun magical trinkets that don't break the game — most effects are cosmetic or situational
+- The "functional key" angle means chimes found in the wild can unlock things later — reward players who keep inventory
+- If PCs find a locked Fae door/chest, note its material inlay. That's a hook back to the Chime Shop.
+- Source: *The Dark of Hot Springs Island*, "Random Elven Chimes" and "Chimes and Singing Golems" sections (pp. 149–155). Non-canon inspiration only.
