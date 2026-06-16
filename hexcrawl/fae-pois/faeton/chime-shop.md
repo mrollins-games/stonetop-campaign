@@ -2,7 +2,7 @@
 
 **Location:** Faeton (Building #2)  
 **Type:** Fae Shop  
-**Role:** Chime seller — magical keys and show-chimes
+**Role:** Chime seller — magical show-chimes
 
 ---
 
@@ -64,11 +64,7 @@ She examines offerings by holding them near a candle and watching the flame. If 
 
 ## What Chimes ARE
 
-Chimes function as **keys**. Fae doors, locks, wards, and sealed objects respond to the correct chime — material and resonant frequency must match. A gold-inlaid door needs a gold chime at the right pitch. A bone-sealed box needs a bone chime.
-
-Chimes are also **status objects**. Fae carry show-chimes that produce magical effects when rung — prestige, display, fashion. The weirder and more impressive the effect, the higher the status.
-
-**Matching chimes to locks:** Locked Fae objects are typically inlaid with decorations of the same material as their chime. Symbols on or around the object might indicate the resonant frequency — knowledge of Fae music helps decode this.
+Chimes are **status objects**. Fae carry show-chimes that produce magical effects when rung — prestige, display, fashion. The weirder and more impressive the effect, the higher the status.
 
 ---
 
@@ -187,8 +183,7 @@ Roll once on each column independently.
 
 - The "reveal three, reject forever" mechanic puts real tension in browsing — players should feel the weight of passing
 - Pearl is not threatening, not tricky — she's genuine. That's what makes her Fae: she means exactly what she says.
-- Chimes-as-keys gives PCs reasons to buy specific chimes AND to come back when they find a locked thing
-- If PCs find a locked Fae door/chest, note its material inlay — that's a hook back to Pearl
+- PCs may find creative uses for chime effects — reward that
 - Show-chimes are fun magical trinkets that don't break the game — most effects are situational and open to creative interpretation
 - The Fae-tricky wording on effects is intentional: let players figure out what their chime does through use
 - Source inspiration: *The Dark of Hot Springs Island*, "Random Elven Chimes" (pp. 149–155). Non-canon, heavily adapted.
