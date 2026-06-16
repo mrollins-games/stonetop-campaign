@@ -118,6 +118,6 @@ Above the Un-Well, high above, where the Faedom's canopy should close — there'
 - **Depth 1** should feel like set dressing. Don't push it. Let the players notice or not.
 - **Depth 2** should feel like finding a crime scene. The emotional hit comes from the trees being *someone*, not just something.
 - **Depth 3** should feel like walking into the enemy's base camp and realizing they're not hiding. They're not afraid of you. They're not even angry. They just want you to stop moving.
-- The corrupted Fae are not villains with plans — they're *converts* who believe stillness is peace. That's what makes them hard to fight. They think they're helping.
+- The corrupted Fae ARE villains. The Things Below's influence is evil — full stop. Once converted, they are lost. Don't soften this. They destroy, they corrupt, they drag others into the pools. Whatever they were before is gone.
 - The Un-Well is not the final threat. It's an outpost. There are more. The crack in the sky is the real problem — and that's a later session.
 - Pacing: these three encounters should be spread across **at least two sessions**, probably three. Don't rush the escalation.
