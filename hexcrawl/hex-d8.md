@@ -9,7 +9,7 @@
 
 ## Entry Description
 
-> The ground steepens sharply — a hillside choked with ancient exposed roots, gnarled and interlocking, black with rain. Beyond and below, the forest opens into massive old-growth trunks spaced wider apart. Game trails cut through the understory in every direction. This is hunting country — everyone in Stonetop knows it.
+> The ground steepens sharply — a hillside choked with ancient exposed roots, gnarled and interlocking, black with rain. 
 
 ---
 
