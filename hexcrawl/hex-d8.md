@@ -123,6 +123,33 @@
 
 ---
 
+## Random Loot Table — Under the Rooted Pass
+
+*Roll 2d6 when a PC falls, digs, or deliberately searches the root tangles beneath the Gnarled Pass. Defy Danger +DEX to retrieve without getting stuck or bitten.*
+
+**Value Rating:** 0 = flavor only | 1 = minor utility (1 use, small benefit) | 2 = solid gear or multi-use | 3 = arcana-tier or campaign-altering
+
+| 2d6 | Value | Find | Details |
+|-----|-------|------|---------|
+| **2** | ⭐⭐⭐ | **Forest Folk bone knife** | Carved from a great cat's femur, jade-flecked antler handle. *Hand, precise, +1 piercing.* Hums near the ley line — on a Hack & Slash 12+, the blade bites deeper (bonus d6 damage) against spirits or Fae-touched creatures. Wolfram or Gareth can sense its attunement. (*Minor arcana — requires Seek Insight to unlock full properties.*) |
+| **3** | ⭐⭐ | **Dilwen's emergency cache** | Filberta recognizes the oilskin wrapping. Inside: full snare kit (2 uses of Forage at advantage), 6 iron caltrops (area denial, d4 damage, slows pursuit), a vial of rendered fox musk (masks human scent — advantage on stealth vs. animals for one scene). |
+| **4** | ⭐⭐ | **Barbed grapple & silk rope (30 ft)** | Forest Folk make — antler hook with bronze-tipped barbs, braided spider-silk rope (impossibly light, won't rot). *2 weight, near/thrown.* Climbing with this negates Defy Danger on the Rooted Pass entirely. Reusable. |
+| **5** | ⭐⭐ | **Woodsman's hatchet (fine quality)** | Not rusted — wrapped in oiled hide, stashed deliberately. Balanced for throwing. *Close or near/thrown, +1 damage.* The edge holds unnaturally well (Forest Folk smithing). Can fell a hand-thick tree in 3 strokes. Worth 2 Trade if sold. |
+| **6** | ⭐⭐⭐ | **Sealed clay flask — Healer's Draft** | Stoppered with beeswax, Forest Folk glyph meaning "mend." Thick amber liquid. *Drink to heal 2d6 HP immediately, or pour on a wound to cure one debility (Weak, Shaky, or Sick).* Single use. Irreplaceable without finding the recipe. |
+| **7** | ⭐⭐⭐ | **Root-warden charm** | A fist-sized knot of living root grown around a carved face (Forest Folk spirit-work). Still warm. While carried, the root network in D8 and E7 treats you as *known* — roots shift to give footing, vines pull back. *Negates one "lost gear in root tangle" consequence per session. Advantage on Navigate and Forage in hexes D8/E7.* Wolfram senses it's a gift, not a binding. |
+| **8** | ⭐⭐ | **Waxed apothecary pouch** | Dried mallow, yarrow, and crushed willow bark — still potent. *3 uses: each use either heals 1d6 HP (poultice) or grants advantage on one Defy Danger vs. poison/disease.* Whoever packed this was a master herbalist. The pouch itself is waterproof and worth keeping. |
+| **9** | ⭐⭐⭐ | **Drakeskin buckler** | Layered feathered drake hide over bent-wood frame. *+1 Armor against one attack per encounter, then must be readied. 0 weight when slung.* Crest-feather edging rattles when drakes are within bowshot (passive early warning). Drake hide also resists fire — advantage on Defy Danger vs. flame while holding it. |
+| **10** | ⭐⭐ | **Copper arm-ring of Hiding** | Green with verdigris, Forest Folk oak-leaf pattern. When worn and pressed against skin with intent: *spirits and the dead cannot perceive you for one scene (1 use per day, recharges at dawn).* Wolfram's Spirit Tongue goes silent while active. Worth 3 Trade to a collector who doesn't know what it does. |
+| **11** | ⭐⭐ | **Glow-moss culture (living)** | A root-ball of bioluminescent moss, *still growing*. Blue-green light equivalent to a candle, indefinitely — as long as it stays damp. Can be split into 3 portions and attached to gear/walls. If planted in a dark camp, grows to cover a hand-span per week. Filberta knows this stuff — "Da used it to mark the trail home." |
+| **12** | ⭐⭐⭐ | **Ley-stone focus** | Smooth, thumb-sized pale crystal. Warm to the touch. Gareth's Azure Hand *flares*. While held, the Seeker can sense the ley line's direction and strength without rolling (automatic success on Navigate along the C9→Stonetop corridor). On a Seek Insight 10+ regarding energy: grants one additional question free. (*Seed for Forest Folk energy infrastructure at C9. Could be reunited with the cistern ward-glyphs to reactivate them — campaign-level potential.*) |
+
+### Retrieval Rules
+- **Repeated searches:** Each search after the first in the same visit is at **disadvantage** on Defy Danger (deeper, tighter, things nest down there).
+- **Miss consequence:** Find the loot *and* disturb a nest — d4 damage (venom/sting), Sick debility on a 1-2.
+- **Filberta:** Rolls retrieval with **advantage** always.
+
+---
+
 ## Image Gen Prompt
 
 ```
