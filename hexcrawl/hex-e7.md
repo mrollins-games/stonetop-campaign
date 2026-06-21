@@ -67,7 +67,7 @@ With the Forest Folk gone, the ley line still flows (it's ancient, pre-dates the
 - "You mentioned this to your father once — how the game is always good here, how the trees seem planted. He laughed. 'Don't overthink it, girl. Just be grateful.' But you were right."
 - If she pieces together the cultivation system, that's a Potential for Greatness moment — connecting to the Forest Folk legacy through the thing she does best.
 - Squirrel leads her to cached hazelnuts — free provisions (1-2 uses, no roll). "It digs at the base of a hazel, chattering. A cache — more than one squirrel could have buried."
-- **Childhood memory:** Dilwen left her here on trapping trips — "Wait here, I'll be back by sundown." She'd play with the squirrels, talk to them, follow them through the canopy. One day they weren't there. All of them, gone. She got bored, ventured further NE than she'd ever gone, and found The Cusp. That's where she met her fairy friend. That's where they made the fairy ring together (in F8, just beyond the boundary).
+- **Childhood memory:** Dilwen left her here on trapping trips — "Wait here, I'll be back by sundown." She'd play with the squirrels, talk to them, follow them through the canopy. One day they weren't there. All of them, gone. She got bored, ventured further NE than she'd ever gone, and found The Cusp. That's where she met Lark, her fairy friend. That's where they made the fairy ring together (in F8, just beyond the boundary).
 
 **Why Spirits Don't Manifest Here:**
 Danu's presence in the Food Nexus is total — the root network IS her, expressed through living wood rather than through individuated spirits. When a goddess already fills a place completely, lesser spirits have no gap to fill. Nothing needs intervention. Nothing is broken. The system is spiritually *complete.*
@@ -250,7 +250,7 @@ Dilwen has always wondered why this hex is "empty" of squirrels when he sets tra
 - Dilwen left her in E7 on trapping trips. She played with the squirrels.
 - One day, the squirrels were all gone (Dilwen was too close — the network dispersed from him).
 - Bored, she ventured further SE than she'd ever been and found The Cusp.
-- This is where she met her fairy friend for the first time.
+- This is where she met Lark, her fairy friend, for the first time.
 - Together they crossed into F8 and made the fairy ring (in F8, just beyond the boundary).
 - She's been back many times. This place is hers — childhood, wonder, secret friendship.
 

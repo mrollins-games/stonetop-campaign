@@ -140,6 +140,14 @@ You didn't understand it then. You still don't, really. But you made it home tha
 - You've never told anyone about that crossing. It felt private. Desperate. Not something you want to explain.
 - Townsfolk don't cross here. When they try, they don't make it — current pushes them back. You don't know why it let YOU through.
 
+### Lark (your fairy friend)
+
+*(This story is between you and the GM — Kari, tell me how you met Lark on the other side of The Cusp. What were they like? What did you do together that first day?)*
+
+### The fairy ring (F8)
+
+Together, you and Lark made a fairy ring on the other side — in the forest beyond The Cusp. You've been back many times. This is your secret place. Childhood. Wonder. A friendship no one in Stonetop knows about.
+
 ---
 
 ## The Offering (what hunters know)
